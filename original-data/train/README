@@ -1,0 +1,45 @@
+TAGGED GENE CORPUS:
+The gold standard has been tokenized and is named TAGGED_GENE_CORPUS.
+
+UNTAGGED GENE CORPUS:
+The input to gene/protein extraction programs can be either one of:
+
+*.in			MEDLINE sentences
+*.in.tok                MEDLINE sentences, tokenized
+
+TEST FILE FORMAT:
+The evaluation requires the output of the program to use Penn Treebank style tags. 
+
+Gene/Protein names should be indicated by "NEWGENE", using the tag "NEWGENE1" to differentiate overlapping names (see TAGGED_GENE_CORPUS). 
+
+IMPORTANT:
+The evaluation script (alt_eval.perl) requires that the Gold and Test files be tokenized in the same way.
+
+The compare.perl script can be run on a retokenized test file against the file TAGGED_GENE_CORPUS to check for anomalies prior to running alt_eval.perl. 
+
+EXAMPLE:
+perl compare.perl TAGGED_GENE_CORPUS examples/sentences.test.retok . 
+
+ORDER OF POST-PROCESSING:
+The post-processing of the output file should be done in this order:
+
+1) perl retok_testfile.perl <tagged program output file>
+2) perl getgenes.perl <*.retok>
+3) perl format_genes.perl <*.genes>
+
+EVALUATION:
+alt_eval allows for alternatives to the gene names in TAGGED_GENE_CORPUS (Correct.Data) to be counted as true positives.  However, if a receptor is specified, the gene name without "receptor" is not considered to be a valid alternative.  Likewise, if a synonym is given in the sentence which implies certain words are necessary to the gene name, they will be required in the alternatives.  For example, for "rabies immunoglobin (RIG)", "immunoglobin" alone will not be a valid alternative because RIG implies that "rabies" is part of the name in this context.   
+
+The evaluation is run using the following command:
+
+perl alt_eval.perl Gold.format Test.format Correct.Data > eval.out
+
+EXAMPLES:
+A set of example files is included:
+
+examples/sentences.test*	AbGene output files
+
+
+
+
+

@@ -1,0 +1,133 @@
+Task 1A Post Evaluation Notes
+
+-Alex Yeh
+
+====================================
+TOKENIZATION (WORD SEGMENATION).
+
+Please make sure that the tokenization in your evaluation submission
+EXACTLY matches the tokenization found in the "TOKENIZED_CORPUS"
+version of the evaluation data. 
+Otherwise, the scoring will be quite unpredicatable.
+
+The training data includes the following 4 files:
+
+1. "train.in" - the untokenized version
+
+2. "TAGGED_GENE_CORPUS" - a tokenized version with a set of answer tags
+
+3. "train.TOKENIZED_CORPUS"
+     - a tokenized version without the answer tags where the
+       tokenization matches the tokenization found in
+       "TAGGED_GENE_CORPUS"
+
+4. "train.in.tok"
+     - a tokenized version without the answer tags where the
+       tokenization does NOT match the tokenization found in
+       "TAGGED_GENE_CORPUS"
+
+In other words, 2 tokenized versions (with no answers) exist:
+a. "train.TOKENIZED_CORPUS", which matches the tokenization found in
+the provided answers, and
+b. "train.in.tok", which does NOT match the tokenization found in the
+provided answers.
+
+The development test data contains a similar set of 4 files.
+
+In case you do not know, a way to compare the tokenization of 2 files
+is to run "compare.perl", which is provided with the data. For
+example:
+
+{57}% perl compare.perl TAGGED_GENE_CORPUS train.TOKENIZED_CORPUS
+
+Files are comparable, no problems found.
+
+<<This indicates the tokenization in the 2 files match>>
+
+{58}% perl compare.perl TAGGED_GENE_CORPUS train.in.tok
+
+Line:1 Gold:gE Test:gE:gI
+Line:1 Gold:: Test:Fc
+Line:1 Gold:gI Test:receptor
+Line:1 Gold:Fc Test:complex
+...
+
+<<This gives locations where the tokenization in the 2 files do not
+match>>
+
+=====================================
+
+NEW CORRECT.DATA FILES for training and dev(lopment) test
+
+With these notes are newer versions of the "Correct.Data" file that came
+with the training and dev(lopment) test files.
+
+The versions of "Correct.Data" that came with the training and
+dev-test files were the versions used during the evaluation.
+
+These newer versions make some corrections to the versions of
+"Correct.Data" used during the evaluation. The names of these newer
+versions are:
+
+train.Correct.Data - new version for training
+test.Correct.Data - new version for dev(lopment) test
+
+======================================
+
+SCORING SCRIPT NOTES
+
+Use "compare.perl" to compare the tokenization (word
+segmentation). See above. 
+
+The scoring pipeline consists of the following 3 perl scripts:
+
+1. "getgenes.perl":
+     Input is a tokenized and tagged version of the text.
+     That is, your system's guess at what a "TAGGED_GENE_CORPUS" file
+     should look like.
+
+     WARNING: the input file name must end with "retok".
+              Otherwise, the input file will be overwritten!
+
+     WARNING: if the last token in a sentence has been tagged, the
+     entity associated with that tag is sometimes (but not always)
+     overlooked by the "getgenes.perl" script. If so, that entity will
+     NOT be seen by any of the scoring routines.
+     ONE FIX: pad the end of each sentence with an extra untagged
+     token before giving it to "getgenes.perl"     
+
+     Output is a file whose name matches the input file name
+     except that the "retok" at the end is replaced with "genes".
+
+2. "format_genes.perl"
+     Input file is an output of the "getgenes.perl" script.
+     Output is a file named "Test.format" that is put in the current
+     directory.
+
+3. "alt_eval.perl" - actually computes the score
+     Input, in order, is the following file names:
+       a. a gold standard file (example name "Gold.format")
+       b. output from the "format_genes.perl" script 
+          (example name "Test.format")
+       c. an allowed alternatives file (example name "Correct.Data")
+
+======================================
+
+"ROUND1" NOTES (NOTES on the EVALUATION TEST SET)
+
+The test set used in the evaluation is known as "round1".
+
+This test set has a small number of allowed alternatives that have no
+correponding correct answer.
+This was put in for a few borderline cases (items) so that if you 
+
+1. did not return the item, it did NOT count as a false negative
+2. did return the item, it did NOT count as a false positive and did
+   NOT count as a true positive
+
+The original sentence numbers in this data set were replaced with a
+new set of sentence numbers for the purposes of the evaluation.
+The new set of sentence numbers is what appears with the "round1"
+data.
+The file "orig-to-new-sentence-numbers2003-11-28-16-03" maps the
+original sentence numbers to the new sentence numbers.

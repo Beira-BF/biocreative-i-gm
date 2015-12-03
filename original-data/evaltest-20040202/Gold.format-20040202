@@ -1,0 +1,5949 @@
+@@10001|5 6|serum LH
+@@10002|35 35|CCACGTGG
+@@10003|25 26|IgA--Type Kappa
+@@10004|2 2|ACTH
+@@10004|19 20|salmon calcitonin
+@@10004|0 0|Beta-endorphin
+@@10005|25 26|GPT gene
+@@10007|28 32|human IL-4 cytokine gene cluster
+@@10009|15 15|UL1
+@@10009|19 19|UL3
+@@10009|22 24|UL3 . 5
+@@10009|17 17|UL2
+@@10011|0 0|Protease
+@@10014|53 56|monomeric Alu family repeat
+@@10014|64 66|Alu family repeat
+@@10014|38 39|Alu 3
+@@10014|33 36|dimeric Alu family repeat
+@@10014|6 9|monomeric Alu family repeat
+@@10014|23 29|alpha 2 gene-containing unit in rhesus macaque
+@@10015|0 1|Vertebrate synapsins
+@@10016|14 15|Sp1 site
+@@10019|0 0|Phd
+@@10020|0 2|Serotonin 5-HT2 receptor
+@@10023|0 0|Fibrin
+@@10029|5 6|"cellular NBP"
+@@10029|8 8|CNBP
+@@10034|11 15|Mad1 , 2 , 3
+@@10034|17 17|Bub1
+@@10034|19 19|Bub3
+@@10035|10 10|PPO
+@@10037|4 4|beta-catenin
+@@10037|1 1|Wnt
+@@10037|15 17|TCF-type transcription factors
+@@10037|6 6|plakoglobin
+@@10046|24 24|ERSE
+@@10046|19 22|ER stress response element
+@@10051|4 6|P protein mRNA
+@@10052|4 6|transcription factor CREB
+@@10053|15 16|5-HT3 receptor
+@@10054|10 10|CRE
+@@10054|13 15|somatostatin gene promoter
+@@10054|22 23|cAMP-responsive element
+@@10054|26 26|CREB
+@@10060|10 10|An3
+@@10060|1 1|ERH
+@@10062|18 18|COUP-TF
+@@10062|8 9|class I
+@@10062|23 23|NF-kappaB
+@@10066|17 17|MOB1
+@@10071|34 35|androgen receptors
+@@10071|23 23|aromatase
+@@10071|25 25|5alpha-reductase
+@@10075|21 23|CYC1-lacZ reporter gene
+@@10075|9 11|oligo31 / 32
+@@10076|12 12|RUNX1
+@@10076|17 17|E2A-HLF
+@@10076|8 9|Groucho-related protein
+@@10078|15 15|FGF-2
+@@10079|18 18|AP-2
+@@10079|3 3|AP-2alpha
+@@10079|14 15|R-FABP promoter
+@@10079|5 5|AP-2beta
+@@10080|5 7|gamma-glutamyl transpeptidase gene
+@@10081|16 18|levodopa / decarboxylase
+@@10081|5 8|levodopa / dopa decarboxylase
+@@10082|21 22|IgM kappa
+@@10082|24 25|IgM lambda
+@@10085|7 8|LIM domains
+@@10085|0 4|Human ESP1 / CRP2 protein
+@@10085|30 31|rat CRIP
+@@10085|27 27|CRP
+@@10085|23 25|human cysteine-rich protein
+@@10086|6 7|factor VIII
+@@10086|3 4|antihemophilic factor
+@@10086|17 18|Factor VIII
+@@10088|36 42|myocyte-specific enhancer-binding nuclear factor 1 binding site
+@@10091|3 5|ERV3 env mRNA
+@@10092|4 5|alpha-1 adrenoreceptor
+@@10095|3 3|GGGXGGAG
+@@10095|37 38|JCV sequence
+@@10097|7 10|U4 small nuclear RNA
+@@10098|5 5|CRE
+@@10098|21 24|Kv1 . 5 gene
+@@10098|1 3|cAMP response element
+@@10101|26 27|beta-casein promoter
+@@10101|4 5|deer receptor
+@@10104|5 6|TcR gene
+@@10104|0 1|Ig D-JH
+@@10104|22 23|Cmu transcripts
+@@10105|5 5|ARNO
+@@10105|16 16|ARF6
+@@10106|24 24|EGF
+@@10106|13 13|cyclooxygenase
+@@10106|22 22|TF
+@@10107|3 3|ACT1
+@@10107|10 10|NSR1
+@@10109|40 41|apo B
+@@10111|14 14|CBF
+@@10111|6 9|EIA-inducible CBF / cdc2
+@@10111|21 25|heat shock protein 70 promoter
+@@10112|4 5|mutant I299
+@@10114|4 6|MEF2 reporter gene
+@@10114|20 21|MEF2 site
+@@10117|16 16|MAO-B
+@@10117|24 24|MAO
+@@10117|4 9|monoamine oxidase ( MAO ) --A
+@@10118|0 2|IFI 16 mRNA
+@@10119|18 19|5-HT2 subtype
+@@10119|36 37|5-HT1 site
+@@10120|4 4|dentin
+@@10122|28 28|CrkL
+@@10122|16 16|RAFTK
+@@10122|3 3|Cas
+@@10122|10 14|related adhesion focal tyrosine kinase
+@@10122|1 1|HEF1
+@@10124|5 10|human and murine ornithine decarboxylase mRNAs
+@@10125|19 22|adeno-associated virus P5 promoter
+@@10125|38 40|ribosomal protein genes
+@@10125|15 16|UCR motif
+@@10125|4 4|UCRBP
+@@10125|27 31|immunoglobulin light- and heavy-chain genes
+@@10126|33 37|noncoding exon ( 1A )
+@@10126|41 46|97-bp noncoding exon ( 1B )
+@@10127|0 1|PACAP mRNA
+@@10127|14 14|PACAP
+@@10130|16 16|LMP1
+@@10130|7 7|TRADD
+@@10130|9 9|TRAF2
+@@10130|23 27|TNF receptor / CD40 family
+@@10130|11 11|JNK
+@@10131|4 6|platelet activating factor
+@@10132|2 2|Igf2
+@@10132|0 0|H19
+@@10132|20 20|H19
+@@10134|35 35|uhpT
+@@10134|16 17|glutathione S-transferase
+@@10134|12 12|GST-Bc
+@@10134|39 42|uhp ( + )
+@@10134|28 28|UhpB
+@@10134|19 19|GST
+@@10134|3 4|full-length UhpB
+@@10135|10 10|JBD
+@@10135|12 12|LMP1
+@@10135|33 33|JNK
+@@10135|39 39|LMP1
+@@10136|11 11|env
+@@10139|2 4|rat rnu allele
+@@10139|16 17|whn gene
+@@10140|38 39|BDZ receptor
+@@10143|1 4|p53 DNA-binding domain peptides
+@@10143|7 8|p53-response elements
+@@10146|8 8|polymerase
+@@10148|21 22|MyoD protein
+@@10148|31 32|bHLH factors
+@@10149|32 33|NF1-like proteins
+@@10149|19 19|CTF1
+@@10149|37 37|CAT
+@@10149|14 17|CCAAT transcription factor 1
+@@10149|21 22|/ NF1
+@@10149|8 10|alpha1-globin promoter-CAT construct
+@@10150|9 9|IL-2
+@@10150|3 3|DUB-2
+@@10151|8 10|bovine serum albumin
+@@10153|12 14|natural eIF-2B alpha
+@@10154|0 3|Drosophila Menin1 gene transcripts
+@@10157|21 22|p15 transcript
+@@10157|25 26|p15INK4B protein
+@@10157|36 37|cyclin D1-cdk
+@@10157|6 6|p15INK4B
+@@10157|8 8|TGF-beta
+@@10157|40 40|kinase
+@@10162|3 3|p21
+@@10162|16 16|NGF
+@@10163|12 12|mastin
+@@10163|1 2|tryptase locus
+@@10163|8 9|tryptase-like pseudogenes
+@@10164|27 29|serum alkaline phosphatase
+@@10164|0 0|Osteocalcin
+@@10166|12 12|pp60v-src
+@@10167|10 11|immunoglobulin E
+@@10168|43 43|PrpE
+@@10168|30 30|PrpD
+@@10168|19 19|PrpC
+@@10168|4 8|carboxyphosphonoenolpyruvate phosphonomutase of Streptomyces hygroscopicus
+@@10168|0 0|PrpB
+@@10168|47 50|acetyl coenzyme A synthetases
+@@10168|24 28|archaeal and bacterial citrate synthases
+@@10169|14 14|Sec7p
+@@10169|3 3|hARF4
+@@10174|9 9|sum1+
+@@10175|18 19|aphII promoter
+@@10175|4 4|lipA
+@@10176|3 4|gstC' mutants
+@@10176|22 23|L protein
+@@10176|12 12|C'
+@@10177|11 11|TRAF
+@@10177|16 17|JAK molecules
+@@10177|13 13|TRADD
+@@10177|0 0|LMP-1
+@@10177|29 29|CD40
+@@10179|3 4|IRA2 gene
+@@10179|35 36|cdc25 mutant
+@@10181|27 28|CIITA mRNA
+@@10181|22 22|RB
+@@10181|0 1|CIITA mRNA
+@@10181|6 6|IFN-gamma
+@@10182|0 0|MutY
+@@10182|3 4|adenine-DNA glycosylase
+@@10184|16 17|histone deacetylase
+@@10185|0 0|NF-kappaB
+@@10186|11 13|U3 snRNA genes
+@@10187|21 23|MAPK / PI3K
+@@10187|13 14|EGF receptor
+@@10187|8 8|IL-6
+@@10188|13 14|alpha interferon
+@@10190|16 16|porCa
+@@10190|12 13|porin gene
+@@10192|4 4|EBNA2
+@@10193|14 14|laminin
+@@10193|10 12|type IV collagen
+@@10194|11 11|bZip
+@@10194|3 6|C / EBP family
+@@10194|8 9|basic-leucine zipper
+@@10196|8 13|M RNA product of Uukuniemi virus
+@@10198|26 28|Src-like tyrosine kinase
+@@10199|15 17|Mu B protein
+@@10201|9 9|IL-1
+@@10201|16 16|TNF
+@@10201|12 14|tumour necrosis factor-alpha
+@@10201|6 7|interleukin-1 beta
+@@10202|0 0|SM
+@@10202|14 15|CRM 1
+@@10202|26 29|nucleoporin CAN / Nup214
+@@10202|21 23|small GTPase Ran
+@@10203|22 25|SU ( S )
+@@10206|8 9|carA product
+@@10208|15 15|DAKAP200
+@@10208|8 13|Drosophila A kinase anchor protein 200
+@@10208|2 6|Drosophila A kinase anchor protein
+@@10211|2 3|human RACK1
+@@10212|18 19|cdk6-specific inhibitor
+@@10212|20 23|p16 ( INK4A )
+@@10212|0 0|D-cyclin-cdk
+@@10212|5 5|Rb
+@@10213|1 3|yeast SSS1 gene
+@@10214|10 11|alpha 1-antitrypsin
+@@10214|2 4|complement factor C3c
+@@10215|2 4|CDP / cut
+@@10215|18 19|OC promoter
+@@10215|28 30|OC box I
+@@10217|12 13|AP-2 element
+@@10220|18 19|monoclonal immunoglobulin
+@@10223|6 8|AP-1 like sequence
+@@10223|31 35|-310 / -298 , TTAAAAATAAAAA
+@@10223|10 14|-294 / -285 , TGAATCATCA
+@@10223|21 29|myocyte enhancer factor ( MEF ) -2 like sequence
+@@10223|45 45|OP-1
+@@10226|20 20|Clb
+@@10226|22 23|cyclin subunit
+@@10227|25 25|c-fos
+@@10227|14 15|PAI-1 gene
+@@10227|4 4|c-Jun
+@@10227|23 23|c-jun
+@@10227|6 6|c-Fos
+@@10227|33 33|PAI-1
+@@10228|39 39|11-beta-hydroxylase
+@@10228|14 14|AVP
+@@10228|10 10|ACTH
+@@10228|22 22|CRF
+@@10228|18 20|corticotropin releasing factor
+@@10228|12 12|vasopressin
+@@10235|17 17|LTR
+@@10235|2 4|E6 / E7
+@@10235|10 13|SV40 enhancer / promoter
+@@10235|38 39|E7 gene
+@@10236|11 11|PR-A
+@@10240|34 36|GATA-1 consensus sequence
+@@10240|1 2|DNase I
+@@10243|0 1|Extracellular-regulated kinase
+@@10243|22 22|Crk
+@@10243|13 15|p130 Crk-associated substrate
+@@10243|40 40|collagen
+@@10243|17 17|CAS
+@@10243|20 20|c-CrkII
+@@10243|3 3|ERK
+@@10244|20 20|JNK
+@@10244|18 18|p38
+@@10244|31 34|cellular transcription factor ATF2
+@@10244|11 16|mitogen-activated protein ( MAP ) kinases
+@@10250|15 22|human splicing factor 2 / alternative splicing factor
+@@10250|24 26|SF2 / ASF
+@@10250|6 7|topoisomerase I
+@@10251|18 20|Rsp5 WW domain
+@@10251|22 23|Rsp5 WW2
+@@10254|15 16|NQO2 gene
+@@10254|6 6|NQO2
+@@10254|8 9|NQO1 gene
+@@10254|24 26|NQO gene family
+@@10263|14 15|Raf kinases
+@@10266|1 2|FL protein
+@@10268|27 27|mutC
+@@10268|25 25|mutA
+@@10270|4 6|cysteine synthase cDNA
+@@10271|7 7|Mad2p
+@@10271|16 16|Mad1p
+@@10275|15 17|type IV PDE
+@@10280|20 26|human EFIA / DbpB / YB-1 family
+@@10280|32 32|DbpB
+@@10280|15 15|EFIA
+@@10280|3 3|EFIA#1
+@@10280|28 30|DNA-binding protein B
+@@10281|1 2|STE20 gene
+@@10281|29 30|G beta
+@@10281|6 7|protein kinase
+@@10284|13 16|C / EBP beta
+@@10284|6 11|CCAAT / enhancer binding protein beta
+@@10286|12 12|SHIP
+@@10286|16 17|p85 subunit
+@@10286|8 8|Grb2
+@@10286|3 5|pTyr317 Shc phosphopeptide
+@@10286|19 21|phosphatidylinositol 3' kinase
+@@10286|10 10|Sos1
+@@10287|15 18|Bacillus subtilis trpEDCFBA operon
+@@10288|40 44|E . coli RNase H
+@@10288|48 49|Pol I
+@@10288|20 21|RNase H
+@@10288|16 18|retroviral ribonuclease H
+@@10288|63 64|RNase H
+@@10289|2 3|CDK-activating kinase
+@@10289|5 7|RNA polymerase II
+@@10289|10 12|TFIIH / TFIIK
+@@10289|8 9|CTD kinase
+@@10294|9 9|SHIP2
+@@10294|3 7|rat SH2-containing inositol phosphatase 2
+@@10294|18 18|insulin
+@@10295|5 6|PTP-like domain
+@@10299|11 12|hnRNP A2
+@@10299|20 20|A2RE-2
+@@10302|6 6|Nlk
+@@10302|18 18|nmo
+@@10302|11 16|murine homolog of the Drosophila nemo
+@@10303|4 4|c-jun
+@@10303|9 11|UV response elements
+@@10303|14 15|AP-1-like sequences
+@@10304|3 3|TCR
+@@10304|6 6|AP-1
+@@10304|14 15|fasl promoter
+@@10304|22 22|NF-kappaB
+@@10305|22 23|DER mutant
+@@10306|1 2|acfD gene
+@@10307|5 8|GAL7 5' flanking region
+@@10309|7 10|tscA-lacking photosystem I mutant
+@@10311|17 18|PTK family
+@@10311|4 4|brk
+@@10317|23 23|HNF-1
+@@10317|18 21|hepatocyte nuclear factor 1
+@@10318|14 15|MLC-2 gene
+@@10319|0 1|Horseradish peroxidase
+@@10321|17 17|polymerase
+@@10321|7 11|human TCRAC / TCRDC region
+@@10321|29 31|TCRAJ gene segments
+@@10325|19 19|VP1
+@@10325|8 9|P1 precursor
+@@10325|21 21|VP1-G001V
+@@10329|5 5|alpha-amylase
+@@10333|17 17|SSM1b
+@@10333|12 13|SSM1a transcripts
+@@10333|25 25|Ssm1p
+@@10333|4 5|SSM1b transcripts
+@@10335|15 15|R1
+@@10335|17 17|R2
+@@10335|4 4|KS1
+@@10337|8 9|AtCP1 gene
+@@10338|33 33|TGACGGCA
+@@10338|15 16|"TGACGTCA" consensus
+@@10338|1 1|TxRE
+@@10338|3 5|cyclic AMP-responsive elements
+@@10338|35 35|TGACCTCA
+@@10338|7 7|CRE
+@@10342|29 29|nrdF
+@@10342|27 27|nrdE
+@@10342|12 13|nrdE cistron
+@@10343|32 39|rat gamma-aminobutyric acid B ( GABAB ) receptor
+@@10344|1 2|FinO protein
+@@10344|14 15|traJ mRNA
+@@10344|7 9|FinP antisense RNA
+@@10353|6 6|proteases
+@@10353|12 13|human pro-LPH
+@@10356|1 4|Klebsiella aerogenes gene maoA
+@@10356|13 14|monoamine oxidase
+@@10357|17 17|SNF6
+@@10357|27 28|lexA operators
+@@10357|14 14|SNF5
+@@10357|12 12|SNF2
+@@10357|3 3|LexA-GAL4
+@@10357|5 7|LexA-Bicoid fusion proteins
+@@10358|5 6|endothelin receptor
+@@10360|28 30|RNase MRP RNA
+@@10360|8 9|RNA subunits
+@@10360|25 25|P3
+@@10360|23 23|MRP3
+@@10360|32 38|RNase P RNA of S . cerevisiae
+@@10363|13 13|Oct-1
+@@10364|6 7|germin-like proteins
+@@10364|4 4|germins
+@@10364|18 18|germin
+@@10364|12 12|GLP
+@@10366|3 4|T2 gene
+@@10366|39 41|human T1 gene
+@@10366|12 15|mammalian transcription factor SP1
+@@10369|17 17|IIO
+@@10369|9 9|IIA
+@@10369|4 6|RNA polymerase II
+@@10371|10 14|PSI-K sequence from Synechococcus vulcanus
+@@10371|6 6|PSI-G
+@@10371|3 4|barley PSI-K
+@@10376|25 26|Golgi sialyltransferases
+@@10378|8 10|MADS box family
+@@10378|1 2|Rlm1 protein
+@@10378|18 18|Mpk1
+@@10380|15 15|ERK2
+@@10380|22 22|Stat3
+@@10380|4 4|MEK1
+@@10380|10 10|ERKs
+@@10380|19 19|JNK1
+@@10381|23 23|AP-1-luciferase
+@@10381|10 10|PKCzeta
+@@10381|15 15|AP-1
+@@10382|0 1|Serum amylase
+@@10384|0 1|Restriction enzyme
+@@10384|12 13|src sequences
+@@10385|12 13|wt p53
+@@10389|14 15|beta-galactosidase tetramer
+@@10390|19 22|hepatitis B surface antigen
+@@10393|21 22|antithrombin III
+@@10393|24 25|AT III
+@@10394|10 11|Aflatoxin B1
+@@10396|3 5|myocardial beta-adrenergic receptor
+@@10397|0 0|ArgR
+@@10398|1 6|transcription factor CHOP / GADD153 gene
+@@10399|11 11|ERK
+@@10399|7 9|extra-cellular regulated kinase
+@@10399|0 0|Ha-RasV12
+@@10399|15 17|stress-activated protein kinase
+@@10399|19 19|SAPK
+@@10399|22 24|Jun N-terminal kinase
+@@10399|26 26|JNK
+@@10400|27 27|amylase
+@@10401|5 6|PCNA gene
+@@10401|13 13|E2F
+@@10402|3 3|NS1
+@@10403|11 13|cysteine synthase C
+@@10404|5 5|E6
+@@10404|10 13|p53 tumor suppressor protein
+@@10405|12 12|CD79b
+@@10410|6 7|CSF prolactin
+@@10412|4 4|eIF-4A
+@@10415|17 17|dhfr
+@@10415|4 5|S1 nuclease
+@@10419|6 6|SSB-ssDNA
+@@10419|4 5|phi 29
+@@10420|12 13|ras oncogene
+@@10420|17 17|TGFbeta1
+@@10423|12 13|Rex-1 gene
+@@10426|17 17|APC
+@@10426|13 13|p53
+@@10426|24 26|WAF1 / CIP1
+@@10426|21 21|BRCA1
+@@10426|15 15|DCC
+@@10426|19 19|MCC
+@@10427|7 10|wee1 / mik1-deficient mutant
+@@10429|21 23|myb oncogene family
+@@10431|15 16|HLA locus
+@@10431|1 3|transcription factor AP-2
+@@10434|14 14|prothrombin
+@@10435|4 7|Janus protein tyrosine kinases
+@@10435|9 9|Jaks
+@@10435|19 19|Stats
+@@10435|12 17|signal transducers and activators of transcription
+@@10435|1 2|cytokine receptors
+@@10436|8 12|alpha and beta actin mRNAs
+@@10438|0 0|Kss1
+@@10438|5 5|GST-Dig1
+@@10440|6 8|transforming growth factor-beta
+@@10440|13 16|gene Mix . 2
+@@10440|29 29|ARF
+@@10440|10 10|activin
+@@10440|26 27|activin-responsive factor
+@@10441|9 10|CAD mRNA
+@@10448|11 12|mid1 mutant
+@@10448|4 8|yam8 ( + ) cDNA
+@@10450|7 7|myeloperoxidase
+@@10453|4 5|VNTR sequences
+@@10454|17 18|SR family
+@@10454|10 10|SC35
+@@10454|0 0|Sip1
+@@10455|4 4|GnRH
+@@10456|17 17|GST-Src-SH2
+@@10456|7 8|Src-SH2 domain
+@@10456|11 11|PECAM-1
+@@10457|10 10|PKR
+@@10457|4 8|RNA-dependent eIF-2 alpha protein kinase
+@@10458|0 3|Basic fibroblast growth factor
+@@10458|5 5|bFGF
+@@10461|12 16|yeast triose phosphate isomerase promoter
+@@10462|0 0|LDL
+@@10462|40 41|apo B
+@@10463|12 12|thromboplastin
+@@10464|3 3|Vpu
+@@10470|33 34|gastrointestinal lipase
+@@10471|10 12|yeast Ty1 element
+@@10471|30 30|PPT1
+@@10471|46 46|PPT2
+@@10471|42 44|integrase coding sequence
+@@10471|38 39|pol gene
+@@10475|5 6|TK gene
+@@10476|13 13|relaxase
+@@10476|15 15|TraI
+@@10478|16 17|HMR locus
+@@10480|27 27|Protein
+@@10480|20 25|two-domain prokaryotic betagamma-crystallin fold family member
+@@10481|1 2|hTERT gene
+@@10482|24 27|yeast CYC-GAL hybrid promoters
+@@10482|31 31|lacZ
+@@10482|19 19|tsf6
+@@10482|10 11|TSF genes
+@@10482|17 17|tsf1
+@@10483|43 44|RII alpha
+@@10483|52 53|RI alpha
+@@10483|35 36|RII beta
+@@10487|8 8|RP
+@@10487|12 13|20S proteasome
+@@10487|26 28|plant RPT subunits
+@@10488|43 43|AP-1
+@@10488|41 41|Egr-1
+@@10488|38 39|NF-kappa B
+@@10488|8 9|CD69 gene
+@@10492|4 6|von Willebrand factor
+@@10492|23 24|vWF multimers
+@@10492|8 8|vWF
+@@10494|4 6|bZIP protein Opaque2
+@@10494|26 26|zein
+@@10494|8 8|O2
+@@10494|21 22|O2 box
+@@10496|6 6|U3
+@@10497|6 6|insulin
+@@10497|0 1|Serum ACTH
+@@10498|5 5|N-SMase
+@@10500|39 40|rep3 gene
+@@10504|4 5|helicase motif
+@@10504|8 10|nsP3 homology region
+@@10505|12 14|potexvirus RNA replicases
+@@10507|5 5|MyoD
+@@10507|22 24|peptide growth factors
+@@10507|3 3|Myf-5
+@@10508|27 27|CRBPIIp
+@@10508|7 9|TR2 orphan receptor
+@@10508|24 25|RARE beta
+@@10510|7 7|C1F
+@@10511|7 7|beta-adrenoceptor
+@@10512|25 25|Npl3p
+@@10514|8 8|CAT
+@@10514|24 24|PTB
+@@10516|10 15|G protein alpha subunit from tomato
+@@10517|1 9|12 , 000 MW ( 12K ) IE polypeptide
+@@10517|12 12|IEmRNA-5
+@@10518|4 6|RNA-dependent RNA polymerases
+@@10519|10 11|Dd ras
+@@10521|15 18|C / EBP-binding site
+@@10525|14 14|collagen
+@@10527|0 4|PhoP-PhoQ homologues in Pseudomonas aeruginosa
+@@10527|9 11|outer-membrane protein OprH
+@@10528|14 16|HPV-6 E1 promoter
+@@10528|3 3|YY1
+@@10528|5 5|CDP
+@@10529|5 6|Rad51 protein
+@@10529|12 12|RPA
+@@10530|0 0|Htra2-beta3
+@@10535|5 5|Hb
+@@10535|2 2|haemoglobin
+@@10536|23 23|cdc20-1
+@@10536|7 7|CDC4
+@@10536|11 11|cdc4-11
+@@10536|9 9|cdc4-10
+@@10536|14 14|cdc4-16
+@@10537|16 16|GAP-43
+@@10537|34 35|E-box-binding proteins
+@@10537|10 11|E1 E-box
+@@10537|29 30|GAP-43 gene
+@@10538|4 5|AC element
+@@10538|21 21|AC
+@@10540|2 2|immunoglobulin
+@@10542|31 32|caiman genes
+@@10544|31 36|Ras / Raf / MAPK pathway
+@@10544|3 6|p56 ( lck )
+@@10545|8 10|human chorionic gonadotropin
+@@10547|7 7|HiNF-D
+@@10549|10 12|ORF 62 gene
+@@10549|1 3|ORF 4 gene
+@@10552|20 21|clcA transcript
+@@10553|3 3|UNC-49B
+@@10553|5 6|UNC-49C subunits
+@@10555|21 23|MAPK family members
+@@10555|18 18|MAPK
+@@10555|19 19|p42
+@@10555|16 16|p44
+@@10555|15 15|MAPK
+@@10556|6 7|CD11c promoter
+@@10556|0 0|Sp1
+@@10556|17 17|AP1
+@@10557|8 11|human thymidine kinase promoter
+@@10557|3 5|E2F recognition sequences
+@@10558|30 36|vascular smooth muscle cell AT1a receptor cDNAs
+@@10559|12 12|AP-4
+@@10559|14 14|MLTF
+@@10559|20 21|CACCTGTC motif
+@@10560|7 9|Abl SH3 domain
+@@10563|1 5|p53 tumor suppressor gene product
+@@10565|12 13|Srs2 helicase
+@@10565|4 6|yeast Rad51 protein
+@@10566|4 5|mini-Mu elements
+@@10567|15 15|alphaCbf
+@@10567|13 13|Sp1
+@@10567|18 21|60-kDa CCAAT box-binding protein
+@@10570|19 20|botulinum toxin
+@@10571|23 24|pilin gene
+@@10573|12 15|yeast DNA polymerase alpha
+@@10575|1 2|IPL1 gene
+@@10580|0 6|Neuron-specific Bcl-2 homology 3 domain-only splice variant
+@@10580|8 8|Bak
+@@10582|8 11|Escherichia coli spc operon
+@@10582|2 2|lacZ
+@@10582|17 19|W205 trp-lac fusion
+@@10583|1 1|LH
+@@10583|8 10|LH / FSH
+@@10584|24 24|UCP2
+@@10585|4 6|epidermal growth factor
+@@10585|22 23|Nck protein
+@@10585|8 10|platelet-derived growth factor
+@@10586|11 13|human CD79 alpha
+@@10586|22 24|mouse CD79 alpha
+@@10587|10 13|mouse homologue of MPP3
+@@10589|16 17|HSP70 gene
+@@10589|6 6|JNK1
+@@10589|11 11|JNK1
+@@10590|30 33|M2Ach-muscarinic and alpha2A-adrenergic receptors
+@@10590|22 28|G ( i / o ) proteins
+@@10591|15 17|GHR 1A mRNA
+@@10591|29 30|GHR gene
+@@10592|10 12|protein kinase A
+@@10592|0 3|Cardiac myosin-binding protein C
+@@10592|5 5|MyBP-C
+@@10592|14 16|protein kinase C
+@@10595|20 20|MLL-LTG19
+@@10595|10 12|chimeric MLL products
+@@10595|18 18|MLL-LTG9
+@@10597|3 7|CTS1 and CTS2 of Ci
+@@10597|15 16|fungal chitinases
+@@10598|9 9|HMT1
+@@10598|5 7|yeast hnRNP methyltransferase
+@@10601|0 0|Telomerase
+@@10603|1 6|gp330 / Megalin / LRP-2 protein
+@@10603|10 14|low-density lipoprotein receptor gene family
+@@10604|7 9|dominant negative Raf-1
+@@10604|30 30|V12Ha-Ras
+@@10604|21 21|TGF-beta1
+@@10604|4 5|antisense Ha-Ras
+@@10604|15 15|TGF-beta1
+@@10605|10 10|EBNA2
+@@10605|3 3|RPMS
+@@10605|19 21|CBF1-associated corepressor complex
+@@10605|12 12|Notch
+@@10606|15 15|NS53
+@@10606|6 8|gene 5 product
+@@10608|27 27|SHP-2
+@@10608|25 25|SHP-1
+@@10608|19 23|cytoplasmic Src homology 2-domain-containing phosphatases
+@@10608|11 16|wild-type chimeric Fc gamma RIIB1-PECAM-1 receptor
+@@10608|42 43|BCR complex
+@@10616|11 11|p53
+@@10616|2 3|phosphatidylinositol-3 kinase
+@@10617|10 14|muscarinic and alpha 1 adrenoceptors
+@@10618|9 9|E1A
+@@10618|36 36|CtBP1
+@@10618|31 31|E1A
+@@10618|34 34|AP-2rep
+@@10618|26 27|AP-2alpha promoter
+@@10618|15 16|AP-2alpha gene
+@@10621|16 19|L ( alpha )
+@@10624|35 35|TNF-alpha
+@@10624|22 22|IL-6
+@@10624|20 20|CRP
+@@10624|33 33|fibrinogen
+@@10625|23 23|pp60v-src
+@@10625|27 28|uPA mRNA
+@@10625|9 10|uPA gene
+@@10625|50 51|uPA mRNA
+@@10626|17 18|CyIIa gene
+@@10627|31 34|MYB-like DNA binding proteins
+@@10627|25 28|barley gibberellin responsive element
+@@10628|0 2|Tissue plasminogen activator
+@@10633|1 2|cryptococcal antigen
+@@10634|12 12|CLN1
+@@10634|2 2|POG1
+@@10634|14 15|CLN2 genes
+@@10635|3 3|NSE
+@@10635|5 5|MBP
+@@10640|1 2|lacS gene
+@@10640|18 18|lacS
+@@10642|27 27|BiP
+@@10642|22 22|Ssa
+@@10642|8 10|Ssb1 / 2p
+@@10642|29 29|DnaK
+@@10642|23 24|Hsp70 proteins
+@@10644|9 10|CHIP28 protein
+@@10645|15 15|C3b
+@@10645|30 30|MCP
+@@10645|10 12|factor I cofactor
+@@10645|0 2|Recombinant soluble pMCP
+@@10649|4 5|E1A region
+@@10651|3 5|anticardiolipin immunoglobulin G
+@@10652|21 21|USF
+@@10652|28 30|human insulin promoter
+@@10652|17 19|upstream stimulatory factor
+@@10653|8 11|chicken glutamine synthetase gene
+@@10654|12 12|ATG2
+@@10654|8 8|ATG1
+@@10655|37 37|m-Stat5a
+@@10655|39 39|m-Stat5b
+@@10655|28 28|m-Stat5adelta749
+@@10655|21 21|m-Stat5b
+@@10655|5 5|SHP-2
+@@10655|19 19|m-Stat5a
+@@10659|11 14|BTB / POZ domain
+@@10659|16 16|PLZF
+@@10659|18 20|PLZF-BTB / POZ
+@@10660|13 13|N-CoR
+@@10660|29 29|RAR
+@@10660|18 20|thyroid hormone receptor
+@@10660|9 11|orphan receptor RevErb
+@@10660|22 22|TR
+@@10660|25 27|retinoic acid receptor
+@@10661|6 7|CGGAAR motifs
+@@10661|10 11|ICP4 promoter
+@@10661|16 19|GABP alpha and beta
+@@10662|12 12|PKC-alpha
+@@10662|3 3|SRE
+@@10662|14 14|PKC-epsilon
+@@10663|22 24|rat Met-ase-1 gene
+@@10663|6 8|mouse Met-ase-1 gene
+@@10664|0 0|Pol32Delta
+@@10665|40 47|3-hydroxy-3-methylglutaryl coenzyme A ( HMG CoA ) synthase
+@@10665|20 20|SREBP
+@@10666|0 1|Mammalian M-Ras
+@@10666|31 31|p21
+@@10666|32 32|Ras
+@@10667|3 3|FSH
+@@10667|12 12|gonadotrophin
+@@10668|20 20|r3
+@@10668|22 22|r5
+@@10668|3 3|Krox-20
+@@10669|4 6|epidermal growth factor
+@@10669|15 16|Shc proteins
+@@10669|1 2|erbB proteins
+@@10669|8 8|EGF
+@@10669|34 35|ERK MAPK
+@@10669|24 25|ERK MAPK
+@@10671|4 4|PTPs
+@@10671|0 2|Protein tyrosine phosphatases
+@@10671|13 13|PTKs
+@@10671|9 11|protein tyrosine kinases
+@@10675|8 9|apobec1 sequences
+@@10675|26 26|apobec1
+@@10676|20 20|CEHARP
+@@10676|7 9|Mharp / Smarcal1
+@@10677|26 26|ERRalpha1
+@@10677|0 0|PNRC
+@@10677|17 18|orphan receptors
+@@10677|28 31|estrogen related receptor alpha-1
+@@10677|19 19|SF1
+@@10677|21 23|steroidogenic factor 1
+@@10678|4 8|sterol regulatory element binding protein
+@@10678|12 16|3-hydroxy-3-methylglutaryl coenzyme A reductase gene
+@@10679|36 36|Mos
+@@10679|3 3|c-Fos
+@@10679|6 8|c-fos protooncogene product
+@@10681|13 13|interferon
+@@10682|25 26|wild-type Stat3
+@@10682|7 7|Stat3
+@@10682|34 34|Jak2
+@@10682|30 31|Janus kinases
+@@10682|4 4|IL-6
+@@10682|32 32|Jak1
+@@10682|2 2|ERKs
+@@10682|37 37|Stat3
+@@10682|0 0|MEKs
+@@10683|30 34|GHR cytoplasmic domain residues 485-620
+@@10683|22 22|SHP-1
+@@10683|26 28|glutathione S-transferase fusion
+@@10683|18 18|SHP-2
+@@10683|13 13|SHP-2
+@@10683|11 11|SHP-1
+@@10684|4 4|protease
+@@10685|5 6|STAT1 alpha
+@@10685|19 20|STAT1 alpha
+@@10685|1 1|IL-2
+@@10685|3 3|IFN-alpha
+@@10685|13 13|STAT5
+@@10685|8 8|STAT5
+@@10685|16 16|IFN-alpha
+@@10685|10 10|IL-2
+@@10686|26 26|auxilin
+@@10686|36 37|heat-shock proteins
+@@10686|1 2|swa2-1 allele
+@@10687|1 2|CDC7 gene
+@@10689|22 25|Ig kappa E2 E-box
+@@10689|8 9|TnI enhancers
+@@10689|15 18|MCK left E-box site
+@@10692|4 8|wild-type and mutant EpRE sequences
+@@10694|3 3|GLUT4
+@@10694|11 12|tyrosine kinase
+@@10695|5 5|PC4
+@@10695|3 3|PACE4
+@@10698|6 6|sid1
+@@10699|10 10|HSP60
+@@10699|6 9|Zea mays mitochondrial chaperonin
+@@10701|19 19|actin
+@@10701|13 16|p21-activated protein kinase 1
+@@10702|4 6|recombinant single-chain Fv
+@@10702|8 9|Fv fragments
+@@10703|15 15|ANP
+@@10703|1 1|ANP
+@@10705|16 17|apo A-I
+@@10707|34 36|serum C-reactive protein
+@@10707|38 38|CRP
+@@10712|8 11|gene encoding human K14
+@@10713|2 2|renin
+@@10715|1 4|eight- or nine-residue D-peptides
+@@10716|26 28|HPRT exon 3
+@@10717|9 13|gramicidin S synthetase 2 gene
+@@10718|8 8|phosphatase
+@@10718|10 10|MKP-1
+@@10718|2 3|MAP kinases
+@@10721|1 1|thyroglobulin
+@@10723|12 12|Sp1
+@@10723|25 26|Sp1 protein
+@@10723|9 9|GATA-1
+@@10724|12 14|estrogen response elements
+@@10724|0 4|Estrogen receptor-related receptor alpha 1
+@@10724|17 19|human lactoferrin gene
+@@10725|16 18|AaEcR . AaUSP
+@@10725|21 21|IRhsp-1
+@@10725|39 39|IRper-0
+@@10725|11 11|IRper-1
+@@10725|41 41|IRper-5
+@@10725|7 9|consensus sequence AGGTCA
+@@10728|29 34|minus myc ( H-P ) 21
+@@10728|26 26|ACT-ATT
+@@10728|46 52|A / TCTA / TA / TT
+@@10728|16 24|TCTTAT ( plus myc ( H-P ) 21 )
+@@10728|11 11|GST
+@@10728|0 0|MSSP-1
+@@10729|28 28|ZIS-1
+@@10729|16 16|ZIS-1
+@@10729|12 12|ZIS-2
+@@10732|2 4|sigma54-dependent DmpR activator
+@@10732|9 10|dmp operon
+@@10733|7 7|HNF1alpha
+@@10733|11 11|HNF4
+@@10733|20 21|G6Pase gene
+@@10735|18 18|ANP
+@@10736|15 15|SMF1
+@@10736|17 17|SMF2
+@@10737|6 8|U16+ gene products
+@@10737|1 3|U17 / U16
+@@10737|11 12|HIV LTR
+@@10738|12 12|interleukin-6
+@@10738|14 14|IL-6
+@@10739|0 2|NKX2 . 1
+@@10739|8 9|NK2 family
+@@10742|9 10|serine carboxypeptidases
+@@10743|22 23|Inr element
+@@10743|7 8|IL-6 construct
+@@10743|28 29|MRE region
+@@10743|11 13|IL-6 TATA box
+@@10743|39 40|wild-type GR
+@@10744|10 10|polymerase
+@@10745|12 15|chromosomal pilE insertion mutants
+@@10745|3 3|PilE
+@@10746|15 15|ERbeta
+@@10746|13 13|ERalpha
+@@10747|9 9|Rad1
+@@10747|14 14|Rad9
+@@10747|11 11|Hus1
+@@10750|8 9|dopamine receptor
+@@10752|25 26|G0S30 cDNA
+@@10752|12 13|G0S19 genes
+@@10753|6 7|ICR2 motif
+@@10755|4 4|curli
+@@10755|19 19|thin
+@@10755|13 13|SEF-17
+@@10758|5 6|sodium-potassium-activated ATPase
+@@10759|29 39|murine class II major histocompatibility complex A alpha gene X box
+@@10759|13 15|murine protein mXBP
+@@10759|49 51|class II genes
+@@10760|9 9|RNK-Met-1
+@@10760|6 7|serine protease
+@@10761|1 1|fibrinogen
+@@10764|2 10|Sl ( pan ) / Sl ( pan )
+@@10764|29 29|KL
+@@10764|39 39|c-kit
+@@10765|2 2|c-myb
+@@10766|2 2|AVP
+@@10766|5 5|AVP
+@@10766|15 15|NPY
+@@10768|6 6|YY1
+@@10768|23 24|-67 CRE
+@@10768|16 19|ATF / CREB proteins
+@@10768|11 11|c-fos
+@@10768|4 4|E1A243
+@@10769|4 4|Ssm1p
+@@10769|15 17|60S ribosomal subunit
+@@10772|9 10|gene agrB
+@@10775|7 9|tyrosine kinase receptor
+@@10776|36 38|luciferase reporter gene
+@@10776|16 20|mouse B-myb 5' flanking sequence
+@@10778|19 20|v-src mutants
+@@10780|43 47|IL-2 promoter-chloramphenicol acetyltransferase reporter constructs
+@@10780|20 21|IL-2 gene
+@@10780|31 32|tat gene
+@@10780|3 4|HIV tat
+@@10781|4 5|PCI mRNA
+@@10781|15 17|rat PCI cDNA
+@@10781|27 28|PCI mRNA
+@@10782|2 4|ERK1 / 2
+@@10783|7 7|hh
+@@10785|12 12|cotE
+@@10785|26 27|cotJ operon
+@@10788|8 11|Jak / Stat pathway
+@@10788|16 18|tyrosine phosphatase SHPTP1
+@@10788|14 14|SH2
+@@10790|10 10|CBP
+@@10790|26 26|HIF-1alpha
+@@10791|16 18|truncated AMPD3 cDNA
+@@10794|24 25|chaperone proteins
+@@10796|23 27|c-Src binding site Phe-397 mutant
+@@10796|29 29|FAK
+@@10796|9 9|FAK
+@@10796|2 2|PTK
+@@10796|16 16|ERK2
+@@10796|1 1|c-Src
+@@10799|1 2|YccA protein
+@@10799|20 22|YccA11 mutant protein
+@@10800|25 26|P450 enzyme
+@@10800|3 4|CYP71D20-encoded enzyme
+@@10802|4 5|bone sialoprotein
+@@10802|24 27|rat BSP gene promoter
+@@10802|15 17|pituitary-specific transcription factor-1
+@@10802|7 7|BSP
+@@10802|0 1|Parathyroid hormone
+@@10802|19 19|Pit-1
+@@10804|25 28|concatenated Hind III linkers
+@@10805|7 9|bovine alpha transgene
+@@10807|21 22|p53 gene
+@@10807|27 27|p53-
+@@10808|10 13|Escherichia coli RNA polymerase
+@@10809|8 15|Cdc15p mitotic regulatory protein kinase in budding yeast
+@@10812|13 13|ARF-GDP
+@@10815|26 29|NF-1 family of transcription
+@@10817|8 9|factor Y
+@@10821|18 18|HSF1
+@@10821|13 14|protein kinase
+@@10824|21 23|chloramphenicol acetyltransferase gene
+@@10824|6 6|DR60
+@@10824|15 15|DR60
+@@10824|29 31|delayed-early 39K promoter
+@@10825|3 4|immediate-early gene
+@@10828|6 7|cytochrome oxidase
+@@10828|9 9|peroxidase
+@@10830|21 22|gp41 oligomer
+@@10837|14 15|mu chain
+@@10837|25 25|mu
+@@10837|4 5|C mu
+@@10839|0 1|Rad6 mutants
+@@10840|1 3|mammalian homeodomain proteins
+@@10840|6 7|Hox genes
+@@10841|8 12|anti HSV type 2 antibodies
+@@10841|3 6|anti HSV type 1
+@@10844|9 9|RNF4
+@@10844|5 7|human RING-finger gene
+@@10845|1 2|PSS gene
+@@10846|4 4|ura10
+@@10846|6 6|ura3
+@@10849|0 1|GLUT5 mRNA
+@@10850|2 3|CR1 repeat
+@@10852|7 8|synthetic GnRH
+@@10852|46 47|pituitary gonadotropin
+@@10854|4 4|ADAM-TS12
+@@10855|10 10|AML1-ETO
+@@10855|4 6|AML3 / CBFalpha1
+@@10856|2 4|Bcl-2 / Bcl-2
+@@10856|28 30|Bcl-2 / Bcl-2
+@@10857|4 4|F3R
+@@10857|14 15|sequence 5'-TAAAG
+@@10861|6 8|human AM gene
+@@10861|17 18|AM gene
+@@10862|12 12|StRE
+@@10862|3 8|AP-1 superfamily of basic-leucine zipper factors
+@@10863|14 15|HSC82 gene
+@@10865|0 0|Gonadotropin
+@@10866|5 5|hGM-CSF
+@@10866|18 18|myc
+@@10866|27 27|egr-1
+@@10866|14 14|c-fos
+@@10866|0 3|Human granulocyte-macrophage colony-stimulating factor
+@@10866|21 25|early growth response gene 1
+@@10866|16 16|jun
+@@10872|8 10|synthetic alpha s-1
+@@10872|18 21|human erythrocyte type-1 Gs
+@@10873|23 24|superoxide dismutase
+@@10873|14 14|SOD
+@@10873|11 12|superoxide dismutase
+@@10875|34 36|glutamic acid decarboxylase
+@@10877|25 25|FAB
+@@10878|35 36|U2 snRNP
+@@10878|16 17|SE element
+@@10878|9 11|fibronectin splicing enhancer
+@@10879|29 29|ENK
+@@10881|1 4|bovine papillomavirus E2 protein
+@@10883|15 18|hTR alpha 1 mutants
+@@10883|20 22|c-erbA alpha 2
+@@10883|35 36|T3-response elements
+@@10883|43 45|DR + 4
+@@10883|30 30|hPPAR
+@@10883|41 41|TRE-PAL
+@@10883|25 28|human peroxisome proliferator-activated receptor
+@@10883|8 11|mutant hTR beta 1
+@@10883|38 38|TREs
+@@10883|47 47|TRE-LAP
+@@10884|4 4|HbA1
+@@10885|15 18|cob gene in yeast
+@@10885|8 8|cobA
+@@10887|0 2|RNA polymerase IIA
+@@10887|17 19|RNA polymerase IIA
+@@10888|16 16|PWP2
+@@10888|10 14|yeast periodic tryptophan protein 2
+@@10890|4 6|E mu pim-1
+@@10893|3 3|lipase
+@@10901|4 5|peptide--gp96 complexes
+@@10901|21 21|MHC
+@@10902|0 2|Male-enhanced antigen gene
+@@10903|12 13|Fab A8
+@@10903|9 10|Fab fragment
+@@10905|21 21|HNF-3beta
+@@10905|6 10|HNF-3 X and Y sites
+@@10905|19 19|HNF-3alpha
+@@10907|26 26|c-ets-1
+@@10907|32 32|v-ets
+@@10907|13 13|p68c-ets-1
+@@10907|1 2|v-ets oncogene
+@@10909|22 22|L-plastin
+@@10909|60 60|L-plastin
+@@10911|3 3|RIP1
+@@10912|11 12|STAT proteins
+@@10914|4 5|glutathione peroxidase
+@@10916|11 16|Myc / Max / Mad network
+@@10923|2 3|N gene
+@@10924|35 35|Hb
+@@10924|8 8|Hb
+@@10924|58 58|hemoglobin
+@@10925|10 14|mutant bacterial P450 AA epoxygenase
+@@10927|8 9|VpreB genes
+@@10930|20 20|Hb
+@@10933|26 26|interleukin-1
+@@10933|28 34|tumor necrosis factor ( TNF ) alpha
+@@10933|5 5|NF-kappaB
+@@10933|0 3|Nuclear factor kappa B
+@@10935|40 40|p65
+@@10935|9 9|CD40L
+@@10935|24 25|NF-kappaB sites
+@@10935|31 31|p50
+@@10935|15 16|NF-kappaB complexes
+@@10935|33 33|RelB
+@@10935|38 38|c-Rel
+@@10936|2 3|heparin lyase
+@@10936|10 12|recombinant YD-repeat protein
+@@10938|3 5|ribosomal protein gene
+@@10939|7 9|Ras / ERK
+@@10939|0 3|Myosin light chain kinase
+@@10943|21 21|CREB
+@@10944|9 10|topoisomerase I
+@@10944|3 4|T antigen
+@@10945|8 8|TFIIIA
+@@10951|99 99|LDC
+@@10951|90 90|ODCs
+@@10951|62 62|ODC
+@@10953|15 15|LxCxE
+@@10953|9 10|retinoblastoma-binding proteins
+@@10953|4 4|RBP21
+@@10956|9 9|ZAP-70
+@@10958|5 9|sacPA operon in Bacillus subtilis
+@@10958|1 2|sacT gene
+@@10959|6 9|macrophage colony-stimulating factor 1
+@@10959|15 16|c-fms protooncogene
+@@10959|11 11|CSF-1
+@@10966|7 7|KKKR
+@@10966|34 36|4 . 1H
+@@10967|2 3|25-hydroxyvitamin D3-24-hydroxylase
+@@10967|8 10|cytochrome P-450 monooxygenase
+@@10968|8 9|beta receptor
+@@10969|20 20|NAB-L11e
+@@10969|11 12|L1e-L10e-L12e transcripts
+@@10969|23 24|NAB transcripts
+@@10969|32 34|ORF monocistronic transcript
+@@10969|8 8|L11e
+@@10970|13 13|Ras
+@@10970|6 7|Jun kinase
+@@10970|21 21|Erk-2
+@@10971|32 32|v-Src-SH3
+@@10971|56 56|v-Src-SH3
+@@10971|64 64|v-Src-SH3
+@@10971|34 34|met26RD1
+@@10971|17 17|RPDE-39
+@@10971|10 10|RPDE-6
+@@10971|22 22|RPDE-6
+@@10971|14 14|PDE4A
+@@10971|62 62|RPDE-6
+@@10971|37 37|RD1
+@@10971|39 41|rat 'dunc-like' PDE
+@@10972|27 31|heparin / platelet factor 4
+@@10972|21 22|IgG antibodies
+@@10975|6 6|alpha-MSH
+@@10977|18 18|act1
+@@10978|3 3|narZ
+@@10979|18 18|hGMR
+@@10979|15 16|PI 3-kinase
+@@10979|1 2|hGM-CSF receptor
+@@10979|4 4|hGMR
+@@10979|31 32|PI 3-kinase
+@@10981|16 17|Rif domain
+@@10981|5 5|ts8
+@@10981|12 12|rpoB
+@@10982|1 3|adenylate cyclase-activating polypeptide
+@@10982|5 6|prolactin promoter
+@@10982|23 24|thyrotropin-releasing hormone
+@@10983|40 41|protein-serine phosphatase
+@@10983|29 31|ANP-receptor kinase-like domain
+@@10988|22 25|regulation of complement activation
+@@10988|0 0|DAF
+@@10988|27 27|RCA
+@@10989|4 5|calbindin-D28K promoter
+@@10990|0 9|Chicken sterol carrier protein 2 / sterol carrier protein x
+@@10991|0 1|DR1 molecules
+@@10993|1 2|betaAPP mRNA
+@@10993|4 4|Abeta
+@@10995|2 3|ufo mRNA
+@@10996|5 5|Cbl
+@@10996|33 33|SH2
+@@10996|24 26|receptor-coupled tyrosine kinases
+@@10996|13 14|c-cbl proto-oncogene
+@@10996|31 31|SH3
+@@10997|13 13|IgA
+@@11001|1 2|factor VIII
+@@11003|44 45|plasma fibrinogen
+@@11005|10 10|rhEPO
+@@11005|6 8|recombinant human erythropoietin
+@@11008|36 37|18S rRNA
+@@11008|16 19|5 . 8Ss rRNA
+@@11009|7 14|interferon alfa-2b ( Intron A ; Schering-Plough )
+@@11010|34 35|D10S94 locus
+@@11010|14 15|RET locus
+@@11011|17 19|C1 site-binding protein
+@@11012|8 9|T3R-RXR heterodimers
+@@11012|4 5|T3R homodimers
+@@11012|15 15|T3
+@@11012|1 1|upTRE
+@@11012|12 12|dnTRE
+@@11012|27 27|upTRE
+@@11013|8 10|mouse glucocorticoid receptor
+@@11014|8 8|PTF
+@@11014|2 2|PTax
+@@11015|15 15|Rev
+@@11015|12 13|beta-globin reporter
+@@11015|4 7|hnRNP A1 binding site
+@@11016|17 17|TF1
+@@11016|4 4|TF1
+@@11017|22 23|primase-helicase component
+@@11017|16 19|ORF40 / 41 transcript
+@@11020|14 14|PI12
+@@11026|4 5|DcuS-DcuR system
+@@11028|7 7|NF-4FB
+@@11028|5 5|NF-4FA
+@@11028|10 10|AP-1
+@@11030|5 6|S1 pocket
+@@11031|6 6|PKB
+@@11031|10 12|C / EBPbeta
+@@11031|26 28|C / EBPbeta
+@@11031|4 4|insulin
+@@11031|16 18|C / EBPalpha
+@@11032|22 23|growth factor
+@@11032|2 2|MKK7
+@@11032|11 13|SAPK / JNK
+@@11032|19 19|MKK7
+@@11034|0 0|Albumin
+@@11035|10 13|rat GnRH receptor cDNA
+@@11035|32 36|rat LHbeta gene 5'-flanking sequence
+@@11035|50 56|luciferase reporter ( -797 / +5LHbetaLUC )
+@@11035|61 61|GnRH
+@@11037|17 17|AML1
+@@11037|14 15|Runt domain
+@@11038|4 9|DNA polymerase delta of Saccharomyces cerevisiae
+@@11039|9 9|suf12
+@@11039|31 32|wild-type SUF12+
+@@11039|3 6|suf12-null / SUF12+ heterozygotes
+@@11039|16 16|suf12
+@@11046|11 13|T-cell antigen receptor
+@@11046|15 15|TCR
+@@11048|5 5|PSE-B
+@@11048|10 10|PSE-A
+@@11048|21 21|NF-1
+@@11048|3 3|NF-1
+@@11051|22 22|thyrotropin
+@@11053|0 1|CXC chemokines
+@@11053|22 24|interleukin-8 receptor B
+@@11054|14 15|RAR alpha
+@@11054|17 17|PML
+@@11055|7 8|sigmaA-dependent promoter
+@@11056|57 58|beta MHC
+@@11056|30 34|mutant myosin heavy chain protein
+@@11057|1 3|RFX protein family
+@@11060|17 18|MATalpha1 IE
+@@11063|9 9|IL-4
+@@11063|4 4|gp200-MR6
+@@11066|31 31|IGFBP-1
+@@11066|8 8|PEPCK
+@@11066|3 3|hIGFBP-1
+@@11066|5 6|phosphoenolpyruvate kinase
+@@11066|15 15|insulin
+@@11068|16 16|albumin
+@@11070|15 17|DEAH protein Prp16
+@@11070|21 21|U6
+@@11070|23 25|U2 spliceosomal snRNAs
+@@11074|15 16|RPA 70
+@@11074|10 13|70-kDa subunit of RPA
+@@11075|5 5|HRF-1
+@@11077|23 26|psa2 / gp46 complex
+@@11082|0 2|E3 / 19K
+@@11082|12 15|MHC class I molecules
+@@11086|11 13|prostatic acid phosphatase
+@@11087|9 11|insulin receptor substrate-1
+@@11087|3 3|fer
+@@11087|13 14|phosphatidylinositol 3-kinase
+@@11087|1 2|protein-tyrosine kinase
+@@11090|1 2|urinary coproporphyrin
+@@11091|15 25|serine proteinase domain ( the N-terminal 181 residues of NS3 )
+@@11091|9 10|NS3-4A polyprotein
+@@11091|12 12|NS3
+@@11091|29 30|NS4A cofactor
+@@11092|8 8|FMO
+@@11092|5 6|flavin-containing monooxygenases
+@@11093|5 6|Vkappa genes
+@@11094|13 14|luteinizing hormone
+@@11094|11 11|insulin
+@@11094|5 9|low density lipoprotein receptor gene
+@@11094|24 26|protein kinase a
+@@11094|28 29|phosphatidylinositol 3-kinase
+@@11094|32 34|mitogen-activated protein kinase
+@@11105|17 20|POU DNA binding motif
+@@11106|7 8|T protein
+@@11106|22 23|T protein
+@@11107|3 5|recombinant IFN alpha-2b
+@@11110|11 12|cytomegalovirus antibody
+@@11112|0 1|MSSP proteins
+@@11112|13 13|c-myc
+@@11116|3 7|alpha 4 integrin gene promoter
+@@11117|3 3|OKT3
+@@11119|34 34|CD19
+@@11119|5 5|ERK2
+@@11119|23 25|protein kinase C
+@@11121|8 8|AT-BP2
+@@11121|6 6|AT-BP1
+@@11123|40 40|FGFR-1
+@@11123|28 28|FGFR-1
+@@11123|4 4|Crk
+@@11123|25 26|SH2 domain
+@@11123|20 20|FGFR-1
+@@11123|24 24|Crk
+@@11123|38 38|Crk
+@@11125|5 5|SWI4
+@@11127|11 11|GDI
+@@11127|8 10|purified smg p25A
+@@11129|21 22|AP-2 protein
+@@11129|5 5|AP-2
+@@11129|13 15|VPF / VEGF
+@@11129|9 9|Egr-1
+@@11129|27 32|TGF alpha-induced VPF / VEGF gene
+@@11130|32 32|JAK3
+@@11130|22 24|c-Jun N-terminal kinase
+@@11130|30 30|JAK2
+@@11130|39 39|p38
+@@11130|34 36|ERK1 / 2
+@@11130|28 28|JAK1
+@@11130|19 19|STAT1
+@@11130|13 13|STAT1
+@@11132|1 8|rat branched-chain-2-oxo-acid dehydrogenase ( BCOD ) kinase mRNA
+@@11132|22 24|Sp1 binding sites
+@@11133|9 9|cdc18
+@@11133|11 11|cdc14
+@@11135|18 18|NS53
+@@11136|7 10|human lipocalin tear prealbumin
+@@11138|13 13|HspA
+@@11139|4 6|nerve growth factor
+@@11139|14 14|nrg-1
+@@11140|1 6|murine facilitative glucose transporter isoform 3
+@@11140|8 9|Glut 3
+@@11141|5 5|insulin
+@@11142|8 10|human mdr1 gene
+@@11142|16 17|mdr1 promoter
+@@11144|1 3|adenovirus E1A gene
+@@11147|2 2|POT1
+@@11152|12 13|wild-type Prp44p
+@@11152|3 6|U4 / U6 duplex
+@@11153|25 25|Rox1p
+@@11153|34 36|upstream activation sequence
+@@11153|38 38|UAS
+@@11155|21 22|human GPT-1
+@@11158|3 4|HMG-CoA synthase
+@@11158|11 14|sterol regulatory element-binding proteins
+@@11158|16 16|SREBPs
+@@11159|0 0|U24
+@@11159|14 15|28S rRNA
+@@11161|22 23|ORF 50
+@@11161|9 11|ORF 50 protein
+@@11161|14 16|immediate-early gene product
+@@11162|6 6|ARF
+@@11162|20 21|ARF-Mdm2 complex
+@@11162|9 9|Mdm2
+@@11163|7 7|I-2
+@@11163|0 0|Inhibitor-1
+@@11163|11 17|type 1 protein serine / threonine phosphatases
+@@11163|19 19|PP1
+@@11163|5 5|inhibitor-2
+@@11163|2 2|I-1
+@@11165|9 9|PKC
+@@11168|28 28|DGCR6L
+@@11168|3 4|DGCR6 gene
+@@11170|10 11|CD58 gene
+@@11171|14 15|wt p53
+@@11172|15 15|ACE
+@@11172|11 13|angiotensin converting enzyme
+@@11173|7 9|testis-specific c-mos mRNA
+@@11173|25 26|beta-globin mRNA
+@@11174|12 12|S3
+@@11174|15 15|N-glycosylase
+@@11175|21 23|trfA-encoded replication protein
+@@11175|16 17|A2 protein
+@@11175|11 12|trfA region
+@@11178|3 3|NF-Y
+@@11178|18 20|rat mrp2 gene
+@@11178|24 26|human MRP2 gene
+@@11178|5 5|Sp1
+@@11180|4 4|AP-1
+@@11183|10 20|secretor blood group alpha ( 1 , 2 ) fucosyltransferase genes
+@@11187|25 25|SREs
+@@11187|17 17|SRE
+@@11187|21 21|SRE
+@@11187|11 11|SRF
+@@11187|16 16|junB
+@@11187|45 47|nuclear protein SP-1
+@@11187|20 20|c-fos
+@@11188|15 19|Drosophila melanogaster segmentation gene runt
+@@11188|1 3|PEBP2 alpha proteins
+@@11189|5 5|CTCF
+@@11190|38 40|transcription factor Cuf1
+@@11190|30 30|CuSE
+@@11190|9 15|ctr4 ( + ) copper transporter gene
+@@11190|27 28|copper-signaling element
+@@11193|7 7|UBP43
+@@11195|13 14|HBs Ag
+@@11196|4 7|mouse Rad30b mRNA transcripts
+@@11196|1 2|human RAD30B
+@@11197|0 1|HuEpo-R Ab
+@@11197|21 21|muEpo-R
+@@11198|16 18|ME26 viral protein
+@@11198|31 31|luciferase
+@@11198|46 46|GATA-1
+@@11198|8 9|GATA-1 promoter
+@@11199|34 35|benzodiazepine receptor
+@@11199|16 17|benzodiazepine receptor
+@@11200|0 0|PMEK1
+@@11200|12 14|Arabidopsis ATMPK1 kinases
+@@11200|25 27|MAP kinase MsERK1
+@@11200|9 10|tobacco NTF3
+@@11201|8 8|IRF-2
+@@11201|0 0|IRF-1
+@@11203|7 8|CaMK II
+@@11203|0 5|Ca2+ / calmodulin-dependent protein kinase II
+@@11203|13 17|serine / threonine protein kinase
+@@11204|3 3|GR
+@@11205|8 8|p4
+@@11207|28 28|Delta90
+@@11207|35 35|Delta60
+@@11207|30 30|Delta84
+@@11207|26 26|Delta102
+@@11207|4 4|VDRE
+@@11207|22 22|Delta134
+@@11207|19 20|hVDR mutants
+@@11207|8 9|human VDR
+@@11207|11 11|hVDR
+@@11207|32 32|Delta80
+@@11207|24 24|Delta113
+@@11208|5 5|albumin
+@@11211|20 20|ALG
+@@11211|15 15|ALG
+@@11211|12 13|antilymphocyte globulin
+@@11212|31 32|telomerase RNA
+@@11212|12 12|RNA-polymerase
+@@11212|15 17|telomerase RNA-gene promoters
+@@11213|11 13|I kappaB alpha
+@@11213|19 19|Dlc-1
+@@11216|5 5|IRF-1
+@@11216|10 10|ubiquitin-proteasome
+@@11217|12 12|CAT
+@@11217|9 10|chloramphenicol acetyltranferase
+@@11218|26 26|USF2b
+@@11218|18 18|USF2a
+@@11218|9 10|USF2 isoforms
+@@11220|5 5|LIMK1
+@@11220|7 7|LIMK2
+@@11220|28 31|subdomains VII and VIII
+@@11220|20 21|subdomain VIB
+@@11220|1 3|protein kinase domains
+@@11220|16 18|sequence motif Asp-Leu-Asn-Ser-His-Asn
+@@11221|30 30|UmuD-UmuD'
+@@11221|22 22|UmuD-UmuD
+@@11221|14 14|UmuD'
+@@11221|12 12|UmuD
+@@11221|24 24|UmuD'-UmuD'
+@@11225|10 10|TSH
+@@11228|4 4|haptoglobin
+@@11228|1 2|lactate dehydrogenase
+@@11229|26 27|HIF-1alpha gene
+@@11229|10 12|human HIF-1alpha subunit
+@@11229|5 5|transcriptase-polymerase
+@@11230|12 13|"isochore H1"
+@@11230|30 33|"isochore L1 / L2"
+@@11231|18 18|anti-HAV
+@@11236|20 22|hormone response element
+@@11237|4 9|amphibian insulin receptor substrate 1-like cDNA
+@@11237|13 14|phosphatidylinositol 3-kinase
+@@11238|7 8|plasma renin
+@@11241|5 6|oIGF-I transcripts
+@@11246|4 4|p68
+@@11247|17 17|beta-galactosidase
+@@11249|5 13|leucine-rich repeat ( LRR ) protein from tomato plants
+@@11249|2 2|LRP
+@@11250|18 19|glucocorticoid receptor
+@@11250|4 4|p50
+@@11250|8 10|native glucocorticoid receptor
+@@11251|7 8|KlaB polypeptides
+@@11251|5 5|KlaA
+@@11251|17 18|KlaC polypeptide
+@@11252|7 7|CDKN2B
+@@11252|5 5|CDKN2A
+@@11254|7 8|platelet-activating factor
+@@11258|0 0|Ras
+@@11259|20 20|LMP
+@@11259|7 8|NF-kappa B
+@@11259|11 13|I kappa B-alpha
+@@11260|9 9|NF-AT
+@@11260|17 17|B7-1
+@@11260|2 2|HLA-DR-B7-1-LFA-3
+@@11262|32 33|kappaB1 element
+@@11262|64 66|p65 / relA
+@@11262|41 42|kappaB site
+@@11262|88 88|EnA-TRE
+@@11262|78 82|AP-1 / ATF recognition sequence
+@@11262|30 30|H2TF1
+@@11262|69 70|human HLA
+@@11262|57 58|H2TF1 element
+@@11262|20 24|rel / NF-kappaB transcription factors
+@@11262|45 46|kappaB2 element
+@@11265|5 6|E2 proteins
+@@11268|11 11|gamma-globulin
+@@11270|27 27|c-Fos
+@@11270|20 21|c-Jun mRNA
+@@11270|29 30|Jun-B mRNAs
+@@11271|9 9|endonucleases
+@@11272|6 6|PRP21
+@@11272|13 13|CDC6
+@@11272|10 10|SPP91
+@@11272|21 23|ribosomal protein S24
+@@11272|4 4|NUC1
+@@11272|15 15|CRY2
+@@11273|23 23|Cse4p
+@@11274|0 0|Vam7p
+@@11274|3 4|SNAP-25-like molecule
+@@11274|10 11|syntaxin homolog
+@@11274|7 7|Vam3p
+@@11275|7 8|PTB domain
+@@11275|6 6|dShc
+@@11275|14 14|DER
+@@11276|13 15|lac operator sequences
+@@11276|2 3|IE1 peptides
+@@11278|3 3|rhGM-CSF
+@@11279|26 27|phosphoenolpyruvate carboxykinase
+@@11279|33 37|insulin-like growth factor-binding protein 1
+@@11279|21 21|insulin
+@@11279|7 9|insulin response sequence
+@@11279|29 30|tyrosine aminotransferase
+@@11284|0 0|Albumin
+@@11285|17 19|CYP3A1 5'-flanking sequences
+@@11285|23 25|chloramphenicol acetyltransferase reporter
+@@11287|10 10|ERK
+@@11287|6 8|Raf-MEK-extracellular signal-regulated kinase
+@@11287|21 22|integrin subunits
+@@11288|24 25|p120 Ras-GAP
+@@11291|5 5|PI3Ks
+@@11291|26 26|p85alpha
+@@11291|1 3|mammalian phosphoinositide 3-kinases
+@@11291|16 23|Src homology 2 ( SH2 ) domain-containing adaptors
+@@11291|28 31|p55 ( PIK )
+@@11291|7 12|p110alpha , beta , and delta
+@@11292|12 12|BiP
+@@11293|16 16|fibrinogen
+@@11293|19 20|alpha 2-antiplasmin
+@@11294|14 14|CstF
+@@11299|36 38|RI alpha pseudogene
+@@11299|55 57|RI alpha gene
+@@11299|1 3|RI alpha gene
+@@11299|48 51|RI alpha complementary RNA
+@@11302|34 36|Huntington disease locus
+@@11302|30 30|GPRK
+@@11302|9 9|GPRK6
+@@11303|10 10|Mts2
+@@11303|7 7|p16INK4a
+@@11303|12 12|p15INK4b
+@@11303|5 5|Mts1
+@@11305|0 1|Apo A-I
+@@11306|14 16|pGKL1-plasmid DNA polymerase
+@@11307|33 35|TAAT-1 element reporter
+@@11307|17 18|wild-type IDX-1
+@@11307|10 12|IDX-1 mutant proteins
+@@11308|3 7|rtFc gamma R alpha cDNA
+@@11308|25 28|Fc gamma R-related mRNA
+@@11312|12 12|SREBP-1
+@@11313|9 12|anti-human seminal acid phosphatase
+@@11313|14 14|anti-HSAP
+@@11315|9 9|Insulin
+@@11315|21 21|Insulin
+@@11317|20 20|HbO2
+@@11317|18 18|oxyhemoglobin
+@@11321|7 7|PRL
+@@11323|1 3|histamine H1 receptor
+@@11326|32 32|actin
+@@11326|11 13|human platelet talin
+@@11326|27 28|antibodies TA205
+@@11326|30 30|TD77
+@@11327|18 22|TAF ( II ) s
+@@11327|8 11|taf17 ( slm7-1 )
+@@11327|41 41|MBF
+@@11327|39 39|SBF
+@@11327|34 34|TAF17
+@@11328|9 9|CXCR4
+@@11328|30 30|CXCR4
+@@11329|13 14|fad7 mRNA
+@@11330|26 27|G6Pase promoter
+@@11330|19 20|luciferase gene
+@@11335|3 3|NF-kappaB
+@@11335|21 21|RET
+@@11336|9 9|EPO
+@@11336|6 7|human erythropoietin
+@@11337|0 0|CD4
+@@11339|1 5|receptor for hyaluronan mediated motility
+@@11339|18 20|transforming growth factor-beta1
+@@11339|22 22|TGF-beta1
+@@11339|6 9|( RHAMM ) gene
+@@11343|7 9|SC5b-9 complement complex
+@@11344|3 3|LUC
+@@11344|19 27|( CRE1 ) 3 ( CRE2 ) 2SV40-LUC constructs
+@@11344|9 9|CRE1
+@@11344|11 12|CRE2 sites
+@@11346|3 5|protein kinase C
+@@11346|9 9|DRA
+@@11349|16 17|p85 subunit
+@@11349|11 13|Shc adaptor proteins
+@@11349|27 27|phosphatase
+@@11349|9 9|Grb2
+@@11349|22 23|phospholipase Cgamma
+@@11349|29 29|SHP2
+@@11349|19 20|phosphatidylinositol 3'-kinase
+@@11350|10 10|luciferase
+@@11350|15 16|AUF1-binding sequences
+@@11350|19 19|luciferase
+@@11353|11 12|5-HT1A receptors
+@@11358|11 11|cdc25A
+@@11358|13 13|cdc25B
+@@11358|0 0|E2
+@@11359|16 16|HD
+@@11361|12 15|RNA polymerase II transcripts
+@@11363|35 35|5'-CTCCT-3'
+@@11364|6 10|PDGF-activated serine / threonine phosphoprotein
+@@11367|11 11|MEK
+@@11368|23 24|full-length NusA
+@@11368|2 2|NusA
+@@11368|14 17|amino-terminal S1 homology region
+@@11369|2 3|phenylalanine hydroxylase
+@@11370|7 10|ANT1 transcriptional control elements
+@@11371|0 0|Max
+@@11375|15 16|BAP3 gene
+@@11375|9 9|BAP2
+@@11377|25 26|POMC products
+@@11378|4 4|DdPTPa
+@@11380|27 29|Thiobacillus ferrooxidans IST2
+@@11380|5 9|Rhizobium meliloti insertion sequence ISRm3
+@@11380|18 18|ISRm3
+@@11380|15 15|transposase
+@@11380|23 25|Staphylococcus aureus IS256
+@@11382|4 4|ORF113
+@@11383|4 5|opioid receptor
+@@11384|5 5|SEC3
+@@11384|44 44|sec4-8
+@@11384|11 12|SEC genes
+@@11386|18 23|16-kDa endonuclease V from bacteriophage T4
+@@11386|1 4|Micrococcus luteus UV endonuclease
+@@11388|7 7|caspase-3
+@@11389|7 8|bovine lactalbumin
+@@11390|2 2|polymerase
+@@11390|9 11|U6 RNA genes
+@@11391|35 36|gamma interferon
+@@11391|24 25|HLA-B7 gene
+@@11392|7 9|Broad Complex Z2
+@@11392|22 22|MO-IH
+@@11392|20 20|MIH
+@@11392|3 5|CF1 / USP
+@@11393|14 20|human c-myb intron 1 transcription pause region
+@@11393|38 40|HL-60-specific DNA-protein complex
+@@11393|54 54|IRFs
+@@11393|50 52|interferon regulatory factors
+@@11394|32 32|VDRE
+@@11394|13 14|AP-1 site
+@@11394|17 21|type alpha I collagen promoter
+@@11394|9 10|Fos-Jun complex
+@@11395|0 1|Alpha-1 antitrypsin
+@@11396|1 6|recombinant vaccinia virus-expressed mutant P1 polyproteins
+@@11396|27 29|poliovirus 3CD protease
+@@11396|49 50|capsid precursor
+@@11396|61 62|capsid proteins
+@@11400|13 14|chemotactic receptor
+@@11400|42 44|human fMLF-R gene
+@@11400|21 22|fMLF-R gene
+@@11400|6 7|fMLF-R transcripts
+@@11401|15 17|human JUN gene
+@@11404|6 9|ulp1 ( ts )
+@@11404|19 19|Smt3-protein
+@@11404|2 2|Ulp2
+@@11405|9 9|PI3Ks
+@@11405|7 7|ERKs
+@@11406|16 16|TNF-alpha
+@@11406|12 12|IgG
+@@11406|19 19|PGE2
+@@11406|14 14|IL-6
+@@11409|9 9|Grb14
+@@11409|11 11|ankyrin
+@@11409|15 16|tankyrase 2
+@@11410|3 7|human gene encoding cytokeratin 17
+@@11411|4 5|factor VII
+@@11411|2 2|thromboplastins
+@@11413|0 0|OKT3
+@@11416|7 7|Bcl-2
+@@11416|17 17|Bad
+@@11416|9 10|Bcl-2-related proteins
+@@11416|14 14|Bax
+@@11416|12 12|Bcl-x
+@@11417|14 15|Hoxa1 gene
+@@11418|6 6|dyneins
+@@11419|9 9|cholinesterase
+@@11420|1 1|PTPases
+@@11421|19 20|platelet-associated IgG
+@@11423|8 11|capping enzyme RNAtriphosphatase-like 1
+@@11423|5 6|gene CTL1
+@@11425|5 5|ALAD
+@@11425|0 3|Erythrocyte delta-aminolevulinic acid dehydratase
+@@11426|15 16|Act1 promoter
+@@11429|24 24|G-CSF
+@@11430|17 17|KRAB
+@@11430|15 15|KAP-1-RBCC
+@@11431|16 17|SF1 gene
+@@11432|13 20|TATA binding protein ( TBP ) associated factors
+@@11432|5 5|AsiA
+@@11432|3 3|MotA
+@@11432|25 25|TBP
+@@11432|10 11|eukaryotic TAFs
+@@11435|10 11|E1 element
+@@11436|30 32|PLCgamma binding site
+@@11436|26 26|PDGFR-FGFR1
+@@11436|22 22|PDGF-BB
+@@11436|4 6|PLCgamma inhibitory peptide
+@@11436|37 37|ERK2
+@@11436|17 17|FGFR1
+@@11437|7 8|Ty5 retrotransposons
+@@11438|4 4|epimerase
+@@11438|0 2|Isopenicillin N isomerase
+@@11439|4 4|Upf1p
+@@11440|36 37|murine ERF
+@@11440|22 24|N-terminal Ets domain
+@@11440|26 26|PE1
+@@11441|4 6|LysR-type regulator CatR
+@@11442|17 17|OpA
+@@11442|13 15|Mot3 binding site
+@@11445|9 11|W3A1 ETF subunits
+@@11445|23 23|ETF
+@@11446|8 9|cytoplasmic GTPase
+@@11446|15 15|XPA
+@@11446|4 4|XAB1
+@@11448|17 18|HPRT gene
+@@11449|27 27|CPs
+@@11449|20 21|CP sequence
+@@11450|4 4|p50E4F
+@@11453|1 2|TTG-2 gene
+@@11455|29 30|HSP82 gene
+@@11455|11 12|cdc68-1 mutant
+@@11456|20 20|junB
+@@11456|17 17|mIg
+@@11456|9 11|protein kinase A
+@@11457|13 14|cyclin A-cdk2
+@@11457|10 11|cyclin E-cdk2
+@@11457|7 7|p130
+@@11457|5 5|p107
+@@11457|20 20|kinases
+@@11458|1 10|human immunodeficiency virus type 1 ( HIV-1 ) Rev protein
+@@11459|14 14|Wnt-1
+@@11459|0 0|Wnt-1
+@@11459|24 24|ILK
+@@11459|27 28|cyclin D1
+@@11459|7 9|cyclin D1 mRNA
+@@11460|18 18|IL-1
+@@11460|22 22|TNF
+@@11460|20 20|IL-6
+@@11461|3 5|hematopoietic growth factors
+@@11462|28 28|H1
+@@11462|19 20|H1 receptor
+@@11462|38 38|H1
+@@11463|6 9|3beta-HSD type 1 gene
+@@11464|10 10|MDS1
+@@11464|5 7|mds1 null mutation
+@@11466|16 17|Tf1 mRNA
+@@11469|16 18|Rel insert region
+@@11469|40 43|Rel transcription factor family
+@@11469|11 11|NFAT
+@@11469|13 13|AP-1
+@@11469|20 20|RIR
+@@11470|6 6|fimA
+@@11470|29 33|ATP-binding cassette membrane transport proteins
+@@11472|4 6|DP family members
+@@11472|18 20|DRTF1 / E2F
+@@11472|12 15|DP / E2F heterodimers
+@@11473|5 5|SHP-1
+@@11473|38 38|SHP-1
+@@11473|23 24|Tyk2 kinase
+@@11473|12 13|tyrosine kinases
+@@11473|29 30|Jak kinases
+@@11473|10 10|Jak
+@@11475|14 14|L1
+@@11476|1 1|GSH-Px
+@@11478|13 13|HrpJ2
+@@11479|1 4|Ras guanine nucleotide-binding protein
+@@11479|14 15|protein-tyrosine kinases
+@@11480|4 6|TP53 target gene
+@@11480|17 18|wild-type TP53
+@@11483|8 9|MotA box
+@@11483|0 0|MotA
+@@11484|2 3|C3 toxin
+@@11484|25 25|AP-1
+@@11484|16 16|Luc
+@@11484|14 14|AP-1
+@@11484|27 27|Luc
+@@11484|9 10|growth factors
+@@11484|34 35|growth factors
+@@11486|21 21|Pac25I
+@@11486|12 12|invertases
+@@11486|22 23|R-M operon
+@@11486|14 14|resolvases
+@@11487|8 8|RAREoct
+@@11487|15 18|Oct-3 / 4 promoter
+@@11488|2 5|U2 small nuclear ribonucleoprotein
+@@11488|7 7|snRNP
+@@11490|10 10|RBP
+@@11491|0 1|WRN helicase
+@@11493|8 8|Ptx1
+@@11493|1 3|pituitary hormone-coding gene
+@@11495|18 19|p38 MAPK
+@@11495|21 23|MAPK-activated protein kinase-2
+@@11495|0 0|BCR
+@@11495|6 8|MAPK-activated protein kinase-2
+@@11495|32 36|CREB serine 133 phosphoacceptor motif
+@@11496|3 5|vitamin D receptor
+@@11496|11 14|retinoic acid Xalpha receptor
+@@11496|7 7|VDR
+@@11496|16 16|RXRalpha
+@@11499|14 16|12S U2 snRNPs
+@@11499|33 34|anti-PRP9 antibodies
+@@11499|25 27|endogeneous U2 snRNPs
+@@11499|7 9|17S U2 snRNPs
+@@11501|12 13|H1 histone
+@@11501|40 40|Cdk2-cyclin-A
+@@11501|24 24|E2F-1
+@@11501|38 38|Cdk2-cyclin-E
+@@11501|1 2|Cdk2-cyclin-D1 complex
+@@11501|22 22|p53
+@@11501|15 15|pRB
+@@11501|17 20|SV40 large T antigen
+@@11506|5 5|TSST-1
+@@11506|23 23|TSST-1
+@@11507|17 18|Raf-1 kinase
+@@11508|13 15|HLA-5 . 4
+@@11508|23 23|Ch28
+@@11514|7 10|murine homologue of SAF-A
+@@11515|4 10|fbpA operator sequence ( 42 bp )
+@@11515|25 27|Fur repressor dimers
+@@11516|25 26|BAR1 promoter
+@@11516|7 8|CHS1 gene
+@@11518|6 7|chloroacetate esterase
+@@11518|0 0|Peroxydase
+@@11521|7 10|p19 ( INK4d )
+@@11524|15 16|sigma70 promoter
+@@11526|1 2|CTD kinases
+@@11526|5 5|CTDK1
+@@11526|7 7|CTDK2
+@@11527|7 8|5-10-kDa proSP-C
+@@11527|0 0|Anti-NPROSP-C
+@@11528|3 5|E12 bHLH protein
+@@11528|10 11|bHLH factors
+@@11535|15 17|Kruppel-like transcription factor
+@@11535|6 6|Sp1
+@@11535|26 31|LTC ( 4 ) S gene
+@@11535|19 19|Sp1
+@@11536|13 15|rat ODC mRNA
+@@11541|3 7|mouse ornithine decarboxylase-related sequence family
+@@11543|5 7|beta A-globin gene
+@@11544|54 55|neutrophil elastase
+@@11547|4 4|insulin
+@@11548|13 16|amino-terminal-charge cluster mutant protein
+@@11548|4 4|endonuclease
+@@11548|18 18|D40A-D42A-D44A
+@@11548|6 6|helicase
+@@11550|12 12|eIF-2B
+@@11550|19 19|eIF-2
+@@11550|15 17|GDP-GTP exchange factor
+@@11550|6 7|eIF-2 alpha
+@@11551|11 12|C5 alpha-chain
+@@11552|9 10|CHOP gene
+@@11553|0 1|DNase I
+@@11554|14 15|nuclease S1
+@@11555|3 4|urinary albumin
+@@11556|11 12|RAP1 protein
+@@11556|6 7|ABFI protein
+@@11559|32 32|nucleases
+@@11560|1 3|Src SH3-binding proteins
+@@11563|38 38|HNF-3
+@@11563|34 36|hepatocyte nuclear factors
+@@11563|9 9|ILF
+@@11563|25 27|Drosophila homeotic protein
+@@11563|28 29|fork head
+@@11563|17 21|fork head DNA binding domain
+@@11564|0 1|Plasma lactoferrin
+@@11569|18 18|p107
+@@11569|20 21|cyclin A
+@@11569|9 10|pRB-binding sequences
+@@11569|24 24|p130
+@@11569|12 12|E1A
+@@11572|26 27|tyrosine kinase
+@@11572|5 6|GH receptor
+@@11573|11 11|somatostatin
+@@11578|14 14|recombinase
+@@11578|5 5|Cin
+@@11579|18 22|ErbB-2 juxtamembrane and kinase domains
+@@11579|3 5|rat gene 33
+@@11579|10 11|ErbB-2-interacting protein
+@@11580|14 20|CTGT ( at ) 4ACAG consensus sequence
+@@11580|23 24|LexA repressor
+@@11581|8 9|nmt1-451Dino2 Delta
+@@11581|6 6|FAS1
+@@11582|11 15|rel / AP1 cooperative complex
+@@11582|5 5|Tat
+@@11582|35 36|IL-2 gene
+@@11584|11 11|tRNA-like
+@@11584|21 21|tRNA-like
+@@11585|42 43|Sp1-binding site
+@@11586|11 12|pp38 mRNAs
+@@11586|9 9|ICP4
+@@11589|24 25|LysR superfamily
+@@11589|16 16|oxyR
+@@11589|4 4|OxyR
+@@11589|6 6|P1oxyR
+@@11590|30 30|helicase
+@@11590|8 9|UvrB protein
+@@11590|26 27|UvrAB complex
+@@11590|3 4|UvrA protein
+@@11591|0 1|Sputum IL-8
+@@11591|3 3|MPO
+@@11595|9 11|human trk proto-oncogene
+@@11595|4 6|tyrosine kinase domain
+@@11596|1 2|unc-4 mutants
+@@11602|43 44|Tpl-1 locus
+@@11602|24 26|Ets-1 cDNA clone
+@@11603|39 39|Cdc42
+@@11603|8 9|Rho-like GTPases
+@@11603|32 32|RhoA
+@@11603|17 17|beta1A
+@@11603|19 19|beta1D
+@@11603|34 34|Rac1
+@@11603|22 22|IL2R-beta1A
+@@11604|25 25|ORFtrpB
+@@11604|8 11|M . voltae ORFtrpA
+@@11607|10 11|MAP kinases
+@@11607|6 6|MKP-4
+@@11607|19 21|JNK / SAPK
+@@11607|15 15|ERK
+@@11607|17 17|p38
+@@11608|4 5|THOV NP
+@@11608|10 10|KRxxxxxxxxxKTKK
+@@11612|32 41|murine leukemia virus ( MLV ) SL3-3 LTR-CAT reporter construct
+@@11612|16 17|chloramphenicol acetyltransferase
+@@11612|19 19|CAT
+@@11613|10 12|Ras GTPase-activating proteins
+@@11613|20 32|inositol 1 , 3 , 4 , 5-tetrakisphosphate ( IP4 ) -binding protein
+@@11613|0 3|Gap1 ( IP4BP )
+@@11614|24 25|algD-xylE fusion
+@@11614|5 6|cysB mutant
+@@11614|2 2|palgD
+@@11615|10 10|TGF-beta
+@@11615|23 24|TAK1 pathways
+@@11615|4 4|ATF-2
+@@11615|21 21|Smad
+@@11618|11 13|serum alanine aminotransferase
+@@11619|20 22|ERE-LacZ reporter gene
+@@11621|28 28|AP2
+@@11621|38 39|DBH gene
+@@11621|31 31|Sp1
+@@11621|9 9|Phox2a
+@@11621|26 26|CREB
+@@11622|42 44|protein kinase B
+@@11622|38 39|PI 3-kinase
+@@11622|13 13|Ret-9bp
+@@11622|21 21|Ret-9bp
+@@11622|25 27|insulin receptor substrate-2
+@@11622|46 48|PKB / AKT
+@@11622|35 36|phosphatidylinositol 3-kinase
+@@11622|29 29|IRS-2
+@@11624|10 11|V protein
+@@11624|1 2|P mRNA
+@@11626|6 6|Cln3p
+@@11626|8 8|Cln3-1p
+@@11626|1 1|cdc33-1
+@@11626|23 23|eIF4E
+@@11626|13 14|UBI4 5'-CLN3
+@@11627|4 5|protein S
+@@11629|1 5|nerve growth factor beta gene
+@@11629|7 7|NGFB
+@@11630|2 3|immunoglobulin E
+@@11632|16 16|VEGF
+@@11632|2 3|HIF-1 targets
+@@11632|11 14|vascular endothelial growth factor
+@@11633|1 1|pet56
+@@11633|3 4|his3 genes
+@@11637|23 25|EGR-1 transcription factors
+@@11637|21 21|Sp1
+@@11637|17 18|PMA-responsive element
+@@11637|1 7|0 . 22-kb NheI / BglII promoter
+@@11638|8 10|viral coat protein
+@@11638|21 22|scaffolding protein
+@@11639|14 15|laminin receptor
+@@11639|7 10|alpha 6 beta 1
+@@11641|13 13|P1
+@@11641|7 7|PERE
+@@11641|15 15|P2
+@@11641|17 17|P3
+@@11642|0 2|CCAAT displacement protein
+@@11642|8 12|human papillomavirus type 6 E6
+@@11642|14 14|E7
+@@11642|17 18|E1 promoters
+@@11644|24 24|hexA+
+@@11644|3 4|rsmB+ DNA
+@@11645|24 24|IFN
+@@11647|0 1|Leukemia-inhibitory factor
+@@11647|3 3|LIF
+@@11647|7 7|neuropoietin
+@@11649|6 6|Patched
+@@11649|8 8|Ptc
+@@11649|4 4|Hh
+@@11649|13 13|Ci
+@@11649|15 15|sites
+@@11651|7 7|LH
+@@11654|7 8|p53 C-terminus
+@@11655|17 17|p107
+@@11655|29 30|retinoblastoma protein
+@@11655|15 15|p130
+@@11655|6 9|adenoviral 12S E1A protein
+@@11656|12 12|Shb
+@@11657|22 22|PSD
+@@11657|1 2|PSD2 gene
+@@11658|10 11|HNF-3 alpha
+@@11658|27 28|TTR gene
+@@11659|10 11|NMDA receptor
+@@11660|1 4|mutant JCV T antigens
+@@11661|16 17|adenylate cyclase
+@@11661|1 1|git1
+@@11661|5 5|git5
+@@11661|9 9|git8
+@@11661|11 12|git10 genes
+@@11661|3 3|git3
+@@11661|22 23|adenylate cyclase
+@@11661|7 7|git7
+@@11662|20 26|activating transcription factor ( ATF ) -4
+@@11662|28 31|CCAAT enhancer-binding protein beta
+@@11662|15 15|CRE
+@@11662|50 51|nuclear factor
+@@11664|21 23|bacterial sigma factors
+@@11665|3 3|NF-ATp
+@@11665|7 7|NF-AT4
+@@11668|4 4|int6Delta
+@@11668|1 2|int6 deletion
+@@11673|14 14|ATF-2
+@@11673|19 19|JNK
+@@11673|12 12|c-JUN
+@@11673|2 2|p38
+@@11673|0 0|JNK
+@@11673|21 21|p38
+@@11677|13 15|annexin A5 gene
+@@11679|28 31|wheat histone H3 gene
+@@11680|28 28|Nrf2
+@@11680|4 4|ATF4
+@@11680|16 17|ho-1 gene
+@@11684|6 8|coagulation factor XII
+@@11685|12 13|jadomycin B
+@@11685|7 7|jadM
+@@11687|3 4|NF-kappaB site
+@@11687|7 8|Mdr1b promoter
+@@11687|13 13|TNF-alpha
+@@11688|18 19|RAG1 mRNA
+@@11691|8 8|traB
+@@11691|3 3|traA
+@@11691|19 19|traG
+@@11691|16 16|traD
+@@11691|5 5|traF
+@@11691|14 14|traC
+@@11694|4 4|enterotoxin
+@@11695|3 3|R
+@@11695|1 1|Z
+@@11696|16 16|ACTH
+@@11696|3 5|vasopressin V1b receptors
+@@11696|12 14|pituitary adrenocorticotropic hormone
+@@11697|27 28|alkaline phosphatase
+@@11699|11 13|Shc adapter protein
+@@11699|15 16|Shc*Grb2 complex
+@@11699|3 3|Gbetagamma
+@@11699|22 26|Ras guanine nucleotide exchange factor
+@@11702|5 5|GF14
+@@11702|14 16|GBF protein complex
+@@11706|18 19|GIRK channels
+@@11706|29 33|beta ( 2 ) AR
+@@11708|0 0|CRS
+@@11708|17 17|p40CRS
+@@11708|4 6|5' LTR-linked gene
+@@11708|21 23|5' LTR RNA
+@@11708|15 15|p60CRS
+@@11709|23 23|daf-3
+@@11709|18 21|Smad signal transduction proteins
+@@11709|26 27|Smad protein
+@@11709|3 3|daf-3
+@@11709|34 35|mammalian DPC4
+@@11709|10 10|TGF-beta
+@@11710|14 14|HSE
+@@11710|4 5|R206S HSF
+@@11710|16 16|HSE2
+@@11714|7 7|GCN1
+@@11714|19 19|GCN2
+@@11715|14 16|Smad1 or 5
+@@11715|2 2|xTAK1KN
+@@11716|22 23|F1 ATPase
+@@11716|15 16|cytochrome oxidase
+@@11716|30 31|hem2 mutant
+@@11719|1 5|2 . 4-kb MAPKAPK-2 message
+@@11720|4 8|S . cerevisiae Swi3 homolog
+@@11720|10 10|Swh3
+@@11720|26 26|Sthl
+@@11720|23 24|Snf2 homolog
+@@11722|17 18|ets boxes
+@@11722|13 14|ets sequences
+@@11722|1 1|EWS-FLI-1
+@@11722|3 4|FLI-1 proteins
+@@11723|7 8|transfer factor
+@@11725|15 16|p21 promoter
+@@11725|29 31|Sp1-family transcription factors
+@@11725|8 8|p21
+@@11729|41 42|P450R mRNA
+@@11729|11 13|cytochrome P450 oxidoreductase
+@@11729|15 15|P450R
+@@11730|6 6|HIS3
+@@11730|4 4|LEU2
+@@11732|15 15|Jk
+@@11732|7 7|JH
+@@11732|17 19|Vk light chain
+@@11732|9 11|VH heavy chain
+@@11732|0 3|Functional rearranged antibody genes
+@@11736|0 1|Protein phosphatases
+@@11737|0 0|Gag
+@@11737|6 7|NC domain
+@@11738|27 30|Cdc28 / Clb kinase
+@@11740|12 13|p300 coactivator
+@@11742|7 9|gastric mucosal cyclooxygenase
+@@11742|11 11|COX
+@@11743|1 2|mEmBP-1 protein
+@@11743|15 16|O2 site
+@@11743|29 32|22 kDa zein promoter
+@@11744|12 15|ru / AB genes
+@@11750|22 22|NF-kappaB
+@@11751|20 20|zf4-7
+@@11751|3 3|zf4-6
+@@11751|22 24|5 S RNA
+@@11751|5 8|full-length 5 S RNA
+@@11754|21 21|PAN
+@@11754|17 18|nucleotidase complex
+@@11754|39 39|PAN
+@@11755|25 26|topo II
+@@11755|8 8|c-Jun
+@@11755|19 19|c-Fos
+@@11755|13 14|topo II
+@@11756|6 6|VP16
+@@11756|16 16|VP16
+@@11756|36 36|VP22
+@@11762|9 12|psi V lambda 1
+@@11762|4 6|V lambda pseudogene
+@@11762|19 21|U266 lambda gene
+@@11766|41 41|ProW
+@@11768|0 0|ERK
+@@11768|1 2|MAP kinase
+@@11768|20 20|NF-kappaB
+@@11768|18 18|AP-1
+@@11769|14 17|zinc-finger transcription factor NGFI-C
+@@11772|15 16|bZIP proteins
+@@11774|24 24|beta-endorphin
+@@11774|6 6|beta-endorphin
+@@11776|0 0|Krox-24
+@@11777|17 18|ribosomal RNA
+@@11777|6 7|OBP transcript
+@@11778|33 37|rat luteinizing hormone receptor cDNA
+@@11782|8 9|Src family
+@@11782|10 10|kinase
+@@11782|5 6|Galpha11 Q209L
+@@11786|12 13|aldose reductase
+@@11788|10 12|slk1 null mutants
+@@11788|7 8|SLK1 gene
+@@11789|26 27|V gene
+@@11789|30 32|full-length hPIV2 cDNA
+@@11791|5 7|tissue plasminogen activator
+@@11794|12 13|mdr2 gene
+@@11794|5 5|mdr2
+@@11797|1 2|elm1 kinase
+@@11799|3 3|HeT-A
+@@11800|2 2|Rh-antibodies
+@@11801|15 19|bovine liver eIF-2B alpha subunit
+@@11802|21 22|SH3GL pseudogene
+@@11802|1 1|REPs
+@@11803|14 15|integrase domain
+@@11803|1 8|N terminus of beta ( 95 kDa )
+@@11803|11 11|alpha
+@@11804|10 11|NS1 protein
+@@11804|0 4|Eukaryotic translation initiation factor 4GI
+@@11805|14 14|E2F2
+@@11808|8 8|SRF
+@@11808|28 28|SRF
+@@11809|8 8|hsp90
+@@11809|4 4|mSTI1
+@@11809|6 6|hsp70
+@@11810|6 8|soybean actin genes
+@@11813|14 14|RhoA
+@@11813|2 2|Kinectin
+@@11813|5 5|mDia2
+@@11813|0 0|ROCK-I
+@@11813|16 16|Cdc42
+@@11819|0 0|Osteocalcin
+@@11819|2 2|OC
+@@11821|15 16|stress kinase
+@@11821|20 22|p42 / 44
+@@11821|13 13|HGF
+@@11821|39 39|JNK
+@@11821|23 25|mitogen activated kinase
+@@11821|45 45|HIF-1
+@@11821|27 27|MAPK
+@@11821|42 43|p38 MAPK
+@@11821|36 37|c-Jun-N-terminal kinase
+@@11822|6 8|cyclin D3 protein
+@@11822|37 38|alpha0 sequences
+@@11822|15 17|alpha0 deletion mutant
+@@11823|1 3|DAP5 / p86
+@@11823|10 12|DAP5 / p97
+@@11825|2 4|RNA-dependent protein kinase
+@@11825|6 6|PKR
+@@11826|4 5|human BTF3b
+@@11826|19 19|NAC
+@@11826|0 0|Egd1p
+@@11826|15 17|heterodimeric nascent-polypeptide-associated complex
+@@11828|10 11|alpha 12
+@@11828|13 14|alpha 12Q229L
+@@11828|20 21|alpha 13Q226L
+@@11828|29 34|Jun kinase / stress-activated protein kinase
+@@11828|17 18|alpha 13
+@@11828|36 38|JNK / SAPK
+@@11830|25 26|CD18 promoter
+@@11830|21 22|IL-2 enhancer
+@@11832|8 8|snRNP
+@@11833|11 11|SRS4
+@@11833|3 9|soybean ribulose-1 , 5-bisphosphate carboxylase small-subunit mRNA
+@@11837|11 13|viperid PLA2 genes
+@@11838|1 2|adenosine deaminase
+@@11839|15 20|Df ( 2L ) OD15 breakpoint
+@@11839|1 2|Dox-A2 locus
+@@11840|0 0|99Tcm-DMP-HSA
+@@11841|17 17|FSH
+@@11842|33 34|NF1-binding sites
+@@11842|47 48|SCMV IE94
+@@11842|51 52|HCMV IE68
+@@11844|18 18|COL1A2
+@@11844|11 16|pro-alpha 2 ( I ) gene
+@@11846|24 25|Rab3 family
+@@11846|17 21|GDP / GTP exchange proteins
+@@11846|27 30|small GTP binding proteins
+@@11850|25 25|p85alpha
+@@11850|15 15|p85alpha-p110
+@@11850|13 14|phosphatidylinositol 3-kinase
+@@11850|7 9|kinase-deficient PKC zeta
+@@11851|1 2|H2 receptor
+@@11852|8 9|GHS-R-related gene
+@@11852|11 11|GPR39
+@@11853|15 17|cbp1 ts alleles
+@@11853|5 6|SOC1 gene
+@@11856|29 30|Stat-binding site
+@@11856|18 19|IRF-1 promoter
+@@11856|34 35|CRE-like site
+@@11856|6 9|IL-6 / interferon gamma
+@@11856|11 12|IFN gamma
+@@11856|44 44|JRE-IL6-BCs
+@@11856|21 23|IR / IRF-1
+@@11857|4 4|insulin
+@@11861|22 22|MEF
+@@11861|0 0|MEF
+@@11861|2 2|AML1B
+@@11861|26 28|AML1 / ETO
+@@11861|6 11|interleukin 3 promoter reporter gene construct
+@@11861|18 18|MEF
+@@11862|5 7|Zta activation domain
+@@11862|13 13|Zta
+@@11862|17 18|D-A complex
+@@11863|0 1|MpB GroEL
+@@11863|18 19|chaperonin-60 family
+@@11863|10 12|Escherichia coli GroEL
+@@11864|0 0|GRP78
+@@11866|0 1|Protein C
+@@11866|4 5|protein S
+@@11869|3 4|glucocorticoid receptors
+@@11869|10 10|p53
+@@11869|15 15|p53
+@@11870|10 13|human CDKN2D / INK4d
+@@11870|18 20|cyclin D-dependent kinases
+@@11872|13 13|psaB
+@@11874|11 11|HRAS1
+@@11875|6 12|birch NAD ( P ) H-NR sequence
+@@11875|16 17|NADH-NR sequences
+@@11876|0 0|Paxillin
+@@11876|7 7|integrin
+@@11877|31 31|SUR1
+@@11878|36 36|bax-wild-type
+@@11878|2 2|c-Myc
+@@11881|4 4|BACH1t
+@@11881|6 6|BACH1
+@@11881|11 11|BTB
+@@11884|9 9|Num1p
+@@11885|9 9|insulin
+@@11888|24 25|carbonic anhydrase
+@@11890|22 22|HF-1a
+@@11890|12 16|basic helix-loop-helix leucine zipper family
+@@11890|47 49|alpha-myosin heavy-chain genes
+@@11890|20 20|MLE1
+@@11890|6 6|USF
+@@11890|25 27|PRE B sites
+@@11890|45 45|MLC-2v
+@@11892|38 44|Ca2 ( + ) -dependent protein kinases
+@@11892|31 34|protein kinase C family
+@@11892|23 26|cyclic AMP-dependent protein kinases
+@@11892|18 19|protein kinases
+@@11892|1 2|pp90rsk-protein kinase
+@@11892|8 8|rsk-kinase
+@@11893|16 18|p33 Grb2-binding protein
+@@11893|5 7|Fc epsilon R1
+@@11893|27 31|Fc epsilon R1 beta chain
+@@11895|10 12|type I phosphodiesterase
+@@11895|3 3|PC-1
+@@11895|0 0|ATX
+@@11896|2 3|ParA proteins
+@@11897|23 23|FtsN
+@@11897|18 19|ftsN gene
+@@11898|24 25|RNA15 protein
+@@11898|3 4|yeast RNA14
+@@11898|6 7|RNA15 genes
+@@11903|13 13|Atp6i
+@@11904|12 13|acc genes
+@@11910|5 6|snoRNA genes
+@@11910|15 15|snoRNA
+@@11912|26 26|RSR
+@@11912|31 34|Spec1 / Spec2 genes
+@@11912|4 6|ectoderm-specific Spec2a gene
+@@11913|18 21|ras signal transduction pathways
+@@11913|5 11|MAP kinase activator / MAP kinase system
+@@11916|24 24|PKC
+@@11916|4 4|PKC
+@@11916|53 53|Sp1
+@@11916|36 36|P4
+@@11916|16 17|IGF-II P4
+@@11916|6 8|p44 / p42MAPK
+@@11916|82 82|P4
+@@11916|33 33|Sp1
+@@11916|49 49|PKC
+@@11916|46 46|PKC
+@@11916|29 29|PKC
+@@11916|60 61|IGF-II mRNA
+@@11916|79 79|Sp1
+@@11916|56 56|P4
+@@11916|85 86|IGF-II mRNA
+@@11916|74 74|MEK
+@@11917|10 11|carcinoembryonic antigen
+@@11917|16 17|carcinoembryonic antigen
+@@11917|37 37|peroxidase-antiperoxidase
+@@11918|44 46|herpes tk promoter
+@@11918|27 27|Myb
+@@11918|38 40|mim-1A Myb-responsive element
+@@11923|9 9|Dlc-1
+@@11923|17 24|9-kDa human homolog of the outer-arm dynein light-chain
+@@11925|31 31|collagen
+@@11927|7 11|immunoglobulin gene recombination signal sequences
+@@11927|21 24|human IL-2R L chain
+@@11930|23 23|fcp1
+@@11930|4 4|KEFGK
+@@11930|7 7|RAP74
+@@11930|32 32|Fcp1p
+@@11930|13 13|TFIIF
+@@11930|24 24|tfg1
+@@11930|9 9|Tfg1p
+@@11932|10 12|focal adhesion kinase
+@@11932|2 3|SH3 domain
+@@11932|1 1|v-Src
+@@11933|13 14|blood carboxyhemoglobin
+@@11933|16 16|COHb
+@@11935|14 15|glycoprotein IBalpha
+@@11935|5 6|actin-binding protein
+@@11938|16 16|immunoglobulin
+@@11939|0 3|Xenopus Ran-binding protein 1
+@@11942|9 9|thrombin
+@@11942|1 2|human fibrinogen
+@@11943|0 2|Fission yeast mal2+
+@@11944|20 20|PSE
+@@11944|3 5|Xenopus U7 gene
+@@11945|11 13|mitogen-activated protein kinase
+@@11945|8 8|MEK
+@@11945|0 0|Insulin
+@@11945|15 16|casein kinase
+@@11945|3 6|mitogen-activated protein kinase kinase
+@@11946|3 7|c-myc promoter binding protein 1
+@@11947|31 33|cytokine receptor superfamily
+@@11947|6 6|Jak2
+@@11947|8 8|PRLR
+@@11948|15 16|serine proteases
+@@11948|0 4|Mouse mast cell protease 9
+@@11950|6 6|CKII
+@@11950|17 19|E protein homodimers
+@@11951|17 17|nrdA
+@@11951|19 20|citB genes
+@@11952|16 16|CAT
+@@11952|6 9|Ren1d 5' flanking sequence
+@@11952|20 21|TK promoter
+@@11953|19 19|Rep40
+@@11953|16 16|Rep52
+@@11953|1 7|adeno-associated virus ( AAV ) rep gene
+@@11953|14 14|Rep68
+@@11953|12 12|Rep78
+@@11955|13 13|beta-galactosidase
+@@11955|4 6|rnh-lacZ fused genes
+@@11955|1 1|dnaQ-lacZ
+@@11956|6 8|NFIL-1 beta A
+@@11956|10 12|NF beta A
+@@11956|39 44|human and murine IL-1 beta genes
+@@11957|4 5|USF subunits
+@@11957|21 23|recombinant USF proteins
+@@11959|27 27|D-region
+@@11959|12 14|complementarity determining region
+@@11959|10 10|CDR3
+@@11959|20 20|H-chains
+@@11960|10 12|3018-bp BAL cDNA
+@@11963|0 1|Arnt3 mRNA
+@@11964|1 1|RD19
+@@11964|3 4|RD21 mRNA
+@@11966|15 16|vertebrate wee1
+@@11966|18 19|mik1 homolog
+@@11970|10 10|DdRPs
+@@11971|2 3|NR isoforms
+@@11975|32 32|Rox-1
+@@11975|21 21|Oct-6
+@@11975|17 19|Oct-3 / 4
+@@11975|0 0|Rex-1
+@@11976|5 5|PGE2
+@@11976|7 8|PGF2 alpha
+@@11980|22 22|TEF-1
+@@11980|18 20|transcription enhancer factor-1
+@@11981|33 34|beta-galactosidase gene
+@@11982|3 5|E2F1 gene promoter
+@@11982|44 44|E2
+@@11986|20 20|transferrin
+@@11986|17 18|serum ferritin
+@@11987|25 25|IST
+@@11987|0 0|IST
+@@11987|10 10|Tat
+@@11987|34 34|Tat
+@@11988|6 7|DREF polypeptide
+@@11988|35 36|DRE sequences
+@@11988|22 22|DREF
+@@11991|4 5|DPM1 gene
+@@11992|9 9|BAD
+@@11992|11 16|Bcl-xL / Bcl-2 associated death promoter
+@@11992|6 7|Bcl-2 family
+@@11992|20 21|death enhancer
+@@11993|14 15|androgen-binding protein
+@@11996|10 10|KRAB
+@@11996|12 12|KAP-1-RBCC
+@@12000|2 2|p34CDC2
+@@12000|3 4|histone H1
+@@12000|5 5|kinase
+@@12001|8 8|AP-1
+@@12001|4 4|MAPK
+@@12001|19 19|NF-kappaB
+@@12001|17 17|AP-1
+@@12001|29 30|HIV-1 LTR
+@@12003|10 10|CD-1
+@@12004|2 3|uvsH77 mutants
+@@12005|6 8|Tcf target gene
+@@12006|28 33|factor VIII / von Willebrand factor
+@@12008|15 17|rearranged bcl-2 gene
+@@12010|5 6|ERR alpha
+@@12011|0 1|Antithrombin III
+@@12013|13 13|HuPLSCR1
+@@12013|8 9|PL scramblase
+@@12014|6 8|E1B 19K proteins
+@@12014|35 36|wild-type p53
+@@12014|3 3|Bcl-2
+@@12014|20 20|H-ras
+@@12015|44 46|epithelial-microtubule associated protein-115
+@@12015|73 75|negative co-factor 2alpha
+@@12015|86 86|Sox3
+@@12015|82 82|Cdc5
+@@12015|19 19|Oct91
+@@12015|15 17|epithelial-microtubule associated protein-115
+@@12015|55 55|BRG1
+@@12015|25 25|BRG1
+@@12015|48 50|Schizosaccharomyces pombe Cdc5
+@@12015|71 71|BRG1
+@@12015|84 84|HoxD1
+@@12015|21 23|Elongation factor 1gamma
+@@12015|88 88|Vent2
+@@12015|77 77|Oct91
+@@12015|58 60|RNA helicase WM6
+@@12015|52 53|innercentrosome protein
+@@12015|27 29|Ribosomal protein L18A
+@@12015|94 94|Xbr1b
+@@12018|6 7|Sp1 site
+@@12021|7 10|Site II regulatory factors
+@@12022|0 1|Botulinum toxin
+@@12025|9 10|apolipoproteins B
+@@12025|12 12|A-I
+@@12026|65 65|thymic
+@@12026|13 14|NP peptide
+@@12026|4 4|H-2d
+@@12026|35 38|major histocompatibility complex molecules
+@@12026|34 34|H-2d
+@@12026|53 53|H-2b
+@@12026|2 2|H-2b
+@@12026|32 32|H-2b
+@@12026|12 12|H-2b
+@@12026|49 49|NP
+@@12026|5 6|NP peptides
+@@12026|60 60|H-2d
+@@12027|28 31|CCAAT enhancer-binding protein beta
+@@12027|15 15|CRE
+@@12027|50 52|nuclear factor Y
+@@12027|20 26|activating transcription factor ( ATF ) -4
+@@12029|5 8|C / EBP-binding site
+@@12029|11 12|Gadd45gamma promoter
+@@12029|14 16|C / EBPbeta
+@@12029|18 20|C / EBPdelta
+@@12030|2 3|v-abl oncogenes
+@@12030|0 0|BCR-ABL
+@@12031|28 28|rpoAL290H
+@@12034|3 7|chick brain alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptors
+@@12035|5 9|MetRS / CAU operator complex
+@@12035|19 23|ThrRS / CGU operator complex
+@@12037|13 18|activation function ( AF-2 ) domain
+@@12037|12 12|VDR
+@@12037|6 6|GRIP1
+@@12037|3 3|VDR
+@@12037|31 31|VDR
+@@12037|8 8|RAC3
+@@12038|6 6|S27a
+@@12038|33 33|NH2-ubiquitin-S27a-COOH
+@@12038|9 9|ubiquitin
+@@12039|7 8|polymerase domain
+@@12040|15 17|inducible NO synthetase
+@@12041|14 15|gamma globulin
+@@12042|11 11|JNK
+@@12042|15 16|p38 kinase
+@@12043|26 27|ORF T3C
+@@12043|12 13|hexanucleotide ATTGTT
+@@12045|0 0|Cdk2
+@@12045|5 6|cyclin D1
+@@12048|17 17|TNF
+@@12049|19 21|chimeric E2A-HLF proteins
+@@12049|16 17|wild-type HLF
+@@12051|49 49|Vav
+@@12051|34 34|GTPases
+@@12051|4 4|Vav
+@@12051|29 29|Ras
+@@12051|12 14|small GTP-binding proteins
+@@12051|31 32|Rho family
+@@12051|43 43|JNK
+@@12051|7 10|guanine nucleotide exchange factors
+@@12051|41 41|MAPK
+@@12052|7 9|cyanobacterial HemB protein
+@@12054|15 16|Cdc25 protein
+@@12055|12 12|AFAP-110
+@@12061|2 3|ATPase cluster
+@@12065|3 4|carboxypeptidase A
+@@12065|0 0|Latexin
+@@12067|7 7|MEKK1
+@@12067|19 19|ANF
+@@12067|5 6|protein kinase
+@@12067|15 17|atrial natriuretic factor
+@@12068|7 7|insulin
+@@12069|21 26|gibbon ape leukemia virus envelope proteins
+@@12069|6 7|Glvr-1 gene
+@@12071|8 11|homologs of Hh molecules
+@@12073|0 2|MDS1 / EVI1
+@@12074|13 17|CKIalpha site ( Thr-233 )
+@@12074|23 23|c-Raf
+@@12074|9 10|14-3-3 zeta
+@@12075|4 4|pADPRP
+@@12075|2 2|ubiquitin
+@@12075|9 9|pADPRP
+@@12077|2 2|HMGI-C
+@@12078|6 6|IgE
+@@12078|3 4|immunoglobulin E
+@@12079|9 18|P22 R17 [ A ( -10 ) U ] )
+@@12079|6 7|OcRNA site
+@@12079|1 3|P22 R17 derivative
+@@12080|11 13|tissue plasminogen activator
+@@12081|25 25|fibroglycan
+@@12083|15 16|Rev mutant
+@@12085|0 3|LH / CG receptor
+@@12085|16 17|PI 3-kinase
+@@12085|6 6|ARNO
+@@12085|21 25|G protein beta gamma subunits
+@@12085|13 14|phosphatidylinositol 3-kinase
+@@12086|2 5|human heat shock factor
+@@12088|0 0|Rss1p
+@@12089|14 14|CATase
+@@12089|8 10|adenovirus E1A gene
+@@12090|17 20|T7 RNA polymerase promoter
+@@12090|7 8|cvaA gene
+@@12092|7 9|full-length FGF-AS mRNA
+@@12092|25 26|FGF-AS sequence
+@@12092|1 2|FGF-AS cDNAs
+@@12093|17 17|leptin
+@@12094|11 13|bacterial chloramphenicol acetyltransferase
+@@12094|26 26|E7
+@@12095|12 16|adipocyte-type fatty acid binding protein
+@@12095|4 7|endogenous PPARgamma target gene
+@@12095|18 18|A-FABP
+@@12098|14 15|RAS superfamily
+@@12098|4 4|ARF
+@@12098|17 21|low molecular weight GTP-binding proteins
+@@12098|1 2|ADP-ribosylation factor
+@@12098|23 24|G proteins
+@@12099|10 16|myeloid / B-cell-specific factor PU . 1
+@@12099|7 7|v-ets
+@@12101|7 11|mouse immunoglobulin kappa 3' enhancer
+@@12103|20 20|proteases
+@@12103|10 13|interleukin-1beta converting enzyme gene
+@@12107|21 21|p53
+@@12107|6 7|p53 mutants
+@@12107|13 13|p53
+@@12116|20 20|TNF-alpha
+@@12116|25 25|CD28
+@@12116|2 3|protein kinases
+@@12116|22 22|IL-1
+@@12116|5 7|c-Jun NH2-terminal kinases
+@@12116|9 9|JNKs
+@@12116|11 14|/ stress-activated protein kinases
+@@12117|28 32|primate LHbeta-CGbeta gene cluster locus
+@@12117|21 25|equid LH / CGbeta gene
+@@12119|8 9|angiotensin II
+@@12121|12 12|MED-1
+@@12121|8 8|Pint
+@@12122|1 10|1 . 5-kb HindIII genomic fragment carrying the vspA gene
+@@12123|2 3|transferrin II
+@@12124|4 4|Cdc42p
+@@12124|17 17|PAK
+@@12124|18 18|Ste20p
+@@12126|28 29|IFN-gamma-encoding gene
+@@12126|3 3|IFN-gamma
+@@12127|1 2|HBP gene
+@@12130|3 4|PDP1 isoforms
+@@12131|15 15|calcitonin
+@@12132|11 12|rHu EPO
+@@12135|17 19|SF-1 binding site
+@@12135|29 29|SF-1
+@@12136|0 2|Integrin adhesion receptors
+@@12138|18 18|Restin
+@@12138|11 11|CLIP-170
+@@12141|3 7|vascular cell adhesion molecule 1
+@@12141|26 29|tumor necrosis factor alpha
+@@12141|22 24|cytokines interleukin-1 beta
+@@12141|31 31|TNF-alpha
+@@12141|9 9|VCAM-1
+@@12142|14 14|IE2
+@@12142|45 47|UL112-113 accessory protein
+@@12142|39 39|SSB
+@@12142|41 41|UL57
+@@12142|30 30|UL44
+@@12142|34 37|single-stranded DNA binding protein
+@@12142|26 28|polymerase processivity factor
+@@12144|1 1|kinases
+@@12144|10 11|Trk subfamily
+@@12145|3 3|YFV
+@@12145|27 29|class Ia molecules
+@@12145|7 7|ABR
+@@12145|4 5|Ag-binding region
+@@12146|6 9|polyoma middle T antigens
+@@12146|26 26|p38
+@@12146|22 24|JNK / SPK
+@@12146|18 18|ERK
+@@12148|10 10|AHA2
+@@12148|8 8|AHA3
+@@12149|12 12|JNK
+@@12149|14 14|ERK
+@@12149|17 19|p38 MAP kinase
+@@12149|38 38|rhoB
+@@12149|27 27|rhoB
+@@12150|20 22|HLA-DRA X-box oligonucleotide
+@@12150|11 14|W and V elements
+@@12150|5 7|Raji nuclear proteins
+@@12152|0 0|Slap
+@@12152|3 3|Src
+@@12153|16 16|TSC2
+@@12154|17 17|SH3-like
+@@12154|21 23|WW domain-binding site
+@@12154|2 3|NPF repeats
+@@12156|0 0|Cat-1
+@@12156|25 25|Arf-GAP
+@@12156|15 15|betaARK
+@@12156|11 13|beta-adrenergic receptor kinase
+@@12156|17 17|GRK-2
+@@12159|0 8|Human immunodeficiency virus type 1 ( HIV-1 ) IN
+@@12160|18 18|U6-P
+@@12160|12 16|U6 small nuclear RNA promoter
+@@12160|6 6|TAR
+@@12162|7 7|ATP2C1
+@@12164|36 38|VCAM-1 gene promoter
+@@12164|12 14|chloramphenicol acetyltransferase constructs
+@@12164|22 23|VCAM-1 promoter
+@@12164|26 27|NF-kappaB sites
+@@12164|17 17|Tax
+@@12164|8 9|VCAM-1 promoter
+@@12165|4 4|RPF-1
+@@12166|12 14|sry messenger RNAs
+@@12168|16 16|properdin
+@@12171|17 17|BX42
+@@12172|7 8|E1A proteins
+@@12174|14 15|27S precursors
+@@12175|8 9|G Hb
+@@12177|33 33|RPTPs
+@@12177|12 12|PTPs
+@@12177|26 27|soluble PTPs
+@@12177|30 31|receptor PTPs
+@@12177|9 10|protein-tyrosine phosphatases
+@@12178|16 18|cAMP responsive promoter
+@@12178|7 8|anti-CBP antiserum
+@@12179|8 9|5-HT2 receptor
+@@12180|0 0|S2F
+@@12180|17 18|RPL21 gene
+@@12181|14 19|PtdIns ( 4 ) P kinase
+@@12182|42 42|PR
+@@12182|20 20|PR
+@@12185|8 9|UL28 gene
+@@12186|21 21|PrgX
+@@12186|10 10|prgX
+@@12186|15 16|Qa promoter
+@@12186|18 18|prgQ
+@@12187|3 4|serum immunoglobulins
+@@12187|0 1|Secretory IgA
+@@12188|3 3|beta-receptor
+@@12189|25 25|MLSN1
+@@12189|5 6|MLSN1 transcripts
+@@12190|3 4|MHBst proteins
+@@12192|5 9|C / EBP family members
+@@12193|22 22|CopA
+@@12193|6 7|repA mRNA
+@@12194|1 3|yeast LPD1 gene
+@@12194|20 22|GCN4 transcription factor
+@@12194|5 6|lipoamide dehydrogenase
+@@12199|18 20|neo replacement cassette
+@@12199|5 7|recombinant H19 allele
+@@12200|1 6|yeast C-type cyclin Ume3p / Srb11p
+@@12200|12 12|Cdk
+@@12200|14 14|Ume5p
+@@12200|9 10|cyclin-dependent kinase
+@@12201|8 8|BCMA
+@@12201|11 16|TNFR-associated factor ( TRAF ) 1
+@@12201|18 18|TRAF2
+@@12201|21 23|TRAF3 adaptor proteins
+@@12204|25 27|mouse TS mRNA
+@@12205|40 41|PSG1-I gene
+@@12205|11 11|CAT
+@@12207|1 3|murine int-6 locus
+@@12207|19 26|48-kDa eIF3e subunit of translation initiation factor eIF3
+@@12209|17 17|Tin
+@@12209|13 14|homeodomain protein
+@@12209|15 15|Tinman
+@@12210|28 28|POR
+@@12210|1 2|por gene
+@@12210|20 21|tac promoter
+@@12212|6 8|bone alkaline phosphatase
+@@12213|0 1|Recombinant BRI1-KD
+@@12214|4 4|TRBP
+@@12214|7 9|CBP / p300
+@@12214|27 27|TRBP
+@@12214|17 22|DRIP / TRAP / ARC complex
+@@12214|11 11|DRIP130
+@@12216|1 2|ICE gamma
+@@12216|26 26|ICE
+@@12219|5 6|GCN3 product
+@@12219|14 14|GCN4
+@@12223|7 7|PKA
+@@12223|15 16|CFTR gene
+@@12223|24 24|CFTR
+@@12224|7 7|ILK
+@@12224|12 13|PTEN mutant
+@@12225|11 11|rhG-CSF
+@@12226|4 4|eIF6
+@@12227|38 38|TSH
+@@12227|32 33|serum TSH
+@@12227|56 57|serum thyroxin
+@@12227|21 21|TPO-Abs
+@@12227|18 19|thyroid peroxidase
+@@12229|2 2|NR
+@@12230|17 18|Ras proteins
+@@12233|2 2|CK-MB
+@@12233|7 7|CPK
+@@12233|24 24|CK-MB
+@@12233|12 12|total-CPK
+@@12236|5 6|protein C
+@@12238|10 11|HDC mRNA
+@@12239|2 2|ZNF74
+@@12239|25 26|pol IIo
+@@12239|32 33|RNA polymerase
+@@12239|49 52|KRAB multifinger protein family
+@@12241|26 27|human PPP5C
+@@12241|20 21|tetratricopeptide motif
+@@12241|35 36|rat PPT
+@@12241|29 29|PP5
+@@12241|15 17|protein serine-threonine phosphatase
+@@12245|6 7|protein S
+@@12245|10 11|antithrombin III
+@@12245|3 4|protein C
+@@12248|3 3|COUP-TF
+@@12252|5 8|p65-selected kappa B motif
+@@12252|29 32|heterodimeric NF-kappa B complex
+@@12253|8 9|cyclin E2
+@@12253|16 17|cyclin E
+@@12253|5 6|human cyclin
+@@12255|9 9|plasminogen
+@@12255|11 11|C3-complement
+@@12255|3 4|alpha 2-macroglobulin
+@@12255|6 7|alpha 1-antitrypsin
+@@12255|13 13|fibrinogen
+@@12259|0 3|B cell antigen receptor
+@@12259|5 5|BCR
+@@12259|17 19|Fc gamma RIIB1-BCR
+@@12259|11 12|SHP-2-pp120 complex
+@@12261|7 7|adducin
+@@12261|10 10|beta-3
+@@12264|5 6|BJ1 protein
+@@12264|28 31|high mobility group proteins
+@@12264|33 33|HMGs
+@@12265|11 16|his7 / dpm1 ( + )
+@@12265|2 2|Trdpm1
+@@12265|28 29|DPM synthase
+@@12265|5 8|dpm1 ( + )
+@@12269|0 0|TIP30
+@@12269|4 4|kinase
+@@12273|3 4|SPP1 genes
+@@12275|4 5|CRSV RNA-1
+@@12275|31 32|CRSV RNA-1
+@@12276|22 22|VH4
+@@12276|9 11|VH4 heavy chains
+@@12276|1 4|anti-I and anti-i CA
+@@12276|29 29|VH4-HV2a
+@@12278|4 4|CREB341
+@@12280|0 1|RNase MRP
+@@12280|19 23|nuclear 5 . 8S rRNA
+@@12281|9 10|ICBP90 gene
+@@12283|19 19|c-myc
+@@12283|14 14|c-myc
+@@12283|0 1|Tyrosine kinase
+@@12283|23 23|v-abl
+@@12283|4 4|interleukin-3
+@@12284|7 8|L1 elements
+@@12284|18 20|"V , "
+@@12284|14 16|"F , "
+@@12284|11 13|"A , "
+@@12286|17 20|C / EBP beta
+@@12286|5 15|CCAAT / enhancer binding protein ( C / EBP ) alpha
+@@12286|23 27|rat uncoupling protein gene promoter
+@@12288|22 24|U4 / U6
+@@12288|17 17|Prp44p
+@@12289|25 25|SATB1
+@@12289|19 23|special A-T-rich binding protein 1
+@@12290|32 32|PARP
+@@12290|14 15|PARP enzyme
+@@12290|6 8|p300 / CBP
+@@12290|2 2|E1A
+@@12291|8 9|tyrosine kinase
+@@12291|14 14|PP1
+@@12295|16 16|sid1
+@@12295|23 23|sid2
+@@12296|19 19|Hap46
+@@12296|24 24|hsp70
+@@12297|6 9|PEA3 ETS DNA-binding motif
+@@12297|0 0|Pet-1
+@@12300|24 25|RSK mutants
+@@12300|14 14|RSK3
+@@12300|11 11|RSK
+@@12300|61 61|MAPK
+@@12300|5 5|RSK
+@@12301|1 1|MEK
+@@12301|15 15|MEK
+@@12301|9 9|ERKs
+@@12301|24 25|ERK2-Delta19-25 mutants
+@@12303|22 22|p62
+@@12303|20 20|p60
+@@12303|31 31|p60
+@@12303|38 38|p62
+@@12304|2 2|ICBP90
+@@12304|11 13|endogenous topoisomerase IIalpha
+@@12306|23 24|HMG domain
+@@12306|6 6|LEF-1
+@@12309|31 34|human homolog of UPF1
+@@12309|6 10|mammalian homolog of yeast UPF1
+@@12309|27 28|human HUPF1
+@@12310|4 7|C / EBP family
+@@12310|14 14|LIP
+@@12310|16 16|CHOP-10
+@@12310|19 21|Ig / EBP
+@@12310|10 12|Ig / EBP
+@@12313|3 3|IL-12
+@@12317|12 19|Arabidopsis light-harvesting chlorophyll a / b protein gene
+@@12317|21 21|Lhcb1*3
+@@12318|17 17|ICP0
+@@12318|11 12|cyclin D3
+@@12319|8 9|PLC gamma
+@@12319|1 2|PDGFR mutants
+@@12321|9 9|mrIhh-N
+@@12323|3 3|albumin
+@@12326|13 16|phage M13 coat protein
+@@12327|26 26|IgA
+@@12327|2 3|serum IgA
+@@12330|18 18|MerR
+@@12330|32 33|merR mRNA
+@@12330|20 21|RNA polymerase
+@@12332|20 21|V8 protease
+@@12333|21 21|Mpk1p
+@@12333|10 10|Mpk1p
+@@12334|30 31|IRF1 gene
+@@12334|22 24|human RIL gene
+@@12339|18 19|AP-2 protein
+@@12339|3 3|AP-2
+@@12340|10 10|PKC
+@@12341|10 10|RUSH-1alpha
+@@12343|5 6|E2Fs 1-5
+@@12343|0 0|E2F-6
+@@12344|3 4|HMG-CoA reductase
+@@12346|7 9|endogenous RNA polymerase
+@@12352|23 24|SNARE protein
+@@12353|11 13|thymidine kinase promoter
+@@12355|19 20|rat Zn-15
+@@12355|0 5|Mouse growth hormone transcription factor Zn-16
+@@12357|13 17|H-2RIIBP nuclear hormone receptor cDNA
+@@12358|15 16|urinary porphyrin
+@@12358|25 25|porphyrin
+@@12359|4 7|C2H2-type zinc finger protein
+@@12359|9 9|SCOF-1
+@@12360|6 6|PP
+@@12366|0 3|Pseudomonas aeruginosa exotoxin A
+@@12368|24 25|p65 subunit
+@@12368|23 23|NF-kappaB
+@@12369|29 29|hsc70
+@@12369|1 2|U14 genes
+@@12369|25 27|70-kDa-cognate-heat-shock protein gene
+@@12371|19 20|c-cbl gene
+@@12371|15 16|GTPase-activating proteins
+@@12371|10 13|guanine nucleotide exchange factors
+@@12375|0 5|Wild type and mutant Epo cDNAs
+@@12376|4 5|RIalpha subunit
+@@12376|30 34|type I cAMP-dependent protein kinase
+@@12376|47 48|Calpha subunit
+@@12376|50 52|cAMP-dependent protein kinase
+@@12376|25 25|PrKX
+@@12378|2 3|MPO gene
+@@12379|25 25|adrenoreceptors
+@@12381|22 23|rice CDKs
+@@12381|9 13|Os ; CycH ; 1
+@@12381|17 17|R2
+@@12384|3 4|facB gene
+@@12384|14 27|N-terminal GAL4-like Zn ( II ) 2Cys6 ( or C6 zinc ) binuclear cluster
+@@12385|33 36|L12 / chloroplast ribosome
+@@12385|7 8|L12 mRNA
+@@12385|19 20|rpl12 genes
+@@12386|10 11|GHS-R variants
+@@12387|5 7|factor VII inhibitor
+@@12388|8 9|eIF-2alpha kinases
+@@12389|0 0|Wnt-1
+@@12389|2 2|int-1
+@@12391|9 11|LAZ-3 / BCL-6
+@@12391|7 7|PLZF
+@@12392|16 16|PKN
+@@12392|2 4|neurofilament L protein
+@@12392|12 14|neurofilament L protein
+@@12393|12 13|hprt locus
+@@12395|5 6|myosin V
+@@12396|20 20|PPIase
+@@12396|10 11|full-length Fpr3
+@@12400|16 20|Mlu I upstream activation sequence
+@@12403|6 6|ENBP1
+@@12405|8 8|E1A
+@@12406|2 2|fdsR
+@@12406|12 13|fds operon
+@@12406|9 9|FdsR
+@@12410|29 29|SIRE
+@@12410|31 34|short interspersed repetitive element
+@@12410|9 11|H1 . 8
+@@12410|15 16|TcP2beta genes
+@@12412|0 0|Statins
+@@12413|11 11|SOX9
+@@12414|13 14|D2 receptor
+@@12414|18 21|D1 / D2 receptor
+@@12418|17 17|IFNs
+@@12418|3 3|c-myc
+@@12419|12 12|ELE1
+@@12421|37 37|SOD-1
+@@12421|39 39|catalase
+@@12426|4 8|heat shock transcription factor 1
+@@12427|1 2|hypBFCDE operon
+@@12427|12 13|Fnr-type promoter
+@@12427|19 20|fnrN gene
+@@12428|16 16|histone
+@@12428|4 5|histone acetyltransferase
+@@12428|8 8|p300
+@@12430|10 10|interferon
+@@12431|13 14|human PS
+@@12431|17 17|prothrombin
+@@12431|8 8|Gla
+@@12431|19 20|factor X
+@@12431|10 11|EGF-1 modules
+@@12432|16 16|fibrin
+@@12433|9 9|PPARalpha
+@@12433|4 7|peroxisome proliferator-activated receptor alpha
+@@12434|28 29|transcript D
+@@12434|11 14|transcripts C and E
+@@12435|16 18|CaM PDE isoforms
+@@12435|0 0|RNase
+@@12435|6 9|61-kDa CaM PDE mRNA
+@@12437|25 25|IHF
+@@12438|17 19|NHE5 genomic clone
+@@12439|5 5|Stat3beta
+@@12439|3 3|Stat3
+@@12440|0 1|Brain cholinesterase
+@@12440|16 17|brain cholinesterase
+@@12440|19 19|ChE
+@@12442|5 7|YY1 consensus sequence
+@@12442|10 11|protein B
+@@12442|19 22|yeast ABF-1 consensus sequence
+@@12443|15 15|ErbB4
+@@12443|12 12|ErbB3
+@@12443|10 10|ErbB1
+@@12443|5 5|ErbB2
+@@12443|2 2|VaII
+@@12443|0 0|VaI
+@@12445|4 4|MAP1-specific
+@@12445|6 7|MAP2-specific mRNAs
+@@12445|30 32|nerve growth factor
+@@12445|18 19|MAP1-specific mRNA
+@@12447|1 2|SRF-related proteins
+@@12448|12 12|48K5
+@@12449|4 4|E12
+@@12449|9 9|E12
+@@12449|7 7|MyoD
+@@12449|26 27|cardiac alpha-actin
+@@12449|2 2|myogenin
+@@12450|33 35|Fur binding sites
+@@12450|2 2|irgA
+@@12457|3 5|nitric oxide synthase
+@@12458|1 1|c-myc
+@@12458|3 6|skeletal alpha-actin gene promoters
+@@12458|8 10|YY1 binding sites
+@@12460|23 24|mammalian eIF-4G
+@@12460|16 21|wheat eIF- ( iso ) 4F
+@@12462|17 17|LexA
+@@12462|9 9|MucA
+@@12463|6 17|human lymphocyte-specific high mobility group ( HMG ) -box transcription factor TCF-1
+@@12464|16 17|protein IX
+@@12466|4 5|CAK beta
+@@12466|21 21|fibronectin
+@@12471|2 6|EGFP-tagged DENTT NLS deletion constructs
+@@12471|10 10|NLS-1
+@@12474|43 43|PKR
+@@12474|36 37|RNase III
+@@12474|40 41|dsRNA-dependent kinase
+@@12475|9 10|dopamine receptor
+@@12477|28 29|SN antibody
+@@12477|2 7|serum neutralizing ( SN ) antibody
+@@12478|17 17|CBF1
+@@12478|34 35|Cp site
+@@12478|23 24|CD23 promoter
+@@12478|12 14|CBF1 binding sites
+@@12478|27 30|EBV LMP-1 promoter sites
+@@12480|15 15|SOD1
+@@12482|9 19|p300 / cyclic AMP-responsive element binding ( CREB ) -binding protein
+@@12482|25 25|p53
+@@12482|0 6|Human homologue of yeast Rad23 protein A
+@@12484|12 17|human nucleotide excision repair protein XPA
+@@12484|9 9|M98-F219
+@@12488|14 14|NHE3
+@@12488|41 41|NHE3
+@@12489|0 3|Stress-activated protein kinase 1
+@@12489|14 14|JNK
+@@12489|10 12|c-Jun N-terminal kinase
+@@12489|5 5|SAPK1
+@@12490|7 7|Botox
+@@12490|4 5|botulinum toxin
+@@12491|7 18|E2F element ( ( m ) CG ( m ) CG )
+@@12494|14 16|cAMP-dependent protein kinase
+@@12494|0 3|Isoform C beta 2
+@@12503|14 15|human STEP
+@@12503|22 24|murine STEP gene
+@@12504|5 6|Tax I
+@@12504|17 17|TRE-2
+@@12506|4 4|CXCR2
+@@12507|10 10|CO-Ag
+@@12508|14 14|CAT
+@@12508|11 12|chloramphenicol acetyltransferase
+@@12516|23 23|proto-sis
+@@12516|34 36|viral-sis messenger RNA
+@@12517|3 4|suf12 locus
+@@12518|11 12|botulinum toxin
+@@12525|5 5|Rad54p
+@@12525|7 7|Mus81p
+@@12526|19 21|actin gene transcript
+@@12527|24 24|RPA's
+@@12527|16 17|Mcm protein
+@@12531|42 42|Ras
+@@12531|18 18|Ras
+@@12531|25 27|protein kinase C
+@@12531|6 13|Y977F / Y989F [ PLC gamma-binding sites ]
+@@12533|7 12|mammalian and Xenopus NeuroD1 / BETA2
+@@12533|17 18|insulin gene
+@@12534|46 46|PSA
+@@12534|29 29|PSA
+@@12537|10 13|VtHb amino acid sequence
+@@12538|13 13|talin
+@@12538|15 15|actin
+@@12539|10 10|Smad4
+@@12539|0 2|Cam kinase II
+@@12539|8 8|Smad2
+@@12539|18 18|Smad3
+@@12540|11 12|mature SAP-1
+@@12540|20 21|transmembrane-type PTP
+@@12540|7 8|SAP-1 cDNA
+@@12540|27 28|PTP-conserved domain
+@@12542|28 31|myeloid zinc finger protein-1
+@@12542|23 23|p300
+@@12542|42 45|Cdx protein-2 binding sites
+@@12542|18 19|activator protein-2
+@@12542|21 21|MyoD
+@@12542|12 12|Sp1
+@@12542|25 26|nuclear factor-kappaB
+@@12542|14 16|early growth response-1
+@@12542|33 39|caudal-related homeobox ( Cdx ) gene A
+@@12543|4 5|mutant desmin
+@@12543|19 19|desmin
+@@12544|6 6|I-CreI
+@@12545|17 17|P2-RE
+@@12545|12 12|RTRE
+@@12545|26 29|mouse protamine 2 gene
+@@12545|41 41|RTR
+@@12545|6 6|conRTRE
+@@12546|0 0|Osteoadherin
+@@12547|3 4|scr1-1 mutation
+@@12547|22 22|AEP
+@@12548|11 12|BamHI-K fragment
+@@12548|36 37|BamHI-C fragment
+@@12548|25 28|EBV-associated nuclear antigen EBNA-1
+@@12552|7 8|S1 nuclease
+@@12555|1 1|PRL-R
+@@12557|10 10|mHuA
+@@12557|27 27|Elavl1
+@@12557|7 8|mouse Elavl1
+@@12557|25 25|mHuA
+@@12560|11 14|myosin heavy chain gene
+@@12561|14 14|KCS
+@@12561|22 23|factor Sp1
+@@12562|23 24|Hox genes
+@@12563|5 6|CYC1 gene
+@@12567|12 12|Ser-123
+@@12567|43 43|HDAgs
+@@12567|25 26|large HDAg
+@@12567|10 10|Ser-2
+@@12567|15 15|Ser-210
+@@12567|33 35|virus-like HDAg particle
+@@12569|9 9|GPT
+@@12569|7 7|LAP
+@@12570|68 68|Ets-1
+@@12570|89 91|hepatocyte nuclear factor-5
+@@12570|20 21|AP-2 box
+@@12570|63 63|p53
+@@12570|16 17|AP-1 box
+@@12570|24 25|Malt box
+@@12570|33 34|serum-responsive element
+@@12570|83 83|Zeste
+@@12570|58 58|Myb
+@@12570|53 53|CTF-NF1
+@@12570|46 48|GC-rich binding factor
+@@12570|78 78|MyoD
+@@12570|73 73|NF-IL6
+@@12570|41 41|Sp1
+@@12571|2 2|ACTH
+@@12574|18 19|RNP motif
+@@12574|22 23|U1A protein
+@@12576|0 1|Cyclin G2
+@@12577|17 18|bovine IgG2
+@@12577|13 13|hIgA
+@@12577|8 8|FcalphaRI
+@@12577|24 24|bFcgamma2R
+@@12577|29 29|hIgA
+@@12577|10 11|human IgA
+@@12577|26 26|bIgG2
+@@12577|20 20|bIgG2
+@@12578|0 0|CD3
+@@12578|6 6|Sam68
+@@12579|5 8|cathepsin X amino acid
+@@12581|8 8|TFA1
+@@12582|35 36|cyclin E-
+@@12582|24 30|cyclin-dependent kinase inhibitor p27 ( kip1 )
+@@12582|38 40|cyclin A-dependent kinase
+@@12582|48 49|retinoblastoma protein
+@@12582|51 51|pRb
+@@12583|0 0|Urease
+@@12584|12 12|MRP13
+@@12585|0 4|Nuclear-encoded chloroplast ribosomal protein L12
+@@12586|20 22|interferon regulatory factor
+@@12586|32 32|IRF-2
+@@12586|37 38|ISGF3 gamma
+@@12586|30 30|IRF-1
+@@12586|24 24|IRF
+@@12586|5 5|Pip
+@@12586|34 34|ICSBP
+@@12588|3 4|IgA lambda
+@@12597|3 4|bovine IgG2--VIII
+@@12600|7 7|cna2
+@@12600|5 5|MATa
+@@12600|11 11|MATa
+@@12600|6 6|cna1
+@@12600|12 13|cnb1 mutants
+@@12602|29 31|HD-Zip binding sites
+@@12602|17 17|Oshox1
+@@12603|10 10|snR13F
+@@12603|16 18|3' C2U4 repeat
+@@12603|4 6|5' C2U4 repeat
+@@12604|5 6|HMG-CoA reductase
+@@12605|20 20|ftz
+@@12605|0 0|Slp1
+@@12606|13 17|rpoD ( P504L ) mutant
+@@12606|2 3|rrnB P1-lacZ
+@@12607|26 26|interleukin-2
+@@12607|19 20|CD3 zeta
+@@12607|32 36|antigen / major histocompatibility complex
+@@12607|6 7|Ti alpha-beta
+@@12607|29 29|TCR
+@@12607|12 13|TCR complexes
+@@12607|8 11|CD3 gamma delta epsilon
+@@12610|6 10|human cyclin-dependent kinase inhibitor p18
+@@12611|0 4|Human MN / CA9 gene
+@@12611|11 13|carbonic anhydrase family
+@@12612|8 8|DSPP
+@@12612|12 12|DSP
+@@12612|14 14|DPP
+@@12615|7 9|FAX-ZFP transcription units
+@@12616|30 30|IL-6
+@@12621|7 10|endothelial nitric oxide synthase
+@@12622|18 18|lacZ
+@@12623|14 17|cyclin A / Cdk2
+@@12623|7 7|B-Myb
+@@12624|7 7|mHuA
+@@12624|16 17|Elav family
+@@12627|18 19|human paxil-lin
+@@12627|1 3|chicken paxillin cDNA
+@@12628|83 84|growth hormone
+@@12633|3 3|AP-1
+@@12636|19 20|monoamine oxidase
+@@12639|21 22|UAS element
+@@12641|8 9|CBF DNAs
+@@12641|5 5|NF-Y
+@@12641|3 3|EFI
+@@12644|3 4|prolyl-tRNA synthetase
+@@12644|0 1|Glutamyl-tRNA synthetase
+@@12644|10 11|aminoacyl-tRNA synthetases
+@@12645|7 7|sHGFr
+@@12645|10 10|HGF
+@@12645|5 5|HGFr
+@@12647|32 32|NF-Y
+@@12647|24 26|C / EBP
+@@12647|30 30|AP2
+@@12647|48 49|cyclin D2
+@@12647|10 11|cyclin D2
+@@12647|28 28|PEA3
+@@12647|34 34|c-Myc
+@@12647|37 37|Sp1
+@@12650|31 32|thymidylate kinase
+@@12650|18 20|yeast dTMP kinase
+@@12650|6 10|E . coli tmk gene
+@@12653|49 49|EBNA2
+@@12653|25 25|CBF2
+@@12653|8 8|CBF2
+@@12653|11 11|EBNA2
+@@12653|39 41|CBF1 binding element
+@@12653|17 19|hnRNP protein AUF1
+@@12656|0 0|AF154055
+@@12657|25 25|EGF
+@@12657|1 7|epidermal growth factor ( EGF ) receptor
+@@12657|12 14|protein tyrosine kinase
+@@12661|12 13|xanthine oxidase
+@@12661|15 15|XO
+@@12662|12 13|endothelial-TACC-related cDNA
+@@12663|18 19|Skn domain
+@@12664|5 8|Jun / eb1 chimeras
+@@12664|21 21|c-Ha-Ras
+@@12664|13 14|AP1 sites
+@@12668|5 5|B"
+@@12668|12 13|TFIIIB-DNA complex
+@@12671|17 18|wild-type FecR
+@@12671|2 4|active FecR derivative
+@@12675|3 3|LPL
+@@12675|5 5|HL
+@@12675|16 16|lipase
+@@12677|9 10|rheumatoid factor
+@@12678|37 38|CTCCC sequence
+@@12683|0 6|Interferon Regulatory Factor ( IRF ) -1
+@@12684|5 6|cyc07 gene
+@@12686|35 37|protein kinase A
+@@12686|28 29|CREM tau
+@@12686|20 25|cyclic AMP response element binding proteins
+@@12686|26 26|CREB
+@@12687|5 8|HER-2 / neu antigen
+@@12688|24 24|GapB
+@@12688|22 22|GapA
+@@12688|18 20|chloroplast GAPDH genes
+@@12693|28 28|dGuo
+@@12693|30 30|dCyd
+@@12693|15 15|dGK
+@@12693|17 18|dCK subunit
+@@12693|4 5|dAK subunit
+@@12694|2 12|TTF-1-binding sites ( TBE ) 1 , 3 , and 4
+@@12694|20 22|SP-A promoter-chloramphenicol acetyltransferase
+@@12694|25 26|SP-A gene
+@@12697|2 2|RAD23
+@@12699|13 14|alkaline phosphatase
+@@12699|7 7|hemoglobin
+@@12700|10 11|helicase motif
+@@12700|18 20|RNA polymerase motif
+@@12701|3 7|alpha 5 beta 1 integrin
+@@12701|20 20|fibronectin
+@@12702|20 22|HBs- and HBe-antibodies
+@@12702|12 18|HBc ( IgM and IgG ) -
+@@12702|4 8|Hepatitis A HBs- and HBe-antigen
+@@12705|20 20|avrBs2
+@@12706|16 17|trpE mRNA
+@@12706|5 6|mtr product
+@@12709|3 4|urokinase promoter
+@@12709|11 12|Met receptor
+@@12709|6 8|HGF / SF
+@@12709|22 22|Sos1
+@@12709|20 20|Grb2
+@@12714|31 31|IgM
+@@12714|29 29|IgG
+@@12715|8 8|FliQ
+@@12715|10 10|FliR
+@@12722|7 9|RNA polymerase II
+@@12722|21 21|TFIID
+@@12727|15 16|region IV
+@@12727|23 25|region II-III domain
+@@12727|6 8|conserved region IV
+@@12727|0 3|HNF-3 beta amino-terminal sequences
+@@12731|17 18|recombination-activating gene
+@@12731|20 20|RAG
+@@12731|36 36|Jdelta1
+@@12731|32 32|Ddelta3
+@@12735|4 7|Ypt / Rab family
+@@12735|0 1|Small GTPases
+@@12736|12 14|SRF-dependent skeletal alpha-actin
+@@12736|19 20|smooth alpha-actin
+@@12736|22 22|SM22alpha
+@@12736|16 17|cardiac alpha-actin
+@@12736|0 0|SRFDelta5
+@@12736|25 27|SRF promoter-luciferase reporter
+@@12737|0 0|Renin
+@@12741|22 22|luciferase
+@@12746|5 6|plasma TBG
+@@12753|13 15|RING finger family
+@@12753|9 10|LIM domain
+@@12755|0 1|T antigen
+@@12755|4 12|H-2Db-restricted cytotoxic T lymphocyte ( CTL ) recognition epitopes
+@@12759|22 25|G protein gamma subunit-like
+@@12759|41 41|RGS9
+@@12759|44 44|RGS11
+@@12759|15 15|EGL-10
+@@12759|17 17|pleckstrin
+@@12759|39 39|RGS7
+@@12759|13 13|disheveled
+@@12759|37 37|RGS6
+@@12759|34 36|mammalian RGS proteins
+@@12759|11 11|DEP
+@@12759|2 8|G protein signaling ( RGS ) proteins
+@@12759|20 20|GGL
+@@12760|18 20|homologous SelB protein
+@@12760|34 34|SelB-mRNA
+@@12761|7 10|yeast GCN2 eIF-2alpha kinase
+@@12761|12 12|yGCN2
+@@12763|4 4|Tbx6
+@@12764|19 24|transcriptional reporter FG ( TyA )
+@@12764|39 39|lacZ
+@@12764|7 9|Saccharomyces cerevisiae Ras2
+@@12764|27 27|lacZ
+@@12764|0 0|RAS2val19
+@@12764|33 36|mating pathway reporter FUS1
+@@12766|5 6|rheumatoid factor
+@@12767|1 3|Ng / RC3
+@@12767|5 6|PKC-gamma genes
+@@12770|25 26|botulinum toxin
+@@12775|36 39|heparan sulfate D-glucosaminyl 3-O-sulfotransferase
+@@12775|41 41|3-OST
+@@12776|18 19|angiotensin II
+@@12777|5 8|human I-mfa domain-containing protein
+@@12780|10 10|Msn2p
+@@12780|2 2|PKA
+@@12780|12 12|Msn4p
+@@12782|23 23|polymerase
+@@12782|13 17|RNA polymerase II interaction domain
+@@12782|7 7|ELL
+@@12784|17 18|c-fos promoter
+@@12784|4 4|YY1
+@@12785|7 8|c-Myb site
+@@12785|0 1|DNase I
+@@12787|4 5|cysteine proteinase
+@@12787|0 1|Cystatin A
+@@12790|7 7|c-myb
+@@12790|12 12|c-myb
+@@12791|11 13|luciferase reporter construct
+@@12791|10 10|HD-PPRE
+@@12791|3 5|CARbeta / RXRalpha
+@@12793|7 13|class I major histocompatibility complex gene promoter
+@@12795|11 12|delta hemolysin
+@@12805|18 18|NPC
+@@12805|1 1|RanQ69L
+@@12805|27 29|Can / Nup214
+@@12805|24 25|p62 complex
+@@12805|14 16|nuclear pore complex
+@@12805|7 7|CRM1
+@@12807|16 16|TyrRS
+@@12813|6 6|TRH
+@@12813|26 26|thyrotropin
+@@12814|18 19|GTP-binding proteins
+@@12814|1 3|alpha 2A-adrenergic receptor
+@@12814|5 6|alpha 2AAR
+@@12815|0 1|Cardiac endothelin
+@@12818|11 11|CREB
+@@12818|18 18|PIXY321
+@@12818|7 7|GM-CSF
+@@12819|1 4|Cr . psbA-4 ORF
+@@12819|13 14|GIY-YIG motif
+@@12819|7 8|H-N-H motif
+@@12820|7 13|Brassica napus 2S storage protein napA gene
+@@12821|3 4|GST mSH2-B
+@@12822|15 16|arylsulfatase A
+@@12822|18 18|ASA
+@@12825|10 10|Tiam1
+@@12826|21 21|Oct-1
+@@12826|15 17|Staf zinc fingers
+@@12826|4 8|xtRNA ( Sec ) gene
+@@12828|12 13|prostaglandin synthetase
+@@12829|0 4|Mitochondrial Mas70p signal anchor sequence
+@@12830|6 6|NHP6A
+@@12830|12 12|SLT2
+@@12830|8 8|NHP6B
+@@12833|22 22|DN
+@@12833|3 3|TCRA
+@@12833|19 19|CD8+
+@@12833|17 17|CD4+
+@@12833|0 1|TCR alpha
+@@12834|23 23|Sp1
+@@12835|11 11|SsEF-2
+@@12837|22 22|Wee1
+@@12837|12 16|N-terminal regulatory domain of Wee1
+@@12837|8 8|Cdr2
+@@12839|28 28|CAT
+@@12839|21 21|APE
+@@12839|7 9|HindIII DNA fragment
+@@12839|25 26|chloramphenicol acetyltransferase
+@@12839|16 19|human AP endonuclease gene
+@@12841|26 27|U1-70K protein
+@@12841|6 7|U1 snRNP
+@@12841|22 22|SR
+@@12841|29 31|SF2 / ASF
+@@12842|14 14|VIII
+@@12842|12 12|V
+@@12842|8 10|coagulation factors II
+@@12844|33 35|hepatic deiodinase system
+@@12846|6 6|NF-kappaB
+@@12846|3 3|A20
+@@12847|7 7|CDK
+@@12847|26 26|pRb
+@@12847|1 1|cyclins
+@@12847|24 24|pRb
+@@12847|48 50|E2F transcription factors
+@@12848|0 2|Snail family proteins
+@@12849|8 8|PSU1
+@@12850|36 36|EpiQ
+@@12850|28 29|epiA promoter
+@@12850|12 14|activator protein EpiQ
+@@12850|7 7|epiF
+@@12850|23 25|EpiQ binding site
+@@12854|3 4|protein S
+@@12856|11 12|small GTPase
+@@12856|20 21|C1 domain
+@@12857|6 9|exon U3 and S
+@@12859|5 5|endonuclease
+@@12861|26 27|TY epitope
+@@12861|20 21|CYC2 gene
+@@12861|16 16|CRKs
+@@12861|12 14|trypanosome cdc2-related kinases
+@@12861|3 3|CYC2
+@@12862|0 0|Dll3
+@@12862|6 8|mouse mutant pudgy
+@@12862|10 10|pu
+@@12863|28 29|polymerase sequence
+@@12863|19 20|p30 sequence
+@@12864|23 25|cAMP-responsive element-binding protein
+@@12864|10 10|PDGF
+@@12864|6 8|platelet-derived growth factor
+@@12864|21 21|CREB
+@@12865|4 5|factor IX
+@@12865|13 14|factor IX
+@@12866|14 18|17 hep syn gB gene
+@@12867|34 35|Drosophila PCNA
+@@12867|42 44|human PCNA polypeptides
+@@12870|1 1|fibrinogen
+@@12876|9 10|rheumatoid factor
+@@12880|0 0|Hprp3p
+@@12880|12 16|Saccharomyces cerevisiae splicing factor Prp3p
+@@12881|3 3|PTP-S4
+@@12881|0 0|PTP-S3
+@@12886|17 19|viral proteinase NS3
+@@12890|17 19|PKR activator sequence
+@@12890|21 21|S1
+@@12890|4 5|sigma 3
+@@12890|9 11|3'UTR / S1
+@@12890|24 26|3'-UTR of S4
+@@12890|7 7|S4
+@@12890|33 34|wild-type S4
+@@12892|32 36|ORF2a / ORF2b transframe protein
+@@12892|28 29|PLRV replicase
+@@12895|3 3|cpm7
+@@12897|15 18|factor VIII promoter sequences
+@@12899|6 9|Ad5 E4orf6 / 7
+@@12901|17 18|PE operons
+@@12901|8 8|rpeA
+@@12902|50 50|PECAM-1
+@@12902|6 7|Src homology-2
+@@12902|9 9|SH2
+@@12902|15 15|SHP-2
+@@12902|12 13|protein-tyrosine phosphatase
+@@12902|23 23|PECAM-1
+@@12906|1 6|paramyxovirus fusion ( F ) protein
+@@12907|11 11|Zn-16
+@@12908|4 5|early transposon
+@@12908|2 2|ETn
+@@12909|13 13|CAR1
+@@12909|0 0|Ume6p
+@@12909|19 19|URS
+@@12910|1 2|lysosomal enzyme
+@@12914|8 10|mouse 3Ost genes
+@@12915|8 8|CHA
+@@12915|10 10|CHB
+@@12915|4 6|constant region genes
+@@12915|3 3|IgH
+@@12916|1 2|uteroglobin promoter
+@@12916|6 8|estrogen responsive element
+@@12922|22 22|NSR1
+@@12922|31 32|GAR domain
+@@12922|20 20|SSB1
+@@12922|18 18|fibrillarin
+@@12922|16 16|nucleolin
+@@12924|31 35|Ca2+ / calmodulin-dependent protein kinases
+@@12925|18 18|PP2A
+@@12925|8 13|simian virus 40 small t antigen
+@@12925|36 36|CREB
+@@12926|9 10|serum ceruloplasmin
+@@12928|0 0|Vimentin
+@@12929|10 11|RNase T1
+@@12929|7 8|DNase I
+@@12930|1 5|V ( D ) J
+@@12930|28 29|p53 gene
+@@12930|52 52|p53
+@@12931|2 2|Fis
+@@12931|11 12|mar promoter
+@@12932|1 3|larval albumin-like protein
+@@12934|9 11|RNA polymerase II
+@@12934|13 14|RNAP II
+@@12935|6 6|NR5A2
+@@12935|8 8|hB1F
+@@12936|9 9|b5
+@@12936|13 13|b9
+@@12936|7 7|b4
+@@12936|23 25|Ckappa1 gene locus
+@@12936|11 11|b6
+@@12937|20 20|PPZ2
+@@12937|3 3|BCK2
+@@12937|18 18|PPZ1
+@@12937|10 10|BCK2
+@@12939|10 11|P initiators
+@@12939|7 8|lambda O
+@@12939|20 22|heat shock proteins
+@@12939|14 17|E . coli DnaJ
+@@12939|19 19|DnaK
+@@12943|16 16|IE110
+@@12943|14 14|500-VRPRKRR-506
+@@12943|12 12|IE175
+@@12943|10 10|726-GRKRKSP-732
+@@12944|19 20|DGK gene
+@@12949|38 39|GSK3 beta
+@@12949|42 44|Axin / Conductin
+@@12949|36 36|APC
+@@12949|28 28|beta-catenin
+@@12949|3 3|APC
+@@12949|12 16|nuclear Tcf-4 / beta-catenin complexes
+@@12951|16 16|ZAP-70
+@@12951|20 20|NFAT
+@@12951|13 13|Lck
+@@12951|11 11|Fyn
+@@12953|5 5|S-100beta
+@@12955|5 8|HIT protein similarity regions
+@@12956|26 29|TCR C alpha region
+@@12956|13 16|J alpha 11-2 region
+@@12960|21 22|PDGF beta-receptors
+@@12961|8 10|Akt / PKB
+@@12961|5 6|PH domain
+@@12964|15 18|simian virus-40 T antigen
+@@12966|7 7|cdc28-1N
+@@12969|7 7|ZBP-89
+@@12969|19 20|p53 protein
+@@12970|18 18|PTH
+@@12970|15 16|parathyroid hormone
+@@12973|0 0|DDP1
+@@12974|16 17|JB cis-element
+@@12974|7 9|PU . 1
+@@12974|36 38|PU . 1
+@@12977|18 19|GAR1 gene
+@@12979|3 3|c-Myb
+@@12979|6 7|RAG-2 promoter
+@@12979|15 18|consensus c-Myb binding site
+@@12980|6 6|CBP90
+@@12981|4 4|hydrogenase
+@@12985|3 3|hemoglobin
+@@12986|0 1|Antithrombin III
+@@12987|9 11|Ste11 transcription factor
+@@12987|4 5|HMG-box proteins
+@@12987|17 17|Mat1-Mc
+@@12988|12 12|HLA-DQA1
+@@12989|2 3|p51 subunit
+@@12990|1 1|pyrR
+@@12990|3 4|pyrP genes
+@@12991|4 4|insulin
+@@12994|4 7|murine phospholipase D homolog
+@@12995|21 21|VP2
+@@12995|4 4|VP1
+@@12995|23 23|VP3
+@@12996|21 21|MDR1
+@@12996|23 24|GC cDNAs
+@@12998|11 21|sialophorin mRNAs of 1 . 9 and 4 . 3 kb
+@@12999|8 9|T3R-RXR heterodimers
+@@13003|10 10|thrombin
+@@13004|20 22|cyclin- dependent kinases
+@@13004|24 24|CDKs
+@@13006|16 19|I kappa B kinase
+@@13006|3 4|zeta PKC
+@@13006|6 7|NF-kappa B
+@@13006|31 32|I kappa
+@@13008|15 16|tyrosinase-related protein
+@@13008|13 13|tyrosinase
+@@13013|8 11|p50 / p65 heterodimer
+@@13017|1 4|SCH9 protein kinase mRNA
+@@13018|16 17|CD23 promoters
+@@13018|6 6|CBF2
+@@13018|13 13|LMP-2
+@@13018|11 11|LMP-1
+@@13020|5 6|colony-stimulating factor
+@@13020|8 8|CSF
+@@13022|8 8|p190
+@@13022|14 14|PDGFR
+@@13023|9 9|CYP19
+@@13024|15 16|SIN5 gene
+@@13024|7 7|NCE3
+@@13025|3 3|mTRAP100
+@@13025|12 13|TRAP complex
+@@13025|21 21|TR
+@@13025|15 15|TRAP220
+@@13025|24 26|vitamin D receptor
+@@13026|22 24|p44mapk MAP kinases
+@@13026|8 10|RNAP II CTD
+@@13026|20 20|p42mapk
+@@13028|3 4|homeobox gene
+@@13028|13 16|myocyte-specific enhancer factor 2
+@@13028|2 2|Gax
+@@13029|17 19|AF1q translocation gene
+@@13029|5 7|human SPEC1 gene
+@@13036|12 13|SpHE promoter
+@@13037|22 26|p70 I kappa B protein
+@@13037|43 43|p105
+@@13037|4 9|105-kDa protein ( p105 ) precursor
+@@13037|17 18|NF-kappa B
+@@13037|28 31|I kappa B gamma
+@@13037|12 13|p50 subunit
+@@13039|0 1|Serotonin receptors
+@@13040|32 33|alkaline phosphatase
+@@13041|22 22|TCR
+@@13041|15 15|p21ras
+@@13041|25 27|protein tyrosine kinase
+@@13041|5 5|TCR
+@@13041|10 13|guanine nucleotide binding protein
+@@13044|0 0|A
+@@13044|25 25|AR
+@@13044|14 14|HREs
+@@13045|12 14|renal vein renin
+@@13045|2 2|renin
+@@13046|7 7|ferritin
+@@13047|19 19|ATPases
+@@13047|0 0|PAS1
+@@13048|19 21|histone H1 kinase
+@@13048|11 11|ICK1
+@@13048|18 18|Cdc2-like
+@@13048|2 2|ICK1
+@@13050|14 17|sGTH alpha / CAT
+@@13050|4 7|sGTH alpha subunit promoter
+@@13051|29 30|2D5 promoter
+@@13051|20 23|C / EBP alpha
+@@13051|5 9|C / EBP beta proteins
+@@13051|43 46|C / EBP site
+@@13052|9 11|active recombinant telomerase
+@@13054|19 20|p59Lyn kinase
+@@13054|35 35|caveolin
+@@13054|13 15|IRS1 / 3
+@@13055|23 23|dorf
+@@13055|8 9|vfr promoters
+@@13055|25 26|crp promoters
+@@13055|6 6|orfX
+@@13058|19 20|ADR1 gene
+@@13058|1 2|ADR1 gene
+@@13059|11 11|TGACGTCA
+@@13059|9 9|CRE
+@@13059|6 7|cAMP-responsive enhancer
+@@13061|0 0|Scmh1
+@@13063|16 18|viral gp120 SAg
+@@13063|12 12|gp120
+@@13063|26 32|human V ( H ) 3+ Igs
+@@13063|9 10|human Igs
+@@13065|36 36|polymerase
+@@13065|29 30|S1 nuclease
+@@13069|11 13|activator protein 1
+@@13069|15 15|AP-1
+@@13073|17 18|GP64 EFP
+@@13074|7 8|/ orkhead
+@@13074|1 3|hepatocyte nuclear factor-3
+@@13074|5 5|HNF-3
+@@13074|29 33|winged helix DNA binding motif
+@@13074|10 10|fkh
+@@13075|34 37|Neurospora crassa copper metallothionein
+@@13075|10 10|cap3
+@@13080|1 1|GEF
+@@13080|6 6|Ypt1p
+@@13080|3 3|GAP
+@@13081|12 12|Ku
+@@13081|4 4|DNA-PK
+@@13081|20 20|DNA-PKcs
+@@13081|0 2|DNA-dependent protein kinase
+@@13082|27 28|beta 4
+@@13082|12 13|beta 4
+@@13082|30 31|alpha 3
+@@13082|34 36|alpha 5 gene
+@@13082|9 10|alpha 3
+@@13084|1 1|RAD17
+@@13084|3 3|RAD24
+@@13084|5 5|MEC3
+@@13085|0 5|D5 / D1 ( CT )
+@@13085|7 12|D5 / D1D ( CT )
+@@13085|51 52|D1 receptors
+@@13085|27 32|wild-type ( wt ) D1 receptors
+@@13088|4 4|RGS12
+@@13088|14 18|PSD-95 / Dlg / ZO-1
+@@13088|12 12|PDZ
+@@13088|0 0|GTPase
+@@13089|19 20|ATLN elements
+@@13091|8 9|troponin I
+@@13093|22 22|GH
+@@13093|1 1|GH
+@@13093|29 29|GH
+@@13098|7 7|p21
+@@13100|7 7|ras
+@@13100|4 4|ICP10
+@@13103|35 36|consensus TRE
+@@13103|1 8|TIMP ( -59 / -53 ) AP1 site
+@@13103|50 51|consensus TRE
+@@13103|18 18|AP1
+@@13103|30 32|nuclear AP1 factors
+@@13103|15 17|c-Fos / c-Jun
+@@13104|5 5|SmSmad2
+@@13104|38 38|TGF-beta
+@@13104|9 9|TGF-beta
+@@13104|14 15|receptor I
+@@13105|17 17|rpo26-31
+@@13105|2 2|scs32
+@@13106|28 28|GR
+@@13106|11 14|alpha promoter DNA sequences
+@@13106|33 33|GRE
+@@13107|19 22|signal sequence-deleted CD4 cDNA
+@@13108|45 46|Pol beta
+@@13108|8 10|Pol beta protein
+@@13108|4 5|chimeric TdT
+@@13108|14 14|polymerase
+@@13108|21 22|Pol beta
+@@13110|7 8|beta' subunit
+@@13114|23 23|ILK
+@@13119|23 26|3 beta I-A element
+@@13123|36 37|GADD45 promoter
+@@13123|4 4|ERK
+@@13123|15 15|JNK1
+@@13123|25 25|ERK
+@@13123|2 2|JNK1
+@@13124|0 2|Transforming growth factor-beta1
+@@13124|4 4|TGF-beta1
+@@13126|30 31|SV40 promoter
+@@13129|4 4|protease
+@@13130|22 22|desmoplakin
+@@13130|0 0|Plectin
+@@13130|2 2|desmoplakin
+@@13130|18 18|plectin
+@@13131|16 16|Hum1p
+@@13131|4 5|hum1 mutants
+@@13135|16 16|IFN-gamma
+@@13135|1 1|STAT-1
+@@13135|13 14|CAEV LTR
+@@13140|2 3|10q24 locus
+@@13140|6 7|HOX11 oncogene
+@@13140|12 12|HUG1
+@@13143|11 13|CSF1R / IR
+@@13143|16 16|CSF-1
+@@13143|3 5|CSF1R / IRDelta960
+@@13144|11 12|PLTP family
+@@13147|2 2|PAF
+@@13148|10 11|Y317F Shc
+@@13148|16 16|c-myc
+@@13148|3 6|Y239 / 240F Shc
+@@13151|1 3|small IGF-binding protein
+@@13152|21 22|ner-binding sites
+@@13152|10 10|ner
+@@13155|32 33|max RNA
+@@13155|5 5|dMax
+@@13158|18 20|serum aspartate aminotransferase
+@@13160|5 5|calmodulin
+@@13160|1 1|Spc110p
+@@13164|8 8|ppg1
+@@13165|5 8|Ad7 and Ad5 DBPs
+@@13168|5 5|Ube3a
+@@13171|4 6|Swi4 DNA-protein complexes
+@@13171|2 2|Mbp1
+@@13172|33 34|HB antibodies
+@@13172|14 15|HB antibodies
+@@13173|32 32|polymerase
+@@13174|0 0|Cyclophilins
+@@13174|2 3|cis-trans-peptidyl-prolyl isomerases
+@@13179|16 17|Xa factor
+@@13182|4 4|aromatase
+@@13186|12 12|CRE
+@@13186|8 10|cAMP response element
+@@13189|18 20|retinoblastoma gene product
+@@13189|6 6|CR2
+@@13189|22 22|pRb
+@@13189|15 15|E1A
+@@13189|9 9|E1A
+@@13189|2 4|conserved region 2
+@@13189|39 41|wild type E1A
+@@13189|32 33|PEPCK promoter
+@@13190|0 1|Factor VIII
+@@13190|12 13|ristocetin cofactor
+@@13191|15 16|OPI1 gene
+@@13191|22 23|UASINO element
+@@13192|15 17|DB1 regulatory element
+@@13192|3 3|Arix
+@@13192|22 22|homeodomain
+@@13192|5 5|NBPhox
+@@13193|39 39|CPP32
+@@13193|14 17|ICE / Ced-3 proteases
+@@13193|32 35|ICE / Ced-3 protease
+@@13193|28 28|CPP32
+@@13193|4 4|fodrin
+@@13194|8 9|striatum-enriched phosphatase
+@@13194|10 13|( STEP ) gene
+@@13197|11 12|mak- phenotype
+@@13197|4 5|lts genes
+@@13198|3 3|ttk
+@@13198|1 1|tramtrack
+@@13198|19 20|ttk transcript
+@@13201|23 23|cellulose
+@@13202|14 14|CA125
+@@13204|10 10|COX-2
+@@13204|8 8|cyclooxygenase-2
+@@13204|0 0|TNF-alpha
+@@13206|2 3|SFV genes
+@@13207|0 0|Interleukin-6
+@@13208|5 6|E1 mutants
+@@13211|1 2|IA4 mAb
+@@13211|20 20|HLA
+@@13212|21 23|B7 costimulatory molecule
+@@13213|21 21|Aal-rpL34
+@@13213|23 24|Aal-rpL8 genes
+@@13213|7 9|AP-4 binding site
+@@13214|7 10|nuclear envelope lamin B
+@@13214|3 5|beta II PKC
+@@13214|24 26|soluble lamin B
+@@13214|17 18|alpha PKC
+@@13214|22 22|kinases
+@@13216|1 2|Aa-Pri2 gene
+@@13218|6 7|BRCA1 region
+@@13219|18 20|C1 hnRNP protein
+@@13219|8 9|U6 RNA
+@@13220|5 5|E2F1
+@@13220|3 3|DDB
+@@13221|14 15|alpha 0
+@@13221|11 12|alpha i2
+@@13221|21 22|Gq family
+@@13221|24 25|G proteins
+@@13224|13 16|insulin receptor substrate 1
+@@13224|18 18|IRS1
+@@13224|26 26|IL-4
+@@13225|10 12|amino-terminal kinase domain
+@@13225|0 0|ULKs
+@@13225|2 2|UNC-51
+@@13228|58 61|RNA / ssDNA-binding protein
+@@13228|23 24|TFIID complexes
+@@13228|78 80|RNA polymerase II
+@@13228|71 71|EWS
+@@13228|12 15|TATA-binding protein associated factor
+@@13228|76 76|TFIID
+@@13228|54 54|hTAFII68
+@@13228|0 1|RBP56 protein
+@@13228|17 17|TAF
+@@13228|66 69|proto-oncoproteins TLS / FUS
+@@13228|6 6|hTAFII68
+@@13232|0 1|Human LTBP-1
+@@13233|7 7|Sec12p
+@@13233|9 9|Stl1p
+@@13233|11 11|Stl2p
+@@13234|9 13|Notch-CBF1 / RBP-Jkappa signaling pathway
+@@13237|12 14|brain AE3 variants
+@@13238|1 2|ABFI-binding sites
+@@13240|20 23|C / EBP beta
+@@13240|9 12|C / EBP beta
+@@13243|8 8|somatomedin-C
+@@13243|6 6|GH
+@@13245|9 11|protein kinase C
+@@13245|13 13|neurogranin
+@@13245|15 16|RC3 protein
+@@13249|3 4|Raf-1 kinase
+@@13250|20 20|CRE
+@@13250|0 0|CREB
+@@13253|15 16|protein kinase
+@@13259|28 28|STAT3
+@@13259|8 9|tyrosine kinases
+@@13259|3 6|JAK / Tyk family
+@@13259|13 13|STAT3
+@@13259|23 23|kinase
+@@13259|17 17|CNTF
+@@13260|2 2|HR21ap
+@@13260|6 6|HR21Xap
+@@13260|13 13|Sp1
+@@13261|8 10|luciferase reporter gene
+@@13262|6 7|UAS2-dependent ADH2
+@@13263|18 19|serotonin receptors
+@@13264|15 16|IE2 86
+@@13264|4 5|IE2 86
+@@13264|8 9|full-length CREB
+@@13264|11 11|deltaCREB
+@@13264|35 35|CREB
+@@13264|21 21|p300
+@@13264|24 25|CREB-binding protein
+@@13264|43 43|CREB
+@@13264|27 27|CBP
+@@13266|23 23|MCL1
+@@13266|20 21|bcl-2-related gene
+@@13266|14 14|bcl-2
+@@13270|4 12|GaAs / ( Al , Ga ) As heterojunctions
+@@13271|6 8|type B antigen
+@@13272|3 4|hypoxia-inducible factor-1
+@@13272|6 6|HIF-1
+@@13273|1 1|ATF-1
+@@13273|22 23|kappa E3'-CRE
+@@13273|9 11|cAMP response elements
+@@13273|13 13|CRE
+@@13273|3 3|CREM
+@@13274|4 4|rt-PA
+@@13276|4 5|dopamine receptor
+@@13278|2 2|telSMN
+@@13278|17 17|telSMN
+@@13279|25 25|RNA3
+@@13279|14 14|RNA3
+@@13279|19 19|RdRp
+@@13281|17 18|drm mRNA
+@@13282|4 4|collagen
+@@13283|18 18|CMD1
+@@13283|20 20|myogenin
+@@13284|18 18|CD44
+@@13284|1 2|XS2 gene
+@@13284|10 11|LU genes
+@@13285|15 15|TGF-beta
+@@13286|10 12|NRSF / REST
+@@13287|19 23|C-terminal truncated TSHR ectodomain variants
+@@13288|10 10|FSH
+@@13288|15 18|inhibin A and B
+@@13288|12 12|LH
+@@13291|13 17|N-terminally truncated MIP-1 beta variants
+@@13293|8 8|NCoR
+@@13294|18 26|rat testis fructose-6-phosphate , 2-kinase : fructose-2 , 6-bisphosphatase
+@@13295|3 3|PAL
+@@13295|8 11|10 bp sequence GGGGAGGAGG
+@@13299|18 18|orf-x
+@@13299|13 13|gag
+@@13299|15 15|pol
+@@13300|25 26|bacterial urease
+@@13308|28 28|p32
+@@13308|30 31|p30 isoforms
+@@13308|24 25|mim-1 promoter
+@@13309|17 19|TATA-box binding protein
+@@13309|12 12|IEP86
+@@13309|21 21|TBP
+@@13310|7 8|triosephosphate isomerase
+@@13315|8 11|inhibin / activin beta
+@@13315|12 13|B-subunit mRNAs
+@@13316|6 8|cAMP response element
+@@13316|18 19|GnRH-II promoter
+@@13317|7 13|types I and II 3 beta-HSD isoenzymes
+@@13317|1 1|HSD3B1
+@@13317|3 4|HSD3B2 genes
+@@13320|3 7|aryl hydrocarbon receptor nuclear translocator
+@@13320|10 12|aryl hydrocarbon receptor
+@@13321|12 12|p-gvpF
+@@13321|14 14|p-gvpE
+@@13321|4 5|p-gvpF-M mRNA
+@@13322|8 8|cAPK
+@@13323|45 47|Hb Costa Rica
+@@13323|27 30|Hbs Lepore or Kenya
+@@13323|34 35|beta-globin gene
+@@13324|15 16|LXXLL motifs
+@@13324|22 22|SRC1
+@@13324|19 20|AD1 region
+@@13325|2 7|sigma factor sigmaB in Staphylococcus aureus
+@@13325|12 13|sigB operon
+@@13326|2 2|erythropoietin
+@@13326|4 4|EPO
+@@13327|0 0|Endorphins
+@@13328|0 6|UDP-Gal : Gal beta 1----4GlcNAc alpha 1----3-galactosyltransferase
+@@13328|9 10|terminal glycosyltransferase
+@@13334|21 23|cpc-1 coding region
+@@13335|9 9|M-protein
+@@13336|8 11|AP2 core binding region
+@@13336|19 19|AP2
+@@13336|31 33|HGF gene promoter
+@@13336|24 24|AP2
+@@13338|25 26|beta-globin mRNA
+@@13338|4 5|beta-globin mRNA
+@@13339|12 13|P protein
+@@13341|3 4|HIV-1 LTR
+@@13341|48 48|LTR
+@@13341|6 7|T3R alpha
+@@13341|30 33|basal transcription factor TFIIB
+@@13341|17 20|A / B region
+@@13341|43 45|Tat-independent responsive sequences
+@@13341|22 23|T3R alpha
+@@13342|0 0|Ste18p
+@@13344|4 4|cmr
+@@13353|17 18|ETS-domain proteins
+@@13354|18 19|Rel-related proteins
+@@13360|7 7|U14
+@@13360|17 20|Saccharomyces cerevisiae U14 RNAs
+@@13360|23 24|Y domain
+@@13362|0 1|Pre-beta-1 lipoprotein
+@@13363|16 18|hepatic triglyceride lipase
+@@13365|28 30|RET protein isoform
+@@13366|35 35|CRKL
+@@13366|9 11|BCR / ABL
+@@13366|37 39|BCR / ABL
+@@13366|14 15|CRKL-SH2 domain
+@@13366|22 25|p130 ( CAS )
+@@13366|17 20|p130 ( CAS )
+@@13371|27 28|mouse Notch1
+@@13371|16 19|Su ( H )
+@@13371|30 31|Drosophila Notch
+@@13371|13 14|RBP-J kappa
+@@13371|24 25|RAM23 regions
+@@13371|9 9|glutathione-S-transferase
+@@13374|10 10|SmN
+@@13374|29 30|SmN gene
+@@13375|5 6|VPS34 locus
+@@13375|17 18|VPS34 gene
+@@13376|13 16|polyomavirus middle T antigen
+@@13377|3 5|alpha inhibin gene
+@@13380|6 7|E74A protein
+@@13385|18 18|Grb2
+@@13385|15 16|SH3-SH2-SH3 domains
+@@13386|37 40|C2H2-type zinc finger motifs
+@@13386|28 30|SNAG repressor motif
+@@13388|23 25|chloramphenicol acetyltransferase reporter
+@@13389|10 10|EGFR
+@@13390|2 3|Serum prolactin
+@@13391|34 34|cytokine
+@@13397|6 9|rat AdoMet decarboxylase genes
+@@13401|9 10|Src family
+@@13401|15 17|lymphoid cell kinase
+@@13401|13 13|Lck
+@@13401|29 29|Csk
+@@13402|9 10|FeS protein
+@@13402|17 17|fbcF
+@@13405|3 5|LAZ3 / BCL6
+@@13405|7 7|SMRT
+@@13406|13 15|bone Gla protein
+@@13406|8 8|BALP
+@@13406|17 17|BGP
+@@13406|3 6|bone specific alkaline phosphatase
+@@13406|11 11|osteocalcin
+@@13407|2 2|hemoglobin
+@@13409|15 16|CRE-like site
+@@13409|14 14|junB
+@@13409|24 26|mutant CRE-like site
+@@13409|5 6|recombinant CREB
+@@13410|34 35|myoD enhancer
+@@13410|27 29|myoD core enhancer
+@@13412|21 22|Ras proteins
+@@13412|8 9|p120 Ras-GAP
+@@13412|5 5|GAP
+@@13412|0 3|Mammalian Ras GTPase-activating protein
+@@13414|0 0|ACE-2
+@@13415|23 25|GAL4-DBP fusion proteins
+@@13415|10 12|hepatic leukemia factor
+@@13415|8 8|DBP
+@@13416|15 15|CSTB
+@@13416|28 28|CSTB
+@@13417|0 1|Rheumatoid factor
+@@13418|10 10|cut5
+@@13418|12 13|crb2 mutants
+@@13418|5 5|Chk1
+@@13419|13 15|winged helix-turn-helix family
+@@13419|4 5|IRF-2 DNA-binding
+@@13421|3 3|F-actin
+@@13422|20 20|STAT5
+@@13422|12 12|GM-CSF
+@@13423|7 8|Myb domains
+@@13423|18 19|Myb domain
+@@13424|19 21|T alpha 2
+@@13424|1 3|Ets-1 binding site
+@@13425|6 7|hBub1 mRNA
+@@13426|15 15|Tih1
+@@13426|2 5|pleckstrin homology-related gene family
+@@13426|8 10|Ipl / Tssc3
+@@13426|12 12|TDAG51
+@@13427|0 1|Sak kinase
+@@13432|24 24|AP-1
+@@13432|20 22|IRF-1 and -2
+@@13432|8 8|TNF
+@@13432|6 6|IL-1
+@@13432|27 27|NF-IL-6
+@@13435|16 17|V3 domains
+@@13435|13 14|HIV-2 gag
+@@13436|10 10|alpha1-adrenoceptor-subtype
+@@13437|3 3|actin
+@@13438|21 21|VP16
+@@13438|10 12|HSV transactivator VP16
+@@13441|8 8|PPARgamma
+@@13441|6 6|PPARalpha
+@@13443|0 2|Plasma thromboxane B2
+@@13446|5 6|Opa proteins
+@@13446|46 46|CD66c
+@@13446|41 41|CD66d
+@@13446|20 27|carcinoembryonic antigen [ CEA ( CD66e ) ]
+@@13446|31 32|CD66 family
+@@13446|44 44|NCA
+@@13448|4 4|haemoglobin
+@@13449|11 12|endogenous Stat6
+@@13449|14 15|NF-kappaB proteins
+@@13450|26 26|IgG
+@@13451|11 12|hPL-B enhancer
+@@13451|7 8|MAP kinase
+@@13457|35 35|pADC1
+@@13457|7 11|cytochrome P450 lanosterol 14 alpha-demethylase
+@@13457|37 37|pGPD
+@@13457|1 4|Saccharomyces cerevisiae 14DM gene
+@@13457|13 13|14DM
+@@13457|39 39|pPHO5
+@@13458|24 26|heterodimeric nuclear factor-kappaB
+@@13458|31 32|Rel A
+@@13458|11 13|tumor necrosis factor-alpha
+@@13458|6 6|APRE
+@@13458|34 34|NF-kappaB1
+@@13458|28 28|NF-kappaB
+@@13458|15 15|TNFalpha
+@@13459|5 6|serum fibrinogen
+@@13459|9 9|prothrombin
+@@13459|13 13|thromboplastin
+@@13464|17 17|CD8+
+@@13464|10 11|gp100 Ag
+@@13465|25 25|alpha-IFN
+@@13467|20 20|PRL
+@@13467|15 15|TSH
+@@13467|28 29|glutamine transaminase
+@@13469|18 19|IFN alpha-2b
+@@13470|4 7|pituitary and serum LH
+@@13470|9 9|FSH
+@@13471|46 46|pyrophosphatase
+@@13471|43 44|alkaline phosphatase
+@@13472|4 4|interleukin-6
+@@13472|6 6|IL-6
+@@13473|0 1|Truncated ICSBP
+@@13474|6 7|actVI region
+@@13474|10 20|actinorhodin biosynthetic gene cluster of Streptomyces coelicolor A3 ( 2 )
+@@13477|22 24|AP-1 transcription factors
+@@13477|32 37|( alpha1 ) collagen I gene
+@@13477|45 56|parathyroid hormone ( PTH ) / PTH-related peptide ( PTHrP ) receptor
+@@13477|6 6|AP-1
+@@13478|20 20|IgM
+@@13478|32 33|IgG antibody
+@@13479|7 8|GFP-POLO protein
+@@13482|7 8|oasA2 gene
+@@13483|10 10|WT1
+@@13484|10 14|enhancer factor I subunit A
+@@13484|5 6|rat EFIA
+@@13486|6 9|M . HinfI methyltransferase
+@@13488|16 19|myc-related transcription factor family
+@@13489|17 17|SREBP
+@@13489|15 16|LDL receptor
+@@13489|23 24|Sp1 site
+@@13490|3 3|LT
+@@13490|1 1|enterotoxin
+@@13492|0 1|Oncogenic Raf-1
+@@13492|3 5|p70 S6 kinase
+@@13494|21 23|beta-casein gene promoter
+@@13494|0 7|CCAAT / enhancer-binding protein isoforms beta and delta
+@@13495|13 20|EC 4 . 2 . 2 . 2
+@@13495|1 2|pel gene
+@@13495|10 11|pectate lyase
+@@13497|22 25|MIP family gene cluster
+@@13497|19 19|AQP-2
+@@13497|16 16|MIP
+@@13497|14 14|hKID
+@@13498|11 11|CBS-1
+@@13500|1 3|serine-threonine kinase gene
+@@13501|19 20|loop 3-4
+@@13501|22 22|H4
+@@13501|25 25|H11
+@@13501|17 17|H3
+@@13501|12 12|H12
+@@13503|12 15|nif / fix gene
+@@13504|19 21|anti-ERK3 monoclonal antibody
+@@13504|7 7|ERK3
+@@13504|11 12|PKC beta
+@@13504|33 33|kinase
+@@13505|87 87|transferrin
+@@13507|10 11|delta promoter
+@@13509|2 3|ME31B cDNA
+@@13509|10 10|ste13
+@@13510|16 17|MRP1 gene
+@@13511|10 10|FRAXE
+@@13516|9 11|kappa B motif
+@@13516|14 16|kappa chain enhancer
+@@13516|38 40|kappa B motif
+@@13516|1 2|TC-II enhanson
+@@13517|0 0|ATF1
+@@13519|4 7|stomach and tumor antigens
+@@13521|15 16|PSG12 psi
+@@13521|30 32|PSG12 psi gene
+@@13521|13 13|PSG12
+@@13522|19 21|functional recombinant Ku
+@@13522|4 4|Ku
+@@13525|0 0|IgE
+@@13525|10 10|IgE
+@@13527|10 10|Tax's
+@@13527|6 6|GST-Tax
+@@13527|8 8|thrombin
+@@13527|3 4|GST domain
+@@13527|16 20|Tax-CREB-21-bp-repeat complex . ( ABSTRACT
+@@13528|22 22|Cdk7
+@@13528|17 19|44-kDa Cak1p protein
+@@13528|11 11|CAK1
+@@13528|8 9|CAK gene
+@@13531|2 3|PKC beta
+@@13531|13 14|S1 nuclease
+@@13532|11 12|Tat protein
+@@13532|17 21|human cytomegalovirus IE1 / IE2
+@@13532|5 8|HIV long terminal repeat
+@@13533|5 5|Wingless
+@@13533|3 3|d-axin
+@@13534|12 15|recombinant tissue plasminogen activator
+@@13535|71 72|rIFN-alpha 2b
+@@13535|41 42|rIFN-alpha 2b
+@@13535|10 10|rIL-2
+@@13535|87 87|rIL-2
+@@13536|8 10|HSV tk gene
+@@13536|30 32|HSV tk gene
+@@13539|23 24|P450BM-3 gene
+@@13539|14 14|Bm3P1
+@@13539|12 12|P450BM-3
+@@13539|3 5|P450BM-3 Barbie box
+@@13540|18 18|SH3
+@@13540|14 16|Src homology 3
+@@13540|9 9|Csk
+@@13540|21 21|SH2
+@@13541|4 4|actin
+@@13542|18 21|Pur alpha recognition element
+@@13542|10 10|Rb
+@@13542|2 4|human Pur alpha
+@@13542|7 8|retinoblastoma protein
+@@13543|5 10|RNA and / or DNA helicase
+@@13544|28 29|glucose-response elements
+@@13544|3 5|insulin promoter-reporter constructs
+@@13544|32 32|E2
+@@13544|37 39|A2 / A3
+@@13544|17 18|Hh-responsive regions
+@@13544|35 35|Flat
+@@13544|30 30|Far
+@@13544|21 24|rat insulin I promoter
+@@13544|11 11|INS-1
+@@13545|2 6|Chinese hamster S14 protein sequences
+@@13546|21 22|TAAG sites
+@@13546|14 15|TAAG sites
+@@13547|27 28|enolase gene
+@@13547|13 13|UbCRBP
+@@13547|8 9|UbCRBP mRNAs
+@@13552|8 8|P3
+@@13553|16 19|mitogen-activated protein kinase pathway
+@@13553|33 33|MEK
+@@13553|4 4|STAT
+@@13553|41 41|SHP-1
+@@13553|23 29|SHP-1- ( Cys -- > Ser )
+@@13553|8 8|SHP-1
+@@13554|14 15|ACh receptors
+@@13555|0 0|Raf
+@@13555|4 6|serine-threonine protein kinase
+@@13557|23 26|BCL-X ( L )
+@@13557|13 14|PAX3 repressors
+@@13560|47 47|thromboplastin
+@@13560|44 44|prothrombin
+@@13564|14 14|OmpA
+@@13564|9 12|major outer membrane protein
+@@13566|13 13|cyclin-Cdks
+@@13566|10 10|B-Myb
+@@13567|1 1|AP-1
+@@13568|21 22|CAT fusion
+@@13568|19 19|SN
+@@13570|19 19|Lck
+@@13570|4 4|tip
+@@13573|10 12|SCF ubiquitin-ligase complex
+@@13573|0 1|F-box proteins
+@@13574|0 0|ERV1
+@@13575|48 50|small GTP-binding protein
+@@13575|62 64|heterotrimeric G proteins
+@@13575|77 79|carboxy-terminal HECT domain
+@@13575|68 70|SH3 binding sites
+@@13575|4 4|p532
+@@13575|42 45|guanine nucleotide exchange factor
+@@13575|51 51|Ran
+@@13575|39 39|RCC1
+@@13575|82 84|E3 ubiquitin-protein ligases
+@@13577|6 6|E53D
+@@13577|8 9|E44D mutants
+@@13577|97 105|MutT-Mg ( 2+ ) -dGTP-Mg ( 2+ ) complex
+@@13577|3 3|MutT
+@@13585|7 13|carboxy terminally truncated dengue-2 virus envelope proteins
+@@13588|2 3|plasma cholecystokinin
+@@13591|32 34|IGF-I promoter 1
+@@13591|4 13|CCAAT / enhancer-binding protein ( C / EBP ) delta
+@@13591|20 22|PGE2-stimulated DNA-protein complex
+@@13591|24 24|HS3D
+@@13591|28 30|C / EBPdelta
+@@13592|18 18|Tn3HoHo1
+@@13592|3 4|O7-LPS region
+@@13592|24 25|lac operon
+@@13592|30 30|lacZ
+@@13593|10 14|latency-related ( LR ) RNA
+@@13594|16 17|2--phenylalanine-8-lysine vasopressin
+@@13594|19 19|Octapressin
+@@13596|15 16|distB ABRE
+@@13596|55 55|ABI3
+@@13596|25 25|ABI3
+@@13596|18 20|abscisic acid-responsive element
+@@13597|5 5|psbH-psbN
+@@13597|3 3|psbB-psbT
+@@13598|5 5|LAMB2
+@@13598|18 18|LAMB2L
+@@13598|15 16|LAMB2-like pseudogene
+@@13599|0 1|Site S-II
+@@13600|25 25|FZD4
+@@13600|27 27|FZD10
+@@13600|33 33|FZD9
+@@13600|6 6|FZD10
+@@13600|0 0|FZD4
+@@13600|4 4|FZD9
+@@13600|35 35|FZD10
+@@13600|19 19|FZD9
+@@13600|17 17|FZD4
+@@13601|5 10|plasminogen activator inhibitor type 1 gene
+@@13602|1 4|mustard chloroplast gene rps16
+@@13606|14 16|type X collagen
+@@13608|16 18|human STAG3-related genes
+@@13608|4 6|human STAG3 gene
+@@13608|55 60|Williams-Beuren syndrome ( WBS ) deletion
+@@13609|3 6|full-length murine survivin cDNA
+@@13609|17 18|survivin proteins
+@@13610|9 9|ER1
+@@13610|30 30|mta1
+@@13610|46 46|mta1
+@@13610|27 28|metastasis-associated gene
+@@13612|16 18|Fc gamma R
+@@13612|2 5|B cell Ag receptor
+@@13612|14 14|IgG
+@@13612|7 7|BCR
+@@13612|10 12|surface Fc receptors
+@@13615|10 10|TGN46
+@@13615|19 22|vesicular stomatitis virus glycoprotein
+@@13615|24 24|VSVG
+@@13615|7 8|QKTT motif
+@@13622|20 21|CD44 mRNA
+@@13623|9 10|c-met promoter
+@@13623|25 27|Sp1 binding sites
+@@13626|0 0|Abp1
+@@13627|31 31|alpha-complex
+@@13627|14 15|alpha-globin 3'UTR
+@@13630|11 14|Mac1 from Saccharomyces cerevisiae
+@@13632|27 28|serum LDH
+@@13632|31 33|serum alkaline phosphatase
+@@13634|26 27|sop mutants
+@@13638|7 7|BCR-ABL
+@@13638|4 4|GRB10
+@@13640|13 13|ING1
+@@13641|14 14|G4RE
+@@13641|10 12|GLUT4 repressor element
+@@13643|13 13|pASB-1
+@@13644|6 6|UHF-1
+@@13645|11 11|PR-B
+@@13645|20 22|PGDH-2368 / luc3
+@@13645|8 9|progesterone receptor
+@@13645|13 13|PR-A
+@@13649|14 17|rat nucleolar protein NAP57
+@@13649|22 22|Nopp140
+@@13649|2 2|Cbf5p
+@@13650|8 8|fibrinogen
+@@13650|12 13|alpha 2AP
+@@13650|15 16|protein C
+@@13651|5 5|des-Tyr-gamma-endorphin
+@@13652|1 2|Myc LZ
+@@13652|12 12|Myc
+@@13653|4 5|Dsg-plakoglobin complexes
+@@13654|3 6|Lp ( a )
+@@13656|14 14|NS3A
+@@13656|12 12|NS3
+@@13656|5 5|NS3
+@@13657|12 16|c-raf ( -1 ) product
+@@13657|42 44|protein kinase C
+@@13658|31 31|YY1
+@@13658|3 3|E1A
+@@13658|17 18|12S E1A
+@@13658|10 11|p53 promoter
+@@13658|24 25|13S E1A
+@@13659|14 15|domain C
+@@13659|2 3|PRP-precursor alleles
+@@13660|23 23|p223
+@@13661|3 4|uPA promoter
+@@13662|9 10|HSP70 proteins
+@@13662|16 17|BiP genes
+@@13662|27 28|HSP70 genes
+@@13663|12 12|Shc
+@@13663|18 19|Shc chimera
+@@13663|22 25|Ras membrane localization motif
+@@13663|3 3|Shc
+@@13664|23 23|phosphatase
+@@13664|8 8|PTP1C
+@@13668|19 20|single-strand-specific nuclease
+@@13670|3 3|pVHL
+@@13672|23 24|EM element
+@@13672|21 22|alpha-MHC gene
+@@13672|14 15|HF-1a-related factor
+@@13672|11 11|TEF-1
+@@13675|1 7|14 . 1 ( IGLL1 ) gene
+@@13682|8 8|insulin
+@@13683|0 1|CYP2C19 genotype
+@@13684|9 9|Gac1
+@@13684|5 6|Glc7 phosphatase
+@@13684|19 19|CUP1
+@@13684|16 16|HSF
+@@13687|20 20|mTERF
+@@13687|14 18|human mitochondrial transcription termination factor
+@@13688|8 10|DEAD-box protein family
+@@13688|0 0|PRH75
+@@13689|16 20|Oct4 embryonic stem cell-specific enhancer
+@@13689|7 7|COUP-TFs
+@@13690|9 9|vinexin-Sos
+@@13690|5 6|SH3 domain
+@@13691|7 10|rat B-myc genomic clone
+@@13692|6 6|CYP11A
+@@13692|0 4|Cholesterol side-chain cleavage cytochrome P450
+@@13692|15 15|gonadotropins
+@@13692|8 8|P450scc
+@@13692|23 23|ACTH
+@@13698|20 27|Drosophila cell cycle control protein ( cdc )
+@@13698|3 4|p50 sequence
+@@13700|8 12|dsRNA adenosine deaminase type I
+@@13702|10 10|cGRE
+@@13702|26 29|c-jun / c-fos heterodimer
+@@13702|18 18|AP-1
+@@13702|7 8|composite GRE
+@@13702|15 16|activator protein-1
+@@13702|1 1|GRE
+@@13702|23 24|c-jun homodimer
+@@13704|12 12|serpins
+@@13704|5 5|PEDF
+@@13705|16 17|Ypt protein
+@@13706|19 23|T7 RNA polymerase promoter site
+@@13706|10 12|U14 snRNA gene
+@@13708|5 5|HEP-COP
+@@13709|23 28|8 . 0 kb EcoRI fragment
+@@13709|20 20|Tn5
+@@13710|37 37|Bcr
+@@13710|29 35|COOH-terminal segment ( GTPase-activating protein region )
+@@13710|45 46|Rho subfamily
+@@13710|18 18|CeGAP
+@@13710|41 42|GTPase-activating proteins
+@@13715|14 15|mStaf gene
+@@13716|1 3|DNase I-hypersensitive site
+@@13717|6 9|Drosophila protein kinase DSTPK61
+@@13717|0 1|Human PDK1
+@@13718|15 16|rbcL sequences
+@@13718|12 13|18S rDNA
+@@13721|0 0|M-66
+@@13723|7 8|wild-type fliF
+@@13724|15 19|IE amino acid residues 1-322
+@@13724|36 38|EHV-1 tk promoter
+@@13724|12 13|IE polypeptide
+@@13724|47 49|EHV-1 IE promoter
+@@13728|1 2|gamma globulins
+@@13729|0 0|G-CSF
+@@13732|11 15|E . coli acoK mutants
+@@13732|23 23|acoK
+@@13732|4 5|acoABCD operon
+@@13733|15 15|Fra-2
+@@13733|5 6|AP-1 site
+@@13733|38 38|Tax
+@@13733|21 21|JunB
+@@13733|11 11|JunD
+@@13733|24 24|c-Fos
+@@13733|19 19|c-Jun
+@@13735|21 23|cellular c-fos oncogene
+@@13736|8 16|antigenic regions A , B and C of VP7
+@@13737|1 7|MMA , DMA , and TMA methyltransferases
+@@13737|16 18|MMA methyltransferase gene
+@@13737|24 27|DMA and TMA methyltransferases
+@@13738|24 24|eIF5
+@@13738|9 9|eIF5
+@@13738|22 22|eIF5
+@@13738|3 7|mammalian translation initiation factor 5
+@@13738|20 20|eIF2
+@@13739|15 16|GATC motifs
+@@13739|33 34|CatA gene
+@@13739|43 44|CatA promoter
+@@13740|14 15|Notch pathway
+@@13743|9 11|RGD recognition sites
+@@13745|10 13|viral latent membrane proteins
+@@13745|4 4|EBNA2
+@@13747|13 18|cytosolic cyclophilin isoform from Drosophila melanogaster
+@@13747|1 7|B . germanica cyclophilin amino acid sequence
+@@13747|20 20|Cyp-1
+@@13750|7 8|HC II
+@@13750|16 16|thrombin
+@@13753|19 20|p21 rasVal12
+@@13753|11 13|peptide growth factors
+@@13754|5 5|ret1-1
+@@13754|18 18|RET1
+@@13756|12 12|Tn5mob
+@@13756|20 22|thiCOGE gene cluster
+@@13757|20 21|SIG family
+@@13757|24 26|beta TG gene
+@@13761|4 7|CCAAT / enhancer-binding protein
+@@13762|30 30|activin
+@@13762|26 28|glycoprotein hormone alpha-subunit
+@@13763|4 4|H2-receptor
+@@13764|5 5|PhLP
+@@13764|13 13|Gbetagamma
+@@13766|5 6|CBP-interacting domain
+@@13766|2 3|F-SRC-1 mutant
+@@13768|0 0|PAI-1
+@@13770|26 27|S-receptor kinases
+@@13770|19 23|receptor protein kinases from plants
+@@13770|39 43|Pto gene product of tomato
+@@13771|35 36|IgE antibodies
+@@13774|7 9|PI 3-kinase isoforms
+@@13774|18 21|PI 3-kinase catalytic subunits
+@@13774|26 26|p85
+@@13778|25 26|low-density lipoproteins
+@@13778|28 28|LDL
+@@13783|7 7|collagen
+@@13784|11 12|ssd chain
+@@13785|25 26|SF-1 sequence
+@@13785|10 12|JEG-3 nuclear proteins
+@@13786|11 13|human progelatinase B
+@@13787|9 9|FSH
+@@13788|17 17|HO-1
+@@13788|0 0|Nrf2
+@@13788|14 15|heme oxygenase-1
+@@13791|4 4|SRF
+@@13791|0 2|Serum response factor
+@@13791|29 31|growth factor-responsive genes
+@@13793|0 1|Human MGP
+@@13793|4 11|10-kD skeletal extracellular matrix ( ECM ) protein
+@@13794|18 18|ASAP1
+@@13794|7 8|tyrosine kinases
+@@13794|5 5|Arfs
+@@13795|17 17|cox-5
+@@13795|9 9|arg-2
+@@13795|11 11|cpc-1
+@@13796|12 12|insulin
+@@13800|12 13|ARF family
+@@13800|9 9|GTPases
+@@13803|26 28|kappa B enhancer
+@@13803|1 5|mutated IL2R alpha promoter constructs
+@@13803|35 37|IL2R alpha gene
+@@13805|16 17|Maf-related proteins
+@@13808|1 2|mammalian Notch1
+@@13808|4 7|CBF1 / RBPJk-repressed genes
+@@13808|14 16|Epstein-Barr virus EBNA2
+@@13809|2 4|anticytokeratin 19 antibody
+@@13812|4 6|purified glucocorticoid receptor
+@@13812|25 25|Sa
+@@13815|26 27|HMGR1L mRNA
+@@13815|9 10|HMGR1S mRNA
+@@13815|6 7|HMGR1 mRNA
+@@13816|10 11|G betagamma
+@@13816|20 20|GRK3
+@@13816|18 18|GRK2
+@@13817|35 40|X . laevis oocyte 5S DNA
+@@13817|10 11|5S genes
+@@13819|3 3|K-Rev
+@@13819|19 20|K-Rev mutants
+@@13820|23 23|hFSH
+@@13820|12 14|human menopausal gonadotropin
+@@13820|19 21|human follicle-stimulating hormone
+@@13820|16 16|hMG
+@@13824|4 4|beta-adrenoreceptor
+@@13825|8 8|MZF-1
+@@13831|19 20|pol I
+@@13831|15 17|RNA polymerase I
+@@13835|0 2|Serum alkaline phosphatase
+@@13836|10 13|rat preproinsulin II gene
+@@13837|6 6|interleukin-6
+@@13837|8 8|IL-6
+@@13840|0 1|APETALA3 transcripts
+@@13841|16 20|mouse type 2 receptor gene
+@@13844|17 18|DNase I
+@@13844|10 13|beta-retinoic acid receptor element
+@@13846|20 24|cysteine protease CPP32 / Yama
+@@13846|2 2|CD40
+@@13846|30 30|PARP
+@@13847|5 5|NS5A
+@@13847|8 9|SH3-binding region
+@@13852|3 7|human N-ras codon 61 sequence
+@@13854|22 23|alpha 2-adrenoreceptors
+@@13856|4 5|ROK alpha
+@@13856|45 47|focal adhesion complexes
+@@13859|33 33|Fshb
+@@13859|37 37|Ltk
+@@13859|35 35|Actcl
+@@13859|26 27|thrombospondin gene
+@@13859|40 41|B2M loci
+@@13860|6 14|variant tRNA ( Val ) ( UAC ) gene
+@@13862|4 7|B-Myb-glutathionine S-transferase fusion protein
+@@13865|28 28|AREB3
+@@13865|25 25|AREB2
+@@13865|23 23|AREB1
+@@13865|30 33|ABA-responsive element binding protein
+@@13865|3 11|basic leucine zipper ( bZIP ) -type ABRE-binding proteins
+@@13867|17 19|tissue plasminogen activator
+@@13868|5 6|human enamel
+@@13869|5 8|G alpha i genes
+@@13870|30 31|chloroplast genes
+@@13870|2 3|petBD genes
+@@13870|10 11|psbB gene
+@@13870|16 18|photosystem II polypeptide
+@@13872|7 8|TIMP-1 promoter
+@@13872|3 4|AP-1 site
+@@13872|13 13|HMAP-1
+@@13873|8 8|TSH
+@@13875|8 8|PTEN
+@@13878|0 1|Element B
+@@13878|14 16|consensus c-myb element
+@@13878|28 28|c-myb
+@@13879|11 12|HA molecule
+@@13880|44 47|p57 ( Kip2 )
+@@13880|18 21|Cip / Kip proteins
+@@13880|8 11|p57 ( Kip2 )
+@@13883|3 4|adenosine deaminase
+@@13886|15 16|mLAT pre-mRNA
+@@13886|6 9|2 . 0-kb LAT
+@@13887|1 1|NEU
+@@13889|3 3|pecT
+@@13889|17 17|pec-1
+@@13890|2 2|MDR1
+@@13892|16 17|HLA-DRA gene
+@@13892|20 20|Oct-2A
+@@13892|6 10|HMG I ( Y )
+@@13893|23 23|IRS-1
+@@13893|2 2|IRS-1
+@@13893|11 12|PI 3-kinase
+@@13895|1 2|protein ELT-1
+@@13895|12 17|GATA family of vertebrate transcription factors
+@@13899|8 10|human HS12 enhancers
+@@13901|6 8|WA fyuA mutant
+@@13901|12 13|fyuA gene
+@@13904|16 16|ZAP-70
+@@13904|10 10|Cbl
+@@13907|5 7|heavy chain genes
+@@13907|13 15|heavy chain gene
+@@13907|1 1|mu
+@@13907|3 4|gamma 2b
+@@13911|0 0|RANTES
+@@13911|2 11|regulated upon activation , normally T-cell expressed and presumably secreted
+@@13911|15 16|CC chemokine
+@@13913|0 8|Enzyme I of the phosphoenolpyruvate : sugar phosphotransferase system
+@@13916|1 1|EPO
+@@13917|11 14|ER ( + )
+@@13917|28 28|HER-2
+@@13920|8 9|alpha-adrenergic receptors
+@@13922|25 26|lung myeloperoxidase
+@@13924|0 2|Gal4-Eed fusion protein
+@@13924|15 17|Gal4-binding DNA elements
+@@13925|10 13|mu heavy chain gene
+@@13928|2 3|RNase H
+@@13928|23 28|branchpoint sequence ( BPS ) elements
+@@13928|30 30|U11
+@@13928|32 33|U12 snRNPs
+@@13929|7 7|Pit-1
+@@13929|13 14|tiGH promoter
+@@13930|20 20|NF1
+@@13931|67 67|ferritin
+@@13931|52 52|ferritin
+@@13935|0 2|Tumor necrosis factor-alpha
+@@13935|4 5|TNF alpha
+@@13937|64 64|URE
+@@13937|74 75|hbetaAPP promoter
+@@13937|19 19|CAT
+@@13937|44 44|URE
+@@13937|15 17|chloramphenicol acetyl transferase
+@@13938|0 0|SIM1
+@@13938|14 14|AHR
+@@13938|2 2|SIM2
+@@13939|4 5|serum BGP
+@@13942|3 4|HMG2 proteins
+@@13942|1 1|Oct
+@@13945|33 33|IE175
+@@13945|25 25|IE110
+@@13945|5 5|IE110
+@@13945|14 14|IE175
+@@13946|4 4|c-Abl
+@@13948|15 15|EBNA3C
+@@13948|7 8|EBNA mRNA
+@@13949|2 2|v-erbA
+@@13949|16 16|RLD-1
+@@13952|9 10|E2F complexes
+@@13953|2 2|ccdA
+@@13956|3 5|human CHOP cDNA
+@@13956|30 30|hGH
+@@13956|12 12|CHOP
+@@13956|33 33|p38
+@@13964|22 22|Snf1
+@@13964|1 1|SNF1
+@@13965|6 8|full-length ERM protein
+@@13970|30 31|alpha-and beta-adrenoceptors
+@@13971|20 21|anti-HBs antibodies
+@@13974|3 4|ie1 gene
+@@13975|33 33|c-fos
+@@13975|8 8|IAP
+@@13975|11 15|GTP-binding protein ( s )
+@@13975|17 17|G-protein
+@@13975|5 6|pertussis toxin
+@@13977|0 1|Insulin receptor
+@@13977|7 9|mitogen-activated protein kinase
+@@13978|11 11|cox3
+@@13978|9 9|rrn26
+@@13978|20 22|Marchantia rps10 gene
+@@13978|1 3|pea rps10 intron
+@@13979|15 16|FG-nucleoporin family
+@@13979|18 19|pore proteins
+@@13979|6 8|nuclear pore complexes
+@@13979|0 0|Rip1p
+@@13980|14 14|GBF3
+@@13980|12 12|GBF1
+@@13981|33 34|COX1 mRNA
+@@13981|6 6|LEU2
+@@13981|27 28|COX3 gene
+@@13981|21 22|aI5 beta
+@@13981|16 17|COX1 introns
+@@13981|3 3|pet54
+@@13981|18 19|aI5 alpha
+@@13982|30 31|promoter P1
+@@13982|34 36|Ig kappa enhancers
+@@13982|18 19|Sp1 site
+@@13986|22 23|envelope protein
+@@13986|30 31|src mRNA
+@@13988|7 9|chicken MT mRNA
+@@13990|3 3|Elk-3
+@@13990|10 11|Ets family
+@@13992|8 8|CD34
+@@13994|20 29|1 . 5-kb Bg / II / SmaI DNA fragment
+@@13994|7 9|pathogenicity locus pat-1
+@@13996|6 6|p27
+@@13996|17 18|nuclear Cdk2
+@@13996|13 13|p27
+@@13996|8 8|MAPK
+@@13997|1 3|Trx-CT fusion protein
+@@13998|7 8|ADH gene
+@@14000|2 4|human Rhotekin cDNA
+@@14001|22 22|interferons
+@@14001|29 32|interferon regulatory factor 1
+@@14001|24 24|interferon-alpha
+@@14001|26 26|-gamma
+@@14003|6 7|gamma gene
+@@14008|25 25|Mitf
+@@14008|7 15|basic helix-loop-helix leucine zipper ( bHLH-ZIP ) transcription factors
+@@14008|3 3|MiT
+@@14008|1 1|microphthalmia-TFE
+@@14008|22 22|TFEC
+@@14008|20 20|TFEB
+@@14008|18 18|TFE3
+@@14010|6 6|antithrombin
+@@14015|0 2|Newcastle disease antibody
+@@14018|3 3|CD23
+@@14019|5 5|EPO
+@@14024|21 23|BTB protein-protein-binding domain
+@@14024|12 17|D . melanogaster type A protein
+@@14024|5 6|fruA transcript
+@@14025|23 23|Sp3
+@@14025|21 21|Sp1
+@@14025|26 26|NF-Y
+@@14026|10 10|p53
+@@14026|14 14|p63
+@@14026|12 12|p73
+@@14028|17 24|hydroxymethylglutaryl coenzyme A ( HMG CoA ) reductase
+@@14032|0 2|Phosphate glucose dehydrogenase
+@@14036|15 15|c-Myc
+@@14036|12 13|p21 promoter
+@@14039|9 11|ribosomal protein S13
+@@14039|0 0|SUP46
+@@14040|11 11|Akt
+@@14040|7 8|p38 kinase
+@@14043|12 12|TraM
+@@14043|14 14|TraR
+@@14046|4 4|insulin
+@@14046|8 9|ras GTP
+@@14046|12 13|MAP kinase
+@@14047|42 44|wild-type T antigen
+@@14047|37 38|T-antigen kinase
+@@14048|14 21|pro alpha 1 ( II ) collagen gene
+@@14051|13 14|cox3 promoters
+@@14051|25 26|cox3 promoter
+@@14051|20 21|core element
+@@14053|0 1|Plasma renin
+@@14054|11 11|TGTGGT
+@@14054|21 26|AML / CBFalpha transcription factor family
+@@14056|33 33|c-Myb
+@@14056|7 7|c-Myb
+@@14063|10 13|"neurospecific" receptor tyrosine kinase
+@@14063|21 21|neuropeptidase
+@@14063|16 16|Tpp
+@@14063|7 7|Nrk
+@@14064|16 21|1 . 8 kb HindIII-EcoRI fragment
+@@14066|18 18|eIF-5A
+@@14069|3 3|hemagglutinin
+@@14071|24 26|cdk5 / p35
+@@14071|14 17|cdk2 / cyclin A
+@@14071|19 22|cdk2 / cyclin E
+@@14071|55 58|cdk4 / cyclin D1
+@@14071|1 1|kinases
+@@14071|60 63|cdk6 / cyclin D2
+@@14071|9 12|cdc2 / cyclin B
+@@14073|1 7|high density lipoprotein ( HDL ) receptor
+@@14075|1 3|hematopoietic colony-stimulating factors
+@@14075|5 5|CSF
+@@14076|19 21|Mek-Erk1 / 2
+@@14076|24 25|estrogen receptors
+@@14078|2 2|interferon
+@@14079|26 27|DNase I
+@@14081|6 6|IR
+@@14081|33 39|dominant-negative IkappaB-alpha ( A32 / 36 )
+@@14081|46 46|NF-kappaB
+@@14081|13 13|IR
+@@14081|24 24|NF-kappaB
+@@14081|47 48|c-Rel subunit
+@@14082|4 7|postsynaptic density protein PSD-95
+@@14084|3 5|human FGF-BP promoter
+@@14084|12 14|TPA regulatory elements
+@@14087|1 3|prostatic acid phosphatase
+@@14089|2 4|VH / VL-chains
+@@14090|8 11|elongation factor 1-alpha variant
+@@14090|12 14|EF-1 alpha O
+@@14091|9 9|tubulin
+@@14092|4 4|p65
+@@14092|23 24|kappaB targets
+@@14093|2 4|Src tyrosine kinase
+@@14093|24 24|Stat3
+@@14093|7 7|Stat3
+@@14094|6 8|anti B antibody
+@@14094|0 0|IgM
+@@14094|2 4|IgG anti A
+@@14095|24 25|Pol II
+@@14095|15 18|yeast U6 snRNA gene
+@@14095|1 2|triple-mutant TBP
+@@14098|0 1|Gng3lg transcripts
+@@14099|10 10|Oct-1
+@@14099|12 12|HCF
+@@14099|7 7|VP16
+@@14105|13 14|Ig loci
+@@14107|3 4|RVH domain
+@@14109|12 13|Col2a1 gene
+@@14113|3 3|GKLF
+@@14114|20 22|mouse IRBP genes
+@@14114|34 34|MOK2
+@@14114|7 9|18-bp MOK2-binding sites
+@@14115|0 5|Carnitine palmitoyltransferase ( CPT ) II
+@@14118|15 16|RXR-responsive element
+@@14118|3 3|VDR
+@@14122|24 25|E2F-1 promoter
+@@14122|9 10|E2F-1 promoter
+@@14122|5 5|E2F
+@@14122|13 16|E4-6 / 7 protein
+@@14124|5 5|FRDA
+@@14124|7 7|D9S5
+@@14124|12 12|D9S15
+@@14124|10 10|FRDA
+@@14126|6 7|ARV G
+@@14126|9 10|GNS genes
+@@14126|34 35|G gene
+@@14126|27 27|AACAG
+@@14126|55 56|GNS protein
+@@14128|10 10|NF-kappaB
+@@14128|14 15|NF-kappaB-binding sites
+@@14128|5 5|MCP-1
+@@14130|13 15|Spc94p / Nud1p
+@@14130|0 0|Spc42p
+@@14130|17 17|Cnm67p
+@@14130|20 20|Spc42p
+@@14130|9 11|cytoplasmic SPB subcomplex
+@@14134|15 15|PKC
+@@14134|17 24|mitogen-activated protein kinase / extracellular signal-related kinase kinase
+@@14141|7 8|auxin-binding proteins
+@@14146|2 3|yeast LEU2
+@@14151|10 13|beta1 , 6-GlcNAc transferases
+@@14155|4 4|gpI
+@@14155|18 18|gpI
+@@14157|21 21|SHP-2
+@@14157|16 16|SHIP
+@@14157|18 18|SHP-1
+@@14157|26 28|Fc gamma RIIB1
+@@14158|12 13|selenoprotein-encoding mRNA
+@@14158|7 8|SECIS element
+@@14160|34 35|var genes
+@@14161|5 6|Cdk2-phosphorylated MARCKS
+@@14161|10 11|lysyl endoprotease
+@@14163|58 65|eukaryotic preprotein-human pre ( delta pro ) apoA-II
+@@14163|17 17|peptidase
+@@14166|10 12|GH receptor gene
+@@14166|41 43|liver-specific P1 promoter
+@@14167|13 13|NHE-2
+@@14167|11 11|NHE-1
+@@14167|4 4|NHE-3
+@@14172|21 21|prolactin
+@@14172|19 19|gonadotropins
+@@14172|30 30|SHBG
+@@14172|25 28|sex hormone binding globulin
+@@14176|25 25|dynamin
+@@14176|20 20|VPS
+@@14176|28 28|VPS1
+@@14176|15 18|vacuolar protein sorting genes
+@@14177|19 20|eIF-5 protein
+@@14177|5 5|eIF-5
+@@14178|2 2|Hex
+@@14179|22 23|p53 product
+@@14180|34 34|Mcd4p
+@@14180|36 36|Gpi7p
+@@14180|8 8|YLL031c
+@@14183|6 8|Langer-Giedion syndrome deletions
+@@14184|13 13|somatostatin
+@@14184|11 11|interferon-a
+@@14185|16 17|alpha 1
+@@14187|15 15|Og4C3
+@@14188|15 16|TK gene
+@@14188|1 1|PEPCK
+@@14191|20 20|EpRE
+@@14191|23 24|AP-1 site
+@@14193|4 4|G-CSF
+@@14193|57 57|CRP
+@@14195|6 7|60A gene
+@@14195|11 12|TGF-beta-related factor
+@@14200|0 0|Interleukin-12
+@@14200|20 20|IFN-gamma
+@@14200|18 18|interferon-gamma
+@@14200|2 2|IL-12
+@@14201|8 10|Pc group products
+@@14202|5 5|c-myc
+@@14202|13 23|initiator ( Inr ) element : TCA ( +1 ) YYYNY
+@@14205|16 17|reverse transcriptase-polymerase
+@@14205|22 22|P1
+@@14206|27 27|FR-antigen
+@@14206|19 19|fibrinogen
+@@14206|21 21|fibrin
+@@14206|47 47|fibrinogen
+@@14206|43 43|cryoglobulin
+@@14207|6 6|endotoxin
+@@14208|19 21|p41 MAP kinase
+@@14208|13 14|MBP kinase
+@@14210|7 7|transferrin
+@@14211|11 14|polypyrimidine tract binding protein
+@@14211|16 16|PTB
+@@14212|0 8|Rep63A ( 513 amino acids [ aa ] )
+@@14213|24 25|SAA element
+@@14213|11 11|C30
+@@14213|45 47|rat APP promoter
+@@14213|9 9|C25
+@@14213|13 14|C35 complexes
+@@14214|1 2|nmr gene
+@@14215|15 16|histone genes
+@@14218|4 4|thromboplastin
+@@14218|7 7|thrombin
+@@14218|11 11|fibrin
+@@14218|0 0|Thromboplastin
+@@14218|17 27|clotting factors II , V , VIII , IX , X
+@@14220|11 11|Rlm1
+@@14220|20 26|CTA ( T / A ) 4TAG
+@@14220|18 18|MEF2
+@@14220|3 3|Rlm1
+@@14220|5 5|Smp1
+@@14220|29 29|SMP1
+@@14220|37 43|ACTACTA ( T / A ) 4TAG
+@@14225|9 10|FSH receptor
+@@14226|3 5|full-length PfCPK cDNA
+@@14228|6 6|HRMT1L2
+@@14228|4 4|HRMT1L1
+@@14229|2 2|UPF1
+@@14234|9 9|TNF
+@@14236|24 24|selB
+@@14236|7 9|rat thioredoxin reductase
+@@14236|15 17|bacterial-type SECIS elements
+@@14236|26 27|selC genes
+@@14236|22 22|selA
+@@14241|12 17|isocitrate lyase gene of Candida tropicalis
+@@14242|5 7|Ash-m and -s
+@@14242|14 14|Ash-l
+@@14243|3 3|GUS
+@@14243|34 34|UAS1
+@@14243|14 19|NRS1 ( -391 to -295 )
+@@14243|21 26|NRS2 ( -518 to -418 )
+@@14244|9 9|CRKL
+@@14244|17 17|c-ABL
+@@14244|13 13|C3G
+@@14244|15 15|SOS
+@@14246|5 6|p53 antibodies
+@@14246|3 3|MIB-1
+@@14247|27 27|AP-1
+@@14247|12 13|PKC delta
+@@14247|29 30|non-AP-1 sequences
+@@14247|23 24|TPA-inducible genes
+@@14247|5 6|PKC alpha
+@@14249|0 0|RegA
+@@14249|8 8|tol-oprL
+@@14252|48 50|Caenorhabditis elegans unc18
+@@14252|53 55|Saccharomyces cerevisiae Sec1p
+@@14252|42 46|munc-18 / n-Sec1 / rbSec1
+@@14253|7 8|staphylococcal enterotoxins
+@@14254|27 27|VP16
+@@14254|14 14|Bel-1
+@@14254|7 7|Bel-1
+@@14256|13 17|multisubunit cytochrome c haem lyase
+@@14257|0 2|Hematopoietic growth factors
+@@14259|26 26|CD4
+@@14267|0 0|Invertases
+@@14268|2 3|Tob protein
+@@14268|5 5|Tob2
+@@14271|26 26|gcn2
+@@14271|34 34|gcn2-507
+@@14271|5 9|tRNA ( His ) genes
+@@14273|0 0|SSeCKS
+@@14273|3 3|essex
+@@14273|8 10|protein kinase C
+@@14274|17 17|transducin
+@@14275|5 6|NOP1 gene
+@@14275|11 12|human fibrillarin
+@@14276|7 8|IgE immunoglobulins
+@@14276|1 1|IgG
+@@14276|17 17|TES
+@@14276|4 4|IgE
+@@14276|10 15|Toxocara canis excretory / secretory antigens
+@@14279|56 56|anti-HCV-C100-3
+@@14279|27 27|anti-HCV-C100-3
+@@14279|45 45|HBsAg
+@@14288|3 3|CYP1
+@@14289|1 2|Fis protein
+@@14289|12 13|DNA invertases
+@@14291|16 16|Ets
+@@14291|19 21|LyF-1 binding sites
+@@14292|21 24|Escherichia coli fur gene
+@@14293|17 17|Nrd1
+@@14293|5 6|CTD-binding motif
+@@14294|71 73|TRH / GnRH
+@@14294|15 15|GH
+@@14294|40 40|GH
+@@14294|30 30|somatomedin-C
+@@14294|68 68|GH
+@@14295|0 0|NF-kappaB
+@@14295|9 10|CD40 ligand
+@@14295|7 7|CD154
+@@14297|12 12|collagen
+@@14299|14 14|AP-1
+@@14299|23 24|HTLV-I Tax
+@@14299|10 12|transcription factors NF-kappaB
+@@14299|20 21|IL-8 gene
+@@14302|5 8|3213 bp BamHI-ClaI fragment
+@@14305|26 28|mSos C terminus
+@@14305|30 30|MyrSos1-deltaC
+@@14305|11 11|mSos1
+@@14305|13 13|MyrSos1
+@@14306|6 6|MEK-2E
+@@14306|23 23|MEK
+@@14306|25 25|v-Src
+@@14306|4 4|MEK
+@@14306|9 9|v-Src
+@@14307|4 8|amino acid sequence of gamma-kafirin
+@@14307|12 19|sequences of gamma-prolamins of maize , and Coix
+@@14311|13 13|MIERR
+@@14311|3 11|human cytomegalovirus ( HCMV ) major immediate-early regulatory region
+@@14313|3 5|class C-Vps complex
+@@14314|22 23|cycloheximide-resistance protein
+@@14314|5 6|ORFs N2417
+@@14314|8 8|N2403
+@@14314|27 29|interleukin enhancer-binding factor
+@@14314|31 31|ILF-2
+@@14315|10 10|BGLF4
+@@14317|23 23|hMSH-2
+@@14317|34 34|MutS
+@@14317|70 79|hereditary non-polyposis colorectal cancer ( HNPCC ) tumor suppressor genes
+@@14317|36 38|Sacchromyces cerevisiae MSH-1
+@@14317|40 41|MSH-2 proteins
+@@14317|65 65|hMSH-2
+@@14317|1 4|human MSH-2 gene product
+@@14318|25 27|thymidine kinase promoter
+@@14318|10 11|CCK promoter
+@@14321|3 9|mitogen activated protein ( MAP ) kinase
+@@14321|24 24|Ras
+@@14321|15 15|Ras
+@@14322|1 1|CES1
+@@14322|3 3|CES4
+@@14323|3 7|fibroblast growth factor receptor 2
+@@14323|9 9|FGF-R2
+@@14326|42 43|M2 protein
+@@14329|2 4|high-density lipoprotein receptor
+@@14329|6 6|HDL-R
+@@14329|27 27|HDL-R
+@@14331|4 6|small GTPase Rac
+@@14331|14 16|serum response element
+@@14332|5 6|gcn4Delta mutant
+@@14332|15 17|Gcn4p target genes
+@@14335|24 28|herpes simplex viral protein VP16
+@@14339|9 9|c-fos
+@@14339|17 23|cyclic AMP ( cAMP ) response elements
+@@14339|31 31|c-fos
+@@14339|25 25|CREs
+@@14340|26 26|cdc34
+@@14340|13 13|UBS1
+@@14348|14 16|Abf1 binding site
+@@14348|2 4|UASH consensus sequence
+@@14349|25 25|P47
+@@14350|6 9|polypyrimidine tract binding protein
+@@14350|11 11|PTB
+@@14352|27 29|glucose 6-phosphate dehydrogenase
+@@14352|25 25|gamma-actin
+@@14357|4 5|growth factors
+@@14359|39 40|protein C
+@@14359|42 43|protein S
+@@14359|36 37|antithrombin III
+@@14361|7 9|3-phosphoglycerate kinase gene
+@@14362|2 3|LB1 gene
+@@14363|6 6|Ras-GAP
+@@14364|5 8|catabolite control protein CcpA
+@@14364|1 2|gene ccpA
+@@14366|30 36|class I heavy ( alpha ) chains
+@@14366|9 9|gp19K
+@@14369|35 37|rearranged VL region
+@@14369|20 20|VL
+@@14369|25 25|JL
+@@14369|4 4|IgL
+@@14369|0 2|Immunoglobulin light chain
+@@14369|18 18|variable
+@@14369|23 23|joining
+@@14370|20 20|MEK
+@@14370|22 23|/ MAPK
+@@14370|12 18|mitogen-activated protein kinase ( MAPK ) kinase
+@@14370|5 5|UCN-01
+@@14372|1 4|bovine and murine c-myb
+@@14372|13 14|c-myb gene
+@@14375|0 3|C / EBP alpha
+@@14375|10 13|rat class-I ADH gene
+@@14378|4 4|en
+@@14378|14 14|slp
+@@14378|9 9|slp
+@@14378|35 35|hh
+@@14378|23 23|wg
+@@14378|30 30|wg
+@@14380|35 36|HML locus
+@@14381|35 35|IL-5
+@@14381|7 7|IL-5
+@@14382|7 11|human U2 snRNA-specific A' protein
+@@14384|13 15|C / EBP
+@@14384|2 2|CHOP
+@@14384|29 29|AP-1
+@@14384|24 25|AP-1 factors
+@@14389|3 3|mAb1C2
+@@14389|33 34|Pol II
+@@14389|36 37|Pol III
+@@14390|10 12|USF-1 and -2
+@@14390|4 8|upstream stimulatory factor-1 and -2
+@@14391|37 37|anti-HBs
+@@14391|17 17|anti-HBs
+@@14393|12 13|CRY2 mRNA
+@@14393|4 4|CRY1
+@@14396|10 11|serum CPN
+@@14397|8 17|autonomously replicating sequence-binding protein 1 from fission yeast Schizosaccharomyces pombe
+@@14398|14 16|soybean HS-protein genes
+@@14398|10 11|HS promoter
+@@14399|0 3|M . leprae OxyR
+@@14399|14 20|oxyR-ahpC intergenic region of M . leprae
+@@14400|10 15|growth hormone gene in rainbow trout
+@@14401|14 15|Y259 scFv
+@@14401|11 12|anti-Ras scFv
+@@14401|27 28|Ras pathway
+@@14401|21 23|anti-Ras mAb Y13-259
+@@14404|0 0|KAR1
+@@14405|33 35|human ERCC3 cDNA
+@@14407|8 8|pp15
+@@14408|1 1|L-plastin
+@@14408|19 20|L-plastin gene
+@@14408|45 45|L-plastin
+@@14411|13 14|bovine gammaglobulin
+@@14412|39 39|NBF2
+@@14412|8 9|NBF2 protein
+@@14412|4 5|NBF1+R protein
+@@14412|37 37|NBF1+R
+@@14413|48 48|CI
+@@14413|16 18|hly target sequences
+@@14413|29 29|CIII
+@@14413|33 33|PrfA
+@@14413|23 23|PrfA
+@@14413|45 46|PrfA-Paf-DNA complex
+@@14413|36 40|109 bp hly DNA fragment
+@@14414|3 3|Ddc1p
+@@14414|9 9|Mec3p
+@@14414|15 15|Rad17p
+@@14418|5 5|urease
+@@14420|20 21|HBs Ag
+@@14421|17 18|GST protein
+@@14421|13 14|LexA protein
+@@14421|1 4|MPS1 open reading frame
+@@14423|1 2|serum insulin
+@@14426|35 37|rat PTH mRNA
+@@14426|26 27|S1 nuclease
+@@14427|20 22|cytoplasmic hnRNP A1
+@@14427|25 27|nuclear hnRNP A1
+@@14427|0 2|RNA polymerase II
+@@14431|5 7|recombinant human erythropoietin
+@@14433|0 3|Receptor protein tyrosine phosphatases
+@@14433|15 15|phosphatase
+@@14433|5 5|RPTPs
+@@14434|8 8|replicases
+@@14435|14 17|lambda I light chain
+@@14438|2 2|Sop1p
+@@14438|17 17|Sop1p
+@@14439|10 10|Ras
+@@14439|31 31|PKC
+@@14442|12 17|human pituitary adenylate cyclase-activating polypeptide receptor
+@@14442|19 19|hPACAP-R
+@@14443|4 8|mouse cytosolic chaperonin subunit gene
+@@14443|15 24|selenocysteine tRNA gene transcription activating factor family zinc finger proteins
+@@14443|9 13|Ccta / t-complex polypeptide 1
+@@14445|7 8|histone acetyltransferase
+@@14445|10 10|HAT
+@@14445|5 5|Tip60
+@@14446|19 20|Sp1 site
+@@14446|6 6|Sp1
+@@14450|6 6|LDL
+@@14453|28 28|LexA
+@@14453|7 7|FadR
+@@14453|33 33|FadR
+@@14454|3 4|S transcripts
+@@14454|11 12|S transcripts
+@@14456|20 22|eIF-2alpha kinase family
+@@14456|2 2|pPKR
+@@14456|11 13|synthetic eIF-2alpha peptide
+@@14458|85 85|PKA
+@@14458|58 60|IGF-I promoter 1
+@@14458|80 83|murine cAMP-dependent protein kinase
+@@14458|108 108|PKA
+@@14458|66 67|IGF-I promoter-luciferase-reporter
+@@14460|6 10|NF kappa B2 nucleoprotein complex
+@@14460|22 25|human IgE germline gene
+@@14460|15 15|STAT6
+@@14461|17 17|Interleukin-2
+@@14461|9 9|CREB
+@@14461|19 19|IL-2
+@@14461|34 36|protein kinase C
+@@14462|26 26|rAMPK
+@@14462|7 7|hAMPK
+@@14464|39 40|T2-type RNases
+@@14464|7 8|S-RNase genes
+@@14467|6 9|Fos family member-specific antibodies
+@@14467|39 39|cJun
+@@14467|24 24|c-jun
+@@14467|25 26|AP-1 site
+@@14467|30 30|Jun
+@@14467|36 36|JunB
+@@14467|4 4|Jun
+@@14467|34 34|JunD
+@@14469|18 18|SAGA
+@@14469|22 22|Spt8
+@@14469|5 6|wild-type SAGA
+@@14469|20 20|Spt3
+@@14469|8 8|TBP
+@@14469|12 13|HIS3 promoter
+@@14475|29 29|Tax
+@@14475|12 12|CBP
+@@14476|1 2|galactose transporter
+@@14476|44 53|S . cerevisiae glucose , maltose , and galactose transporters
+@@14476|35 40|Escherichia coli xylose and arabinose permeases
+@@14476|27 32|rat brain and liver glucose transporters
+@@14476|18 24|human HepG2-erythrocyte and fetal muscle glucose transporters
+@@14476|13 14|sugar transporters
+@@14477|14 14|PTH
+@@14477|16 16|CT
+@@14478|5 5|Pat
+@@14483|18 18|USH1
+@@14484|27 27|Stat5a
+@@14484|6 6|Stat5
+@@14485|33 34|platelet MAO
+@@14485|7 8|platelet MAO
+@@14487|8 9|arginine vasopressin
+@@14491|6 6|LH
+@@14491|9 9|LHRH
+@@14493|23 24|5-HT3 receptor
+@@14495|39 40|alpha2c-AR gene
+@@14496|25 28|G alpha q cDNAs
+@@14496|20 23|mammalian G alpha 11
+@@14500|12 14|nifV-like DNA fragments
+@@14500|23 24|leuA-specific probes
+@@14500|30 31|XbaI fragments
+@@14501|7 7|Akt
+@@14501|1 4|B cell antigen receptor
+@@14501|20 21|phosphatidylinositol 3-kinase
+@@14501|9 11|protein kinase B
+@@14501|13 16|/ glycogen synthase kinase-3
+@@14503|4 4|IS2404
+@@14503|6 6|IS2606
+@@14504|13 13|ZIA
+@@14504|24 24|ZIB
+@@14504|18 18|ZID
+@@14504|15 15|ZIC
+@@14504|3 4|ZI domains
+@@14504|28 28|TPA
+@@14509|8 9|TraR fusion
+@@14510|0 0|Tih1
+@@14510|28 28|Tih1
+@@14510|26 26|Ipl
+@@14512|30 30|Fibrinogen
+@@14513|0 3|Rabbit skeletal muscle glycogenin
+@@14514|14 16|PKB / Akt
+@@14515|26 27|GTP-binding protein
+@@14515|0 0|PIP2
+@@14515|43 44|Dbl oncoprotein
+@@14515|34 34|Cdc42Hs
+@@14515|17 17|Cdc42Hs
+@@14517|5 6|protein kinase
+@@14517|9 12|hematopoietic progenitor kinase 1
+@@14517|14 14|HPK1
+@@14518|41 43|human GnRHR promoter
+@@14518|30 32|human GnRHR gene
+@@14522|8 8|rhIL-11
+@@14522|6 6|oprelvekin
+@@14522|17 18|human IL-11
+@@14524|10 10|PCAT-1
+@@14526|4 4|beta-adrenoceptor
+@@14527|6 7|3B gene
+@@14528|24 25|UP element
+@@14531|4 4|calcitonin
+@@14532|7 9|TK basal promoters
+@@14532|5 5|K19
+@@14536|13 13|IL-8
+@@14538|7 10|chloroplastic ascorbate peroxidase isoenzymes
+@@14538|3 3|ApxII
+@@14541|4 4|GATA-1
+@@14541|0 0|FOG
+@@14542|2 3|C4B proteins
+@@14542|17 19|long C4A genes
+@@14544|16 16|E1
+@@14544|24 24|E1
+@@14547|6 10|SINA-homologous ( Siah ) proteins
+@@14547|15 15|Siah-1A
+@@14549|15 15|ligase
+@@14550|28 30|GPI signal sequences
+@@14550|1 3|GPI anchor moiety
+@@14551|12 14|CDK inhibitor p21Cip1
+@@14551|0 1|CDK4 kinase
+@@14551|17 19|cyclin E immunocomplexes
+@@14552|11 11|Lyp2
+@@14552|8 9|Lyp RNA
+@@14553|8 9|DJ protein
+@@14554|0 0|Fibrin
+@@14555|12 14|mouse c-fos gene
+@@14556|24 26|Drosophila Hox genes
+@@14556|8 10|vertebrate Hox genes
+@@14558|30 31|psi alpha
+@@14558|23 24|alpha 1
+@@14559|6 6|SF-1
+@@14559|20 21|StAR gene
+@@14560|5 7|mouse BCNT proteins
+@@14561|20 20|SAP1
+@@14561|4 5|MADS box
+@@14561|24 29|human MADS box consensus binding site
+@@14561|31 33|serum response factor
+@@14561|46 47|OP4 sequence
+@@14561|16 18|opaque-phase-specific gene PEP1
+@@14563|12 12|LANA2
+@@14563|0 2|ORFK10 . 5
+@@14563|7 10|latency-associated nuclear antigen 2
+@@14564|44 44|SECIS
+@@14564|26 28|type 1 deiodinase
+@@14564|35 36|SECIS element
+@@14564|6 7|SECIS elements
+@@14566|9 9|Sec13
+@@14566|17 19|stomatitis G protein
+@@14566|7 7|Sec31A
+@@14569|0 2|Ig heavy chain
+@@14569|13 14|CH genes
+@@14570|13 14|Hoxb3 genes
+@@14570|11 11|Hoxa3
+@@14570|5 5|kreisler
+@@14573|24 24|CHOP-10
+@@14573|19 22|C / EBP-homologous protein
+@@14575|35 35|IRF
+@@14575|31 33|interferon regulatory factor
+@@14576|22 25|63-kDa gene 4 protein
+@@14576|3 5|primase recognition sequences
+@@14582|25 25|PGK
+@@14582|22 23|phosphoglycerate kinase
+@@14582|13 13|PGK-1
+@@14583|2 3|xanthine oxidase
+@@14584|17 17|osteopontin
+@@14584|18 18|VDRE
+@@14584|12 12|VDR
+@@14585|7 8|DNase I
+@@14585|17 19|ets response element
+@@14585|0 0|HER2
+@@14585|21 21|GAGGAA
+@@14585|41 43|human HER2 promoter
+@@14588|6 6|CK-MB
+@@14591|9 9|CYP51
+@@14591|15 16|P450 monooxygenase
+@@14591|5 7|sterol 14-demethylase P450
+@@14595|16 17|alpha-amylase gene
+@@14595|3 5|abi1-1 gene product
+@@14596|45 46|LOX sites
+@@14596|17 19|LOX recognition sequences
+@@14596|7 8|Cre recombinase
+@@14596|34 34|cre
+@@14597|21 21|SWI4
+@@14597|4 4|SWI4
+@@14599|42 50|Cre-A from Aspergillus , Emericella and E . coli
+@@14599|39 40|yeast Mig1p
+@@14599|28 31|C2H2 zinc finger domain
+@@14601|3 3|Sp1
+@@14601|5 7|zif268 / egr-1
+@@14602|4 4|Pmt3p
+@@14602|15 15|Pmt3p
+@@14606|7 8|p21 Ras
+@@14606|11 11|p21
+@@14606|5 5|M-Ras
+@@14607|10 11|Pbx1 sites
+@@14607|8 8|Engrailed
+@@14613|5 7|tissue-type plasminogen activator
+@@14615|16 19|phage lambda cI repressor
+@@14616|34 34|Dr1
+@@14616|6 7|Dr1-like protein
+@@14618|5 6|promoter B
+@@14618|20 21|promoter A
+@@14621|14 15|alpha-adrenergic receptor
+@@14621|9 11|angiotensin converting enzyme
+@@14622|16 17|PEP4 gene
+@@14623|3 5|C reactive protein
+@@14624|11 11|IgG
+@@14624|8 9|immunoglobulin G
+@@14624|22 22|IgG
+@@14624|19 19|IgG
+@@14626|8 10|SREBP cleavage-activating protein
+@@14627|9 10|insulin receptor
+@@14630|32 34|plasma glutathione peroxidase
+@@14630|36 36|GSH-Px
+@@14634|9 12|DNA polymerases of trypanosomes
+@@14634|35 39|DNA polymerase alpha catalytic core
+@@14634|41 42|pol alpha
+@@14635|7 13|human immunodeficiency virus type 1 gag gene
+@@14635|22 24|P1 capsid protein
+@@14637|17 18|barley globulins
+@@14637|0 0|Beg2
+@@14637|2 2|Beg1
+@@14639|14 17|ovomucoid serine protease inhibitors
+@@14640|38 38|albumin
+@@14640|28 29|serum globulins
+@@14640|22 23|alanine aminotransferase
+@@14641|0 1|Oncostatin M
+@@14641|3 3|c-Fos
+@@14641|13 17|tissue inhibitor of metalloproteinase-1 promoter
+@@14641|9 10|AP-1 element
+@@14644|26 28|p59 ( fyn
+@@14644|33 33|PKC
+@@14644|40 40|PKC
+@@14644|35 35|MEK
+@@14644|12 18|fibroblast growth factor ( FGF ) receptor
+@@14644|31 31|PLC
+@@14644|23 25|nonreceptor tyrosine kinase
+@@14645|4 4|S1
+@@14645|43 44|alpha operon
+@@14645|58 58|IF1
+@@14645|60 60|L17
+@@14647|12 12|IE110
+@@14647|14 14|IE175
+@@14648|4 5|U1A peptide
+@@14648|10 10|BSA
+@@14648|13 14|vertebrate PAP
+@@14649|3 4|serum IgE
+@@14653|22 22|CAT
+@@14653|3 4|helicase-primase proteins
+@@14654|4 5|hGCSFR gene
+@@14656|6 6|SRP54sc
+@@14656|16 16|SRP54mam
+@@14656|8 8|SRP54sp
+@@14657|1 3|proliferation potential protein-related
+@@14657|16 16|Rb1
+@@14657|5 5|P2P-R
+@@14658|41 43|dioxin response elements
+@@14658|2 10|basic region / helix-loop-helix ( bHLH ) dioxin receptor
+@@14659|10 10|casein
+@@14660|7 7|enkephalins
+@@14662|14 14|mcl-1
+@@14662|2 2|mcl-1
+@@14663|9 10|fasD mutants
+@@14664|2 2|dentin
+@@14664|7 7|dentin
+@@14665|4 5|Vp1 DBD
+@@14665|14 14|NLS
+@@14666|23 23|Krox-20
+@@14667|8 8|EBS-CRE
+@@14667|4 4|c-Jun
+@@14667|2 2|ERM
+@@14672|12 12|Id-SCL
+@@14673|5 9|Rac / Cdc42 / Pak
+@@14673|15 15|Raf-1
+@@14674|31 32|aFGF protein
+@@14675|13 14|MKK1 mutant
+@@14675|22 24|cyclin D1 protein
+@@14675|17 18|cyclin D1
+@@14676|4 16|vpr open reading frame of human immunodeficiency virus type 1 ( HIV-1 )
+@@14676|35 35|Gag
+@@14677|3 3|tat
+@@14677|29 29|tat
+@@14677|11 12|tat ORF
+@@14682|14 17|SWI4 , 6-dependent genes
+@@14684|27 27|IgA
+@@14684|15 15|IgA
+@@14685|0 0|Lysozyme
+@@14686|0 2|Human thymine-DNA glycosylase
+@@14687|6 6|IRF-1
+@@14687|12 13|IRF element
+@@14688|16 16|cRel
+@@14688|5 7|LexA fusion proteins
+@@14692|14 15|HIV-1 nef
+@@14692|18 18|TCRzeta
+@@14692|9 10|HIV-2 nef
+@@14695|6 6|antiphospholipid-antibodies
+@@14696|5 6|SH2 domain
+@@14696|28 28|MT
+@@14696|23 26|polyomavirus middle T antigen
+@@14696|14 14|SH2
+@@14700|8 8|ACTH
+@@14701|14 15|RNA polymerase
+@@14703|1 2|Tbx6-subfamily gene
+@@14710|13 16|alpha 2 integrin gene
+@@14710|8 8|PKC-zeta
+@@14711|29 29|BMAL1
+@@14711|24 24|mAhr
+@@14711|17 17|mBMAL1
+@@14711|3 7|bHLH / PAS family genes
+@@14711|31 31|Ahr
+@@14720|36 36|myrosinases
+@@14720|18 19|MB cDNA
+@@14720|25 25|myrosinases
+@@14720|23 24|MA type
+@@14720|13 16|B . napus MA
+@@14720|34 35|MB type
+@@14721|21 21|Sko1p
+@@14721|3 3|SKO1
+@@14721|10 11|hog1 mutant
+@@14721|6 6|ENA1
+@@14723|2 2|FUS
+@@14726|3 4|apeA gene
+@@14726|13 13|proteinases
+@@14726|18 19|aminopeptidase N
+@@14726|15 16|protease IV
+@@14727|7 9|methylmalonyl-CoA mutase gene
+@@14727|11 11|mutAB
+@@14727|40 40|amk
+@@14727|34 38|serine / threonine protein kinase
+@@14729|15 15|NC
+@@14730|21 22|alkaline phosphatase
+@@14730|24 24|transaminases
+@@14732|5 7|zinc finger protein
+@@14732|1 2|Mig1 repressor
+@@14734|14 14|M-NAP
+@@14734|3 3|SLK
+@@14734|8 12|microtubule and nuclear associated protein
+@@14734|17 17|AT1-46
+@@14736|4 5|35S-1-sst construct
+@@14737|1 2|IL-8 receptor
+@@14737|15 15|Gi
+@@14737|17 17|G16
+@@14737|11 13|heterotrimeric G proteins
+@@14739|11 12|cytochrome b6
+@@14739|28 29|subunit IV
+@@14739|14 15|subunit IV
+@@14740|27 27|FGF8e
+@@14740|24 24|FGF8b
+@@14740|22 22|FGF8a
+@@14742|11 11|traG
+@@14742|4 9|IncP alpha plasmid transfer genes traF
+@@14742|15 15|traF
+@@14743|23 24|protein kinases
+@@14744|5 5|lumican
+@@14744|7 7|keratocan
+@@14745|4 6|human beta-catenin gene
+@@14745|8 8|CTNNB1
+@@14746|10 11|T3R alpha
+@@14746|28 28|rGH
+@@14746|6 8|T3 receptor alpha
+@@14746|39 39|T3R
+@@14746|29 29|T3RE
+@@14747|3 5|mouse STAP gene
+@@14747|14 15|STAP gene
+@@14752|1 2|glutathione reductase
+@@14753|3 11|truncated inositol 1 , 4 , 5-trisphosphate receptor subunits
+@@14755|4 5|EBNA genes
+@@14755|25 25|Wp
+@@14755|23 23|Cp
+@@14756|29 29|lacZ
+@@14756|6 6|Cdc42
+@@14756|10 12|morphogenetic G protein
+@@14756|23 26|FG ( TyA )
+@@14756|3 5|Rho family protein
+@@14758|19 21|rat Yb1 gene
+@@14758|27 27|pmGT2
+@@14758|6 6|pmGT10
+@@14758|37 39|rat Yb2 gene
+@@14760|4 6|aroF regulatory regions
+@@14760|35 39|E . coli TyrR repressor
+@@14760|8 8|lacZ
+@@14760|30 30|aroF-lacZ
+@@14760|24 24|beta-Galactosidase
+@@14762|8 8|Jak-Stat
+@@14762|10 12|AP-1 signaling pathways
+@@14762|5 5|CyRE
+@@14762|4 4|VIP
+@@14764|11 11|ERKs
+@@14764|22 24|c-Jun amino-terminal kinases
+@@14764|13 18|p42 / 44 ( MAPK )
+@@14764|31 36|p38 / Hog 1 protein kinases
+@@14764|26 26|JNKs
+@@14764|3 4|MAPK family
+@@14764|7 9|extracellular response kinases
+@@14766|15 15|ALG-2
+@@14767|13 13|dsh
+@@14767|10 11|Drosophila dishevelled
+@@14769|1 1|ISREs
+@@14770|5 5|methyltransferase
+@@14771|9 9|BPK
+@@14771|11 14|B cell progenitor kinase
+@@14771|4 6|cytoplasmic tyrosine kinase
+@@14775|22 22|Zip
+@@14775|20 20|HLH-Zip
+@@14776|0 0|Glycogen
+@@14777|1 4|sterol regulatory element-like sequences
+@@14777|8 9|caveolin gene
+@@14777|14 16|low density lipoprotein
+@@14778|16 16|Vp2
+@@14778|6 7|mutant Vp1s
+@@14778|24 25|mutated NLS1
+@@14778|18 18|Vp3
+@@14778|36 36|Vp1
+@@14781|13 14|yeast NHP6A
+@@14781|1 2|HMG domain
+@@14781|5 6|HMG20 proteins
+@@14782|11 11|Spc1
+@@14782|4 4|mcs4-
+@@14783|7 8|CDC2-related kinase
+@@14783|13 15|budding yeast cdc28
+@@14785|7 7|sBMPR-IA
+@@14785|15 15|thioredoxin
+@@14785|35 35|enterokinase
+@@14787|13 14|Ig members
+@@14788|10 10|p62
+@@14788|12 12|Nsplp
+@@14788|6 8|xFxFG repeat regions
+@@14788|15 15|NTF2
+@@14789|17 18|ToxR protein
+@@14790|26 27|HTLV-1 LTR
+@@14794|18 20|IL-6 response elements
+@@14794|2 6|interleukin ( IL ) -10
+@@14794|8 9|IL-6-type cytokines
+@@14796|10 18|major histocompatibility complex ( MHC ) class I molecules
+@@14797|2 3|retrotransposon Ty5
+@@14800|14 19|E / S and CWE antigens
+@@14801|3 6|cerebrospinal fluid immunoglobulin G
+@@14801|8 8|IgG
+@@14803|9 9|FGFR
+@@14806|17 17|IgM
+@@14806|21 21|IgG
+@@14806|12 13|serum ANA
+@@14806|15 15|IgA
+@@14808|1 3|peroxisome proliferator-activated receptors
+@@14808|11 14|nuclear hormone receptor superfamily
+@@14808|5 5|PPARs
+@@14809|5 15|tRNA ( trp ) ( CCA ) -gene transcript in mitochondria
+@@14810|18 18|Rb
+@@14810|23 23|p130
+@@14810|9 9|E2F
+@@14810|0 1|Cyclin A
+@@14810|34 34|Rb
+@@14810|20 20|p107
+@@14810|37 38|E2F-p107 complexes
+@@14810|27 27|v-Jun
+@@14812|11 13|alpha1 , 4-N-acetylglucosaminyltransferase
+@@14812|6 7|rib-2 protein
+@@14813|1 2|ipiO genes
+@@14814|24 24|TNFalpha
+@@14814|19 22|tumor necrosis factor alpha
+@@14814|9 9|EpCAM
+@@14816|44 44|IgE
+@@14816|17 18|epsilon RNA
+@@14816|23 25|luciferase reporter gene
+@@14819|11 11|c-Abl
+@@14819|21 23|RNA polymerase II
+@@14820|14 14|Seb1p
+@@14820|6 6|SEB2
+@@14820|1 1|SEB1
+@@14821|18 21|F-box / WD-repeat proteins
+@@14821|2 4|Fission yeast SCF
+@@14821|8 8|Pop1
+@@14821|10 10|Pop2
+@@14823|11 14|nitrate reductase in tobacco
+@@14824|0 0|IL-2
+@@14825|8 8|pepX
+@@14825|35 35|GlnR
+@@14825|37 38|GlnA proteins
+@@14826|23 23|D11S1765
+@@14826|25 25|uteroglobin
+@@14827|5 6|plasma renin
+@@14830|22 22|Sec13p
+@@14830|8 10|Sec23p protein complex
+@@14830|5 5|Sar1p
+@@14830|12 12|Sec23p
+@@14830|18 20|Sec13p protein complex
+@@14830|14 14|Sec24p
+@@14830|1 2|coat protein
+@@14830|26 29|150-kDa protein , p150
+@@14832|13 14|sigma54 activators
+@@14832|31 32|CRP-cAMP complex
+@@14832|7 7|CRP
+@@14832|28 28|Esigma54
+@@14832|2 3|Esigma54 promoters
+@@14834|25 25|SxlM1
+@@14834|20 20|SxlM4
+@@14835|34 39|anti- ( mouse Ig ) antibodies
+@@14835|23 24|anti-CD20 antibodies
+@@14835|21 21|CD20
+@@14838|41 41|ankyrin
+@@14838|27 29|p84 / 85
+@@14838|35 36|rel domain
+@@14838|52 52|ankyrin
+@@14839|18 24|chalcone synthase ( CHS ) minimal promoter
+@@14839|5 5|LRU1
+@@14839|0 3|Light regulatory unit 1
+@@14841|15 15|PTA1
+@@14841|2 13|cDNAs encoding gibbon and monkey platelet and T cell activation antigen 1
+@@14842|0 0|JNK
+@@14842|11 11|Cdc42
+@@14842|9 9|Rac
+@@14842|7 8|G proteins
+@@14843|6 6|XT3
+@@14844|8 8|bruno
+@@14844|6 6|apontic
+@@14845|3 4|POR2 gene
+@@14845|18 18|POR1
+@@14845|39 42|delta por1 single mutants
+@@14845|20 21|POR2 genes
+@@14846|5 5|carboxyhemoglobin
+@@14849|20 20|NIMA
+@@14849|9 9|NIMA
+@@14849|11 11|NIM-1
+@@14849|15 16|protein kinases
+@@14851|12 13|SpEts4 gene
+@@14851|5 7|SpHE transcriptional regulator
+@@14851|20 20|SpHE
+@@14853|7 9|GHF-1 / Pit-1
+@@14853|2 2|Ets-1
+@@14853|5 6|POU-homeodomain protein
+@@14858|3 9|Neurospora crassa mitochondrial outer membrane protein TOM70
+@@14859|2 3|ER3 sequence
+@@14859|13 14|FXR HRE
+@@14862|2 2|Pet111p
+@@14862|14 14|Cox2p
+@@14863|1 2|Maf proteins
+@@14863|9 13|TCF11 / Nrf1 / LCR-F1
+@@14867|12 12|transglutaminase
+@@14869|3 3|ALT
+@@14869|0 1|Alanine aminotransferase
+@@14870|3 4|creatine kinase
+@@14870|9 9|albumin
+@@14870|11 11|immunoglobulin
+@@14871|0 0|Gastrin
+@@14873|11 12|human PKC-delta
+@@14873|42 45|human PKC family members
+@@14875|4 4|Mad
+@@14875|7 7|Myc
+@@14875|2 2|Mxi1
+@@14876|16 16|luciferase
+@@14880|3 5|phenylalanine hydroxylase gene
+@@14881|20 20|SOS1
+@@14881|13 13|PLC-gamma1
+@@14881|10 11|SH3 domain
+@@14882|3 7|tyrosine kinase signal transduction gene
+@@14882|27 28|oncoprotein E2a-Pbx1
+@@14882|0 0|EB-1
+@@14883|4 4|RhoA
+@@14883|11 11|Luc
+@@14883|0 1|C3 toxin
+@@14883|9 9|SRE
+@@14883|20 20|c-Fos
+@@14885|4 4|AP-1
+@@14885|7 7|ets
+@@14886|9 9|SSE
+@@14886|2 2|SSP
+@@14886|5 7|stage selector element
+@@14886|14 15|gamma-globin promoter
+@@14886|25 25|beta-promoter
+@@14887|26 29|proliferating cell nuclear antigen
+@@14887|22 24|DNA polymerase alpha
+@@14887|5 8|Drosophila DNA replication-related element
+@@14888|15 17|Escherichia coli haemolysin
+@@14892|14 15|Raf kinases
+@@14892|22 22|TFIIE
+@@14895|0 1|Plasma renin
+@@14897|9 9|endotoxin
+@@14899|3 3|MyoD
+@@14899|10 10|E1
+@@14901|3 5|pol alpha-primase complex
+@@14903|5 6|mammalian FGF3s
+@@14904|18 20|ERK1 / 2
+@@14904|35 35|STAT5a
+@@14904|13 13|STAT5a
+@@14904|5 6|glutathione-S-transferase-fusion protein
+@@14905|6 7|ornithine transcarbamylase
+@@14906|0 0|IL-1beta
+@@14906|12 16|CCAAT / enhancer-binding protein delta
+@@14906|18 20|C / EBPdelta
+@@14906|10 10|PDGFalphaR
+@@14908|8 8|endonuclease
+@@14908|14 14|YDC2
+@@14908|12 12|CCE1
+@@14908|0 2|Holliday junction resolvase
+@@14909|15 15|Pho81p
+@@14910|10 11|helix-turn-helix motif
+@@14910|18 18|IE2
+@@14910|0 0|IE2-IE2
+@@14911|26 30|human beta-globin locus control region
+@@14911|18 20|hypersensitive site 2
+@@14911|8 8|HS2NF5
+@@14911|32 32|LCR
+@@14911|22 22|HS2
+@@14913|41 42|S1 nuclease
+@@14913|5 7|4-kb EcoRI fragment
+@@14913|25 26|opn gene
+@@14917|3 3|insulin
+@@14917|5 6|PDGF receptor
+@@14918|1 6|Trk / Nerve Growth Factor receptor
+@@14918|20 21|phosphatidylinositol 3-kinase
+@@14918|23 24|PI 3-kinase
+@@14921|11 13|C / EBP
+@@14921|5 5|HFH-1
+@@14921|7 7|HFH-2
+@@14921|2 3|HNF-3 beta
+@@14921|9 9|HFH-3
+@@14921|16 19|C / EBP beta
+@@14923|4 5|GRF genes
+@@14924|2 4|muscarinic acetylcholine receptors
+@@14926|5 5|ferritin
+@@14926|12 12|Hb
+@@14926|10 10|hemoglobin
+@@14930|13 14|met2 mutation
+@@14933|12 12|zeta
+@@14933|18 19|SH2 domains
+@@14933|32 33|zeta ITAM
+@@14933|1 3|Fyn NH2 terminus
+@@14933|15 16|Fyn kinase
+@@14933|26 27|zeta ITAM
+@@14934|4 4|alpha-MSH
+@@14935|24 26|Proteus gene cluster
+@@14935|6 6|urease
+@@14936|7 8|RAB subfamily
+@@14936|1 4|small monomeric GTP-binding proteins
+@@14940|4 6|tissue-specific plastin isoforms
+@@14942|9 11|syntenic region 8E1
+@@14943|4 6|Tec family kinases
+@@14945|16 16|bcd
+@@14945|13 14|bicoid protein
+@@14948|26 27|P-450e gene
+@@14948|14 15|gene IV
+@@14950|2 5|maternal serum somatomedin A
+@@14951|11 11|GATA-1
+@@14953|57 57|SHP2
+@@14953|34 40|signal transducer and activator of transcription factors
+@@14953|16 16|Jak
+@@14953|50 50|SH2
+@@14953|46 48|src homology domain
+@@14953|13 14|Janus kinases
+@@14953|22 25|signal transducing subunit gp130
+@@14953|53 55|protein tyrosine phosphatase
+@@14953|43 43|STAT1
+@@14953|41 41|STAT3
+@@14954|0 1|Alanine aminotransferase
+@@14956|11 11|ARF-GEP
+@@14956|15 16|Sec7 domain
+@@14957|1 2|Sp1 region
+@@14957|15 17|viral tat factor
+@@14958|3 5|chromosomal AAR1 gene
+@@14961|46 46|polymerase
+@@14961|27 27|CYP1
+@@14961|39 41|CYP3-specific DNA fragment
+@@14961|29 29|CYP2
+@@14962|32 35|tRNA ( Gly )
+@@14962|28 28|UTR3
+@@14962|37 37|RAD7
+@@14962|26 26|UTR1
+@@14962|11 15|7 . 5-kb COR segment
+@@14962|30 30|OSM1
+@@14962|24 24|CYC1
+@@14967|11 11|maoA
+@@14967|16 18|amine oxidase gene
+@@14967|4 9|copper- and topa quinone-containing monoamine oxidase
+@@14971|4 6|TATAA binding protein
+@@14971|2 3|human Antp
+@@14971|20 21|homeobox gene
+@@14973|12 13|TGn motif
+@@14976|5 5|HLA-B5
+@@14977|24 24|AChE
+@@14978|17 17|fos-B
+@@14978|34 36|serum response factor
+@@14978|22 22|egr-2
+@@14978|3 3|c-fos
+@@14978|42 43|immediate-early gene
+@@14978|19 19|fra-1
+@@14978|5 6|egr-1 mRNAs
+@@14979|12 12|GCN4
+@@14979|4 6|dominant GCN2 mutations
+@@14982|22 23|CaM-kinase II
+@@14983|7 7|E2
+@@14983|5 5|E1
+@@14984|3 6|immunoglobulin C mu gene
+@@14995|8 8|DnaK
+@@14995|3 4|complete DnaJ
+@@14995|14 14|GrpE
+@@14995|18 20|denatured firefly luciferase
+@@14996|11 12|cloned hUBF
+@@14996|29 31|rRNA gene promoter
+@@14997|5 9|CCAAAT / Enhancer binding protein-beta
+@@14997|11 13|C / EBP-b
+@@14997|30 30|GATE
+@@14997|25 28|gamma-IFN activated transcriptional element
+@@14997|21 22|IFN-response element
+@@14999|7 9|RNA polymerase II
+@@14999|11 12|TATA-binding protein
+@@14999|27 29|RNA polymerase II
+@@14999|61 63|mammalian TATA-binding proteins
